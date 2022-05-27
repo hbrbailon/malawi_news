@@ -1,0 +1,10 @@
+party
+items
+utm
+people
+general
+government
+food
+victims
+affected
+secretary

@@ -1,0 +1,10 @@
+weather
+southern
+malawi
+heavy
+department
+mozambique
+rains
+winds
+statement
+public
