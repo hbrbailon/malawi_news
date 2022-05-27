@@ -1,0 +1,26 @@
+Malawian NORP
+45 CARDINAL
+Lower Shire GPE
+The Department of Disaster Management Affairs ORG
+45 CARDINAL
+577 CARDINAL
+Monday 11th March 2019 DATE
+Monday DATE
+about 147,958 CARDINAL
+approximately 739,790 CARDINAL
+15,185 CARDINAL
+187 CARDINAL
+14 CARDINAL
+the Lower Shire GPE
+the Lower Shire GPE
+Friday DATE
+Malawian NORP
+Peter Mutharika PERSON
+earlier in the week DATE
+Malawi’s ORG
+The World Food Programme ORG
+WFP ORG
+two CARDINAL
+UN Childrens’ Fund ORG
+the UN Food and Agriculture Organisation ORG
+WFP ORG

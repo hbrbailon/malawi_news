@@ -1,0 +1,54 @@
+Chiradzulu West Trust Fund ORG
+Malawi GPE
+last week DATE
+Trust Fund ORG
+Chiradzulu ORG
+hundred CARDINAL
+Wednesday DATE
+Evelyn Mwapasa PERSON
+the Trust Fund ORG
+thousands CARDINAL
+the Southern Region LOC
+’s Community Development Committee ORG
+CDC ORG
+CDC ORG
+Parliament ORG
+Emmanuel Fabiano PERSON
+the Trust Fund’s ORG
+Fabiano PERSON
+the Trust Fund’s ORG
+Chiradzulu West ORG
+Mwapasa GPE
+Malawi Air Cargo ORG
+Trustees NORP
+Sosten Chiotha PERSON
+LEAD ORG
+Zomba GPE
+Masauko Msungama PERSON
+Graham Chipande PERSON
+Blantyre ORG
+Mwachi Ltd Medson Kalambule ORG
+Lauren Meke Phiri PERSON
+Kalimba PERSON
+Chiradzulu GPE
+65,380 CARDINAL
+Department of Disaster Management ORG
+the Trust Fund ORG
+100 CARDINAL
+Mpama PERSON
+Trustee ORG
+Kalambule ORG
+the Trust Fund ORG
+Chiradzulu West FAC
+first ORDINAL
+Fabiano PERSON
+CDC ORG
+one year DATE
+their final year DATE
+this Trust Fund ORG
+One CARDINAL
+Fund ORG
+Youth Centre FAC
+Village Headman Kowela PERSON
+Group Village ORG
+Headman Ulaya PERSON

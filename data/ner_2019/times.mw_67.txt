@@ -1,0 +1,27 @@
+House ORG
+2 CARDINAL
+Yohane Symon PERSON
+Two CARDINAL
+Mangochi District LOC
+Saturday DATE
+night TIME
+Mangochi District Commissioner LOC
+53-year-old DATE
+six-year-old DATE
+Rose Ayami PERSON
+Msinje Village GPE
+Traditional Authority ORG
+two CARDINAL
+19 CARDINAL
+November 2018.“It DATE
+two CARDINAL
+one CARDINAL
+Chimphepo ORG
+Koche Health Centre ORG
+two CARDINAL
+Homeland Security ORG
+Nicholas Dausi PERSON
+Disaster Management Affairs ORG
+Last week DATE
+two CARDINAL
+over 176 CARDINAL

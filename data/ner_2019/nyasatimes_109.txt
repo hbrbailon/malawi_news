@@ -1,0 +1,27 @@
+Vision Malawi ORG
+eight CARDINAL
+Chikwawa GPE
+World Vision ORG
+Monday DATE
+World Vision ORG
+HezelNyathi ORG
+one CARDINAL
+thousands CARDINAL
+first ORDINAL
+Chikwawa GPE
+thousands CARDINAL
+seven CARDINAL
+Chikwawa GPE
+Nyathi ORG
+World Vision   ORG
+InTizola Village GPE
+Group Village ORG
+Headman Chikuse PERSON
+the evening of TIME
+January 25 DATE
+five  days DATE
+Shire River GPE
+An estimated 5000 CARDINAL
+6 CARDINAL
+World Vision ORG
+Red Cross ORG

@@ -1,0 +1,44 @@
+Malawi PERSON
+K8.7 ORG
+Red Cross ORG
+ICT ORG
+TNM Plc ORG
+Malawi Red Cross Society ORG
+Sobhuza Ngwenya PERSON
+TNM ORG
+the State of Disaster ORG
+14 CARDINAL
+20 kg QUANTITY
+4.5 CARDINAL
+2 litre QUANTITY
+2 kg QUANTITY
+500 CARDINAL
+about 2,000 CARDINAL
+Malawi Red Cross Society ORG
+3 CARDINAL
+Nsanje GPE
+Chikwawa PERSON
+Ngwenya ORG
+TNM ORG
+Red Cross ORG
+TNM ORG
+Malawi Red Cross Society ORG
+The Red Cross ORG
+TNM Plc ORG
+TNM ORG
+Malawian NORP
+Malawi Red Cross ORG
+Malawi Red Cross ORG
+Programmes and Development ORG
+Prisca Chisala GPE
+2015 DATE
+Chisala PERSON
+Chisala PERSON
+TNM ORG
+the Department of Disaster Management Affairs ORG
+the Ministry of Homeland Security ORG
+56 CARDINAL
+this week DATE
+Malawi PERSON
+Mozambique NORP
+Cyclone Idai PRODUCT

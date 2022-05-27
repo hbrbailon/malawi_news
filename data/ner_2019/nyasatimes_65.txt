@@ -1,0 +1,29 @@
+Tanzania GPE
+Malawi PERSON
+Cyclone Idai PRODUCT
+the United Republic of Tanzania GPE
+donating 200 metric tons QUANTITY
+Friday DATE
+Malawi ORG
+Karonga Admarc PERSON
+Tanzanian NORP
+Malawi ORG
+Benedicto Martin Mashiba PERSON
+Malawi PERSON
+Peter Mutharika PERSON
+March 10 DATE
+the Southern Region LOC
+59 CARDINAL
+Malawi PERSON
+John Pombe PERSON
+Magufuli GPE
+Mashiba ORG
+the Department of Disaster Management Affairs ORG
+Levi Manda PERSON
+Tanzania GPE
+13 CARDINAL
+more than 400,000 CARDINAL
+two CARDINAL
+Manda PERSON
+Paramount ORG
+Karonga District LOC

@@ -1,0 +1,49 @@
+176 CARDINAL
+Lilongwe GPE
+At least 176 CARDINAL
+Chipasula, Kaliyeka and ORG
+Kawale GPE
+Chipasula River LOC
+at least two hours TIME
+Thursday DATE
+The Ministry of Homeland Security ORG
+Nicholas Dausi PERSON
+Friday DATE
+“Thank ORG
+the day DATE
+night TIME
+Chipasula PERSON
+around 3 o’clock in the afternoon TIME
+at least two hours TIME
+Chipasula River LOC
+32 year old DATE
+Doreen Kanyoza WORK_OF_ART
+12 year DATE
+a few metres QUANTITY
+about an hour TIME
+Kanyoza ORG
+three CARDINAL
+last year DATE
+Biwi ORG
+John Banda PERSON
+Chipasula River LOC
+Chidzanja Bridge PERSON
+Chipasula PERSON
+70 year old DATE
+Willam Mazoni PERSON
+Chipasula Secondary School ORG
+23 CARDINAL
+“Lilongwe City GPE
+Mazoni PERSON
+16 years DATE
+Chipasula River LOC
+Mazoni PERSON
+three CARDINAL
+16 CARDINAL
+Kaliyeka Ward PERSON
+Richard Banda PERSON
+Chipasula River LOC
+the past three consecutive years DATE
+Lilongwe District LOC
+Kawale GPE
+Chipasula GPE

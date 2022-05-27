@@ -1,0 +1,42 @@
+Mia PERSON
+Malawi Congress Party ORG
+May 2019 DATE
+Sidik Mia PERSON
+Shire Valley LOC
+this year DATE
+Malawi PERSON
+Sidik Mia Foundation ORG
+four CARDINAL
+Chikwawa PERSON
+later in the afternoon TIME
+Nsanje PERSON
+Mia PERSON
+Kulima GPE
+Chikwawa GPE
+first ORDINAL
+Ufa PERSON
+Mia PERSON
+Shire Valley LOC
+Mia PERSON
+Sidik Mia Foundation ORG
+Malawi Broadcasting Corporation ORG
+Lyson Sibande ORG
+MCP ORG
+Manifesto ORG
+Lilongwe GPE
+the weekend DATE
+Sibande ORG
+MCP ORG
+Mia PERSON
+Manifesto ORG
+Mia PERSON
+Manifesto ORG
+Lazarus Chakwera PERSON
+Manifesto ORG
+Over 5 million CARDINAL
+minutes TIME
+that day DATE
+Mia PERSON
+Mia PERSON
+MCP ORG
+May 21 DATE

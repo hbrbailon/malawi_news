@@ -1,0 +1,31 @@
+UK GPE
+Malawi GPE
+British NORP
+the Department for International Development ORG
+Malawi PERSON
+up to £6 million MONEY
+Idai FAC
+Mozambique GPE
+Zimbabwe GPE
+International Development ORG
+Penny Mordaunt PERSON
+Monday DATE
+UN ORG
+900 000 CARDINAL
+Malawi GPE
+600 000 CARDINAL
+Mozambique NORP
+Malawi GPE
+UK GPE
+the World Food Programme ORG
+140 CARDINAL
+the end of March DATE
+£6 million MONEY
+UK GPE
+Mordaunt PERSON
+International Development ORG
+Zimbabwe GPE
+UK GPE
+DFID ORG
+UN ORG
+Red Cross ORG

@@ -1,0 +1,52 @@
+FDH Bank ORG
+K13 ORG
+FDH Bank ORG
+K13 million LAW
+56 CARDINAL
+thousands CARDINAL
+last week DATE
+FDH Bank ORG
+Crispin Chikwama PERSON
+Blantyre GPE
+Monday DATE
+about a week ago DATE
+Chikwama PERSON
+Malawians NORP
+Malawian NORP
+Bank ORG
+K3 million CARDINAL
+Adventist Development and Relief Agency ORG
+ADRA ORG
+K3 million CARDINAL
+Chikwawa PRODUCT
+Nsanje ORG
+District Councils ORG
+Blantyre PERSON
+the Blantyre City Council ORG
+FDH Bank ORG
+Thursday DATE
+last week DATE
+K1 PERSON
+Zomba District LOC
+Zomba City Council ORG
+the board of FDH Group ORG
+first ORDINAL
+FDH Bank ORG
+Chikwama PERSON
+ADRA ORG
+Hastings Lancha PERSON
+FDH Bank ORG
+K3 million CARDINAL
+ADRA ORG
+500 CARDINAL
+Phalombe GPE
+Corporate Social Responsibility ORG
+ADRA ORG
+FDH Bank ORG
+Mosquito PERSON
+Soap PERSON
+500 CARDINAL
+Lancha ORG
+Blantyre City Council Public Relations ORG
+Anthony Kasunda PERSON
+FDH Bank ORG

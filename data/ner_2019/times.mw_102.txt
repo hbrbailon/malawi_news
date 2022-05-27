@@ -1,0 +1,24 @@
+Met Department ORG
+Jameson Chauluka PERSON
+Malawi PERSON
+the next few days DATE
+the Southern Region LOC
+the Department of Climate Change and Meteorological Services ORG
+Mozambican NORP
+some 390 kilometers QUANTITY
+Southern NORP
+Malawi GPE
+Mozambique NORP
+Nsanje District LOC
+Monday DATE
+today DATE
+the Southern Region LOC
+14:00 hours TIME
+Monday January 21st DATE
+Mozambique NORP
+Southern Malawi PERSON
+21 CARDINAL
+the last six months DATE
+Malawi GPE
+later this week DATE
+the Southern Region LOC

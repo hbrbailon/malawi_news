@@ -1,0 +1,35 @@
+256 CARDINAL
+Salima GPE
+60 hectares QUANTITY
+Ntchisi GPE
+About 256 CARDINAL
+Ntauchila Village GPE
+Traditional Authority Pemba ORG
+Salima GPE
+Lifidzi River LOC
+Charles Sipaida PERSON
+around 4:00 pm Monday TIME
+Sipaida ORG
+Desk Officer PERSON
+Brino Kamanga PERSON
+Salima District Council ORG
+Tuesday DATE
+the Department of Disaster Management Affairs ORG
+Kamanga ORG
+Kamanga ORG
+Kamanga ORG
+Kamanga ORG
+115 CARDINAL
+96 CARDINAL
+five CARDINAL
+Traditional Authority Chilooko’s ORG
+Ntchisi GPE
+Bua River GPE
+Agricultural Extension Development Coordinator ORG
+Joseph Nanthambwe PERSON
+Sunday DATE
+Monday this week DATE
+186 CARDINAL
+Group Village ORG
+Headman Njowe PERSON
+the Department of Disaster and Management Affairs ORG

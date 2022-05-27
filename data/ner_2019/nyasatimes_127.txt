@@ -1,0 +1,24 @@
+Malawi PERSON
+Lotus Hotel ORG
+Blantyre GPE
+Saturday DATE
+Nyasa Times ORG
+thousands CARDINAL
+two CARDINAL
+Nsanje GPE
+Chikwawa ORG
+one CARDINAL
+Ceaser Fatchi PERSON
+K500 000 MONEY
+K1 million MONEY
+Said Fatchi PERSON
+Malawians NORP
+Mia PERSON
+Chikwawa PERSON
+Nsanje ORG
+Mia PERSON
+days DATE
+Mia PERSON
+Chikwawa PERSON
+Nsanje ORG
+Mia PERSON

@@ -1,0 +1,42 @@
+Belgium GPE
+Ronny van Geneugden PERSON
+Wednesday DATE
+Mwalija PRODUCT
+Chikwawa GPE
+Flames ORG
+James Sangala PERSON
+Geneugden PERSON
+Belgium GPE
+Malawi PERSON
+some two years ago DATE
+Chikwawa District Commissioner ORG
+Lusizi Nhlane PERSON
+RVG ORG
+Nhlane PERSON
+Innocent Jumbe PERSON
+Peter Joseph PERSON
+RVG ORG
+today DATE
+Jumbe PERSON
+Chikwawa GPE
+15,000 CARDINAL
+58,000 CARDINAL
+37 CARDINAL
+Malawi PERSON
+FAM ORG
+this Friday DATE
+Belgian NORP
+two-year DATE
+Malawi ORG
+Flames ORG
+21 CARDINAL
+two CARDINAL
+eight CARDINAL
+11 CARDINAL
+first ORDINAL
+two CARDINAL
+Flames ORG
+Kenya 0-0 PERSON
+Flames ORG
+one and a half years ago DATE
+Togo’s Hawks ORG

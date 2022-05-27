@@ -1,0 +1,42 @@
+Mozambicans NORP
+Malawi ORG
+Makhanga PERSON
+Mozambicans NORP
+Malawi ORG
+Nsanje GPE
+Malawians NORP
+Nsanje NORP
+Rengard Chavula PERSON
+Mozambicans NORP
+Chavula PERSON
+Malawian NORP
+Mozambicans NORP
+Chavula GPE
+Chavula PERSON
+Mozambicans NORP
+Tengani ORG
+Mbenje PERSON
+Tengani PERSON
+Mozambicans NORP
+Malawians NORP
+at least 30 CARDINAL
+Makhanga PRODUCT
+Nsanje District LOC
+Tuesday DATE
+the past few days DATE
+the east bank of the Shire River ORG
+Nsanje ORG
+almost 21 CARDINAL
+Monday DATE
+Disaster Management Affairs Department ORG
+Wilson Moleni ORG
+the Malawi Defence Force ORG
+Bangula Trading Centre ORG
+Moleni PERSON
+Nsanje GPE
+the Malawi Defence Force ORG
+Bangula GPE
+east bank GPE
+Moleni PERSON
+Kenneth Jali PERSON
+Mana ORG

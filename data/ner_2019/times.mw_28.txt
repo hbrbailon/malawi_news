@@ -1,0 +1,57 @@
+Jameson Chauluka & Pilirani Kachinziri: Department of Climate Change and Meteorological Services ORG
+Thursday DATE
+30 CARDINAL
+45.A CARDINAL
+Tropical Cyclone Idai NORP
+Mozambique NORP
+Mozambique Channel ORG
+11 March 2019 DATE
+900 kilometres QUANTITY
+Malawi PERSON
+Nsanje GPE
+17.4o CARDINAL
+South LOC
+43.2o CARDINAL
+East LOC
+Madagascar GPE
+Beira GPE
+Mozambique GPE
+480 kilometres QUANTITY
+Nsanje Boma PERSON
+Thursday DATE
+Mozambique NORP
+Malawi ORG
+Thursday 14th March to Sunday 17th March 2019 DATE
+Malawi PERSON
+the Tropical Cyclone ORG
+Zimbabwe GPE
+18th March 2019 DATE
+last week DATE
+30 CARDINAL
+45 CARDINAL
+577 CARDINAL
+Department of Disaster Management Affairs ORG
+147,958 CARDINAL
+approximately 739,790 CARDINAL
+15,185 CARDINAL
+187 CARDINAL
+Dodma ORG
+Tuesday DATE
+Chipiliro Khamula PERSON
+Lower Shire GPE
+Nsanje GPE
+Chikwawa ORG
+Nsanje District Commissioner PERSON
+Reinghard Chavula PERSON
+Monday DATE
+two CARDINAL
+Makhanga PRODUCT
+Village Head Kalonga PERSON
+2015 DATE
+United Nations Children’s Fund ORG
+March 11 2019 DATE
+Unicef Public Relations Officer ORG
+Rebecca Phwitiko PERSON
+thousands CARDINAL
+thousands CARDINAL
+Phwitiko PERSON

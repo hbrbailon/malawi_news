@@ -1,0 +1,43 @@
+Pakistani Association ORG
+Zomba GPE
+Zomba PERSON
+two weeks ago DATE
+the Pakistan Welfare Association ORG
+PWA ORG
+K22 million LAW
+800 CARDINAL
+two CARDINAL
+Zomba GPE
+Group Villages Chaweza ORG
+Zomba PERSON
+Chimombo PRODUCT
+Phutheya PERSON
+Phalombe GPE
+400 CARDINAL
+Chaweza Primary School ORG
+Zomba GPE
+Ali Akbar Kamdar PERSON
+Malawians NORP
+third ORDINAL
+Malawi PERSON
+second ORDINAL
+first ORDINAL
+Malawians NORP
+the hold month DATE
+Ramadhan PERSON
+Malawians NORP
+The Pakistan Welfare Association ORG
+three years ago DATE
+Malawians NORP
+Pakistan GPE
+Kamdar ORG
+Malawi GPE
+one CARDINAL
+Zomba PERSON
+two CARDINAL
+Luwiza Matembwe PERSON
+80-year-old DATE
+Mwaliwa Village GPE
+at point zero CARDINAL
+Group Village Chaweza ORG
+Phalombe River GPE

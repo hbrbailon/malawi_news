@@ -1,0 +1,23 @@
+Pope PERSON
+Cyclone Idai PRODUCT
+Malawi ORG
+Mozambique NORP
+Zimbabwe GPE
+Catholic Church ORG
+Pope Francis PERSON
+Malawi GPE
+Mozambique NORP
+Zimbabwe GPE
+Mozambique GPE
+Zimbabwe GPE
+Malawi PERSON
+thousands CARDINAL
+Saint Peter’s Square FAC
+Wednesday DATE
+Pope Francis PERSON
+The United Nations ORG
+one CARDINAL
+decades DATE
+Malawi GPE
+nearly a million CARDINAL
+more than 80,000 CARDINAL

@@ -1,0 +1,18 @@
+UTM ORG
+Kaliati ORG
+UTM Party ORG
+Friday DATE
+Lilongwe GPE
+UTM ORG
+Patricia Kaliati PERSON
+Joseph Chidanti Malunga PERSON
+Chidzanja Bridge FAC
+Lilongwe PERSON
+a few days ago DATE
+Malawians NORP
+first ORDINAL
+Esther Chipoja PERSON
+three CARDINAL
+UTM ORG
+UTM ORG
+Chipoja PERSON

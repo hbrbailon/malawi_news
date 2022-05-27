@@ -1,0 +1,46 @@
+Malawi ORG
+Maize PERSON
+355 000 metric tonnes QUANTITY
+Malawi PERSON
+3555 000 metric tonnes QUANTITY
+MT GPE
+Lilongwe GPE
+Agriculture Irrigation and Water ORG
+Joseph Mwanamveka PERSON
+Malawi PERSON
+2 CARDINAL
+Mwanamveka PERSON
+300 000 metric tonnes QUANTITY
+this year DATE
+first ORDINAL
+Malawi ORG
+3.3 million metric tonnes QUANTITY
+2018/19.The DATE
+2.6 million metric tonnes QUANTITY
+2017/18 CARDINAL
+the Farm Input Subsidy Programme ORG
+recent years DATE
+Fisp PERSON
+900 000 CARDINAL
+2017/18 to one million CARDINAL
+2018/19 CARDINAL
+this season DATE
+last season DATE
+Malawi PERSON
+400-800mm QUANTITY
+Malawians NORP
+around a third CARDINAL
+65 percent PERCENT
+around 60 percent PERCENT
+Mwanamveka PRODUCT
+Malawi PERSON
+112 313 metric tonnes QUANTITY
+Malawi’s ORG
+17 percent PERCENT
+nine percent PERCENT
+one CARDINAL
+one CARDINAL
+Malawi GPE
+about 50 percent PERCENT
+decades DATE
+only 25 percent PERCENT

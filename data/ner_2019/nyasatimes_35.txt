@@ -1,0 +1,23 @@
+Machinga GPE
+Tuesday DATE
+Likuni Phala WORK_OF_ART
+Machinga GPE
+early last month DATE
+Machinga Chairperson PERSON
+Grey Natoto Mphithi ORG
+Machinga GPE
+Genesis Nutritional Company ORG
+Genesis Nutritional Company Products ORG
+Harry Haroon PERSON
+Kamzota GPE
+four hours TIME
+Kamzota ORG
+One CARDINAL
+Aida Wilson PERSON
+Wilson ORG
+five CARDINAL
+59 CARDINAL
+Over 29,000 CARDINAL
+145 CARDINAL
+000 CARDINAL
+Machinga ORG

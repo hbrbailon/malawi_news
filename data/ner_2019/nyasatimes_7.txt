@@ -1,0 +1,27 @@
+MET ORG
+Department of Climate Change and Meteorological Services ORG
+Lilongwe PERSON
+Agriculture Meteorologist PERSON
+Adams Chavula ORG
+Mchesi GPE
+Kawale GPE
+Chipasula PERSON
+Lilongwe PERSON
+Chavula GPE
+“Lilongwe City Council ORG
+Lilongwe GPE
+Earlier this month DATE
+Lilongwe GPE
+the Department of Disaster Management Affairs ORG
+Kawale GPE
+Mchesi GPE
+Chavula PERSON
+Lilongwe PERSON
+Chavula PERSON
+Lilongwe PERSON
+Chipasula GPE
+70 year old DATE
+William Mazoni PERSON
+Mana ORG
+Lilongwe City Council ORG
+Chipasula River LOC

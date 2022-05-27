@@ -1,0 +1,18 @@
+Third-year DATE
+Bachelor of Accountancy ORG
+BAC ORG
+Polytechnic College ORG
+44 CARDINAL
+BAC ORG
+Sunday DATE
+Magombo Camp ORG
+Nkanda GPE
+Mulanje GPE
+George Kaliwo PERSON
+Kaliwo ORG
+Hollen Kamanga PERSON
+Group Village LOC
+Mkanda PERSON
+one CARDINAL
+the BAC Poly Students WORK_OF_ART
+Mkanda PERSON

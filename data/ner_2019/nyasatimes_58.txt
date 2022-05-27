@@ -1,0 +1,34 @@
+Ben Phiri PERSON
+Ben Phiri PERSON
+Saturday DATE
+Malawi PERSON
+56 CARDINAL
+577 CARDINAL
+three CARDINAL
+184,589 CARDINAL
+16,545 CARDINAL
+Khonjeni PERSON
+Chilammwera PERSON
+Phiri ORG
+Malawians NORP
+one CARDINAL
+Phiri ORG
+the Democratic Progressive Party ORG
+DPP).He ORG
+almost 1400 CARDINAL
+Group Village Head ORG
+GVH ORG
+Nkolokosa of Nkolokosa 1 ORG
+2 CARDINAL
+3 CARDINAL
+Mchilamwera PERSON
+about 106 CARDINAL
+Phiri PERSON
+first ORDINAL
+GVH Makombe PERSON
+Khonjeni NORP
+Traditional Authority Kapiti ORG
+Phiri PERSON
+one CARDINAL
+Alesi Liston PERSON
+20 DATE

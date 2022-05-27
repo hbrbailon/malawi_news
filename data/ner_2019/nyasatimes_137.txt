@@ -1,0 +1,29 @@
+7 days DATE
+Chikwawa PERSON
+seven days DATE
+Blantyre PERSON
+Thabwa ORG
+Kamuzu ORG
+Plem GPE
+Saturday DATE
+Home Land Security ORG
+Nicholas Dausi PERSON
+Thabwa PERSON
+close to three hours TIME
+Plem PERSON
+Dausi PERSON
+30 minutes TIME
+two hours TIME
+this week DATE
+about 23 CARDINAL
+nine CARDINAL
+Blantyre ORG
+Thyolo ORG
+Mulanje GPE
+Phalombe GPE
+Salima GPE
+Nkhotakota GPE
+Karonga GPE
+Mangochi GPE
+Zomba PERSON
+Peter Mutharika PERSON

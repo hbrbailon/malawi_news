@@ -1,0 +1,31 @@
+Feston Malekezo PERSON
+the Southern Region LOC
+about one-third CARDINAL
+Malawi ORG
+Food and Agriculture Organisation’s ORG
+Monday DATE
+Malawi ORG
+about 3.3 million tonnes QUANTITY
+October DATE
+the Southern Region LOC
+over 900,000 CARDINAL
+2019 DATE
+the second half of March DATE
+2019 DATE
+2018.“Following CARDINAL
+2018/19 CARDINAL
+April and March DATE
+2019/20 CARDINAL
+Fao PERSON
+the last quarter of 2018 DATE
+January 2019 DATE
+more than one-third CARDINAL
+year-earlier DATE
+2019 DATE
+2019 DATE
+late April DATE
+Hamilton Chimala PERSON
+Tuesday DATE
+Malawian NORP
+Peter Mutharika PERSON
+next week DATE

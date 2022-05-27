@@ -1,0 +1,33 @@
+First Capital Bank ORG
+K10 ORG
+thousands CARDINAL
+First Capital Bank Plc ORG
+K10 million CARDINAL
+FCB ORG
+La Caverna’s ORG
+Blue Buckets of Hope WORK_OF_ART
+Luchenza ORG
+Mulanje PERSON
+Chikwawa PERSON
+Blantyre GPE
+FCB Acting Chief Executive Officer ORG
+Thomas Kadantot PERSON
+Bank ORG
+millions CARDINAL
+Malawians NORP
+FCB ORG
+Kadantot ORG
+Kadantot ORG
+Malawians NORP
+Malawians NORP
+thousands CARDINAL
+Luchenza ORG
+Chikwawa PERSON
+Caverna Arts Gallery ORG
+Lois Losacco PERSON
+FCB ORG
+Community Based Organisations ORG
+Joshua PERSON
+more than 20 years DATE
+Losacco ORG
+Likuni Phala ORG

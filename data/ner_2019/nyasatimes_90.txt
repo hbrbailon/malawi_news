@@ -1,0 +1,33 @@
+Ntchisi GPE
+150 CARDINAL
+About 150 CARDINAL
+Saturday DATE
+Kanyenda Village GPE
+Traditional Authority FAC
+Ntchisi District LOC
+Two CARDINAL
+Ntchisi District Hospital ORG
+’s Village Civil Protection Committee ORG
+Olipa Moses ORG
+around 5 pm TIME
+Saturday DATE
+two CARDINAL
+Thauzeni Chinthu ORG
+Zione Sochi GPE
+Kanyenda Village GPE
+eight CARDINAL
+Kanyenda Primary School ORG
+one CARDINAL
+Kanyenda Community Day Secondary School (CDSS ORG
+Ntchisi District Education ORG
+Votie Mboweni PERSON
+Mboweni PERSON
+DEM ORG
+Kanyenda CDSS FAC
+the School Improvement Grant (SIG ORG
+Mboweni PERSON
+the Central East Education Division Office ORG
+the CDSS.Ntchisi FAC
+District Council ORG
+Andrew Lihoma PERSON
+the Department of Disaster and Management Affairs ORG

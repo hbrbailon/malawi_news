@@ -1,0 +1,24 @@
+Mutharika GPE
+Peter Mutharika PERSON
+Monday DATE
+Chikuse Camp FAC
+Chikwawa District LOC
+six-month DATE
+Mutharika GPE
+Homeland Security ORG
+Nicholas Dausi PERSON
+Dausi PERSON
+Chikwawa District Commissioner PERSON
+Lusizi Nhlane PERSON
+between March 5 and 10 March DATE
+53 DATE
+765 CARDINAL
+12 CARDINAL
+755 CARDINAL
+56 CARDINAL
+5,210 CARDINAL
+7,488 CARDINAL
+34 CARDINAL
+nine CARDINAL
+two CARDINAL
+Nhlane PERSON

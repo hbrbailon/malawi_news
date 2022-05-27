@@ -1,0 +1,23 @@
+Press Corporation ORG
+K1 PERSON
+Conglomerate Press Corporation ORG
+yesterday DATE
+Wednesday DATE
+K1 million CARDINAL
+the Rotary Club of Limbe ORG
+Blantyre GPE
+PCL ORG
+Chikondi Liabunya PERSON
+Rotary Club of Limbe ORG
+Malawians NORP
+Liabunya PERSON
+Rotary Club of Limbe ORG
+Rotary Club of Limbe ORG
+Eric Chinkanda PERSON
+PCL ORG
+PCL ORG
+Chinkanda PERSON
+56 CARDINAL
+thousands CARDINAL
+Peter Mutharika PERSON
+Malawians NORP

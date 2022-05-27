@@ -1,0 +1,30 @@
+12,000 CARDINAL
+Feston Malekezo PERSON
+Some 12,000 CARDINAL
+230,000 CARDINAL
+Department of Disaster Management Affairs ORG
+United Nations ORG
+Sunday DATE
+one CARDINAL
+UNFPA ORG
+23,000 CARDINAL
+about 12,000 CARDINAL
+Four CARDINAL
+United Nations Population Fund ORG
+“UNFPA GPE
+the Ministry of Health ORG
+Population- Reproductive Health Directorate ORG
+as early as next week DATE
+300 CARDINAL
+600 CARDINAL
+Balaka GPE
+Blantyre PERSON
+Machinga GPE
+Mangochi GPE
+Chikwawa PERSON
+Ministry of Health ORG
+107,500 mosquito QUANTITY
+2018 DATE
+At least 15 CARDINAL
+about 868,895 CARDINAL
+173 CARDINAL

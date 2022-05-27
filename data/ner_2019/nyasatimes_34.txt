@@ -1,0 +1,14 @@
+MEC ORG
+The Malawi Electoral Commission ORG
+MEC ORG
+Commission ORG
+Tuesday DATE
+three CARDINAL
+Mwanza GPE
+Chikwawa PERSON
+Nsanje ORG
+Malawians NORP
+Commission ORG
+Commission ORG
+MEC ORG
+Commission ORG

@@ -1,0 +1,36 @@
+China GPE
+K36 ORG
+Malawian NORP
+the People’s Republic of China ORG
+K36 million PRODUCT
+Malawi PERSON
+The Chinese Charge de Affairs ORG
+Malawi GPE
+Wang Xiusheng PERSON
+the Ministry of Foreign Affairs ORG
+Capital Hill LOC
+Malawi’s Capital ORG
+Lilongwe GPE
+last week DATE
+Xiusheng PERSON
+4000 tonnes QUANTITY
+China GPE
+Malawi PERSON
+2000 tonnes QUANTITY
+13 CARDINAL
+Malawi GPE
+56 CARDINAL
+About 400,000 CARDINAL
+Xiusheng PERSON
+Malawi PERSON
+Malawi PERSON
+Xiusheng PERSON
+Chinese NORP
+Malawi PERSON
+the Ministry of Foreign Affairs ORG
+Ben Botolo PERSON
+China GPE
+Malawi ORG
+11 years DATE
+China GPE
+Botolo PERSON

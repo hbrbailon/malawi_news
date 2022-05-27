@@ -1,0 +1,38 @@
+Malawi PERSON
+Malawi GPE
+about a million CARDINAL
+56 CARDINAL
+Between 1946 and 2013 DATE
+48% PERCENT
+16 CARDINAL
+28 CARDINAL
+The Lower Shire Valley ORG
+Malawi ORG
+Mozambique ORG
+Chikwawa PERSON
+Nsanje Districts PERSON
+at least 1.7% PERCENT
+Malawi ORG
+annually DATE
+almost 1% PERCENT
+each year DATE
+One CARDINAL
+Malawi GPE
+first ORDINAL
+Phil PERSON
+Ken Westgate PERSON
+Ben Wisner PERSON
+Malawi GPE
+Malawi PERSON
+third ORDINAL
+About half CARDINAL
+Nsanje ORG
+80% PERCENT
+Malawians NORP
+2.67% PERCENT
+each year DATE
+Malawian NORP
+2015 DATE
+One CARDINAL
+Malawi PERSON
+first ORDINAL

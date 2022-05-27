@@ -1,0 +1,28 @@
+Chakwera ORG
+MCP ORG
+26 CARDINAL
+Malawi Congress Party ORG
+MCP ORG
+Lazarus Chakwera PERSON
+thousands CARDINAL
+hundreds CARDINAL
+Southern NORP
+26 CARDINAL
+MCP ORG
+Lilongwe GPE
+Saturday DATE
+CrossRoads Hotel ORG
+MCP ORG
+Peter Mutharika PERSON
+Friday DATE
+the Electricity Generation Company (Egenco LAW
+Nkula GPE
+Kapichira Power Stations ORG
+Egenco PERSON
+270 megawatts QUANTITY
+MW ORG
+320MW.Department CARDINAL
+Meteorological Services ORG
+the Mozambican Channel ORG
+the Inter-Tropical Convergence Zone ORG
+Southern Malawi PERSON

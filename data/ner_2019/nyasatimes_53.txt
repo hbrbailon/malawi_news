@@ -1,0 +1,56 @@
+Cyclone Kenneth PERSON
+Malawi PERSON
+the Department of Climate Change and Meteorological Services ORG
+Nyasa Times ORG
+Jolam Nkhokwe PERSON
+Climate Change and Meteorological Services ORG
+the Indian Ocean LOC
+1008 DATE
+Indian Ocean LOC
+Madagascar GPE
+9.4 degrees QUANTITY
+50.3 degrees QUANTITY
+1874km QUANTITY
+Nkhata Bay FAC
+Tuesday 23 April, 2019 DATE
+1004 CARDINAL
+10.4 degrees QUANTITY
+48.4 degrees QUANTITY
+1670 DATE
+Nkhata Bay LOC
+Nkhokwe PERSON
+Wednesday April 24 DATE
+998 CARDINAL
+10.8 degrees QUANTITY
+45.7 degrees QUANTITY
+1222 DATE
+Nkhata Bay LOC
+Thursday DATE
+Nkhokwe ORG
+11.0 degrees QUANTITY
+41.3 degrees QUANTITY
+794km QUANTITY
+Nkhata Bay LOC
+996 CARDINAL
+Friday DATE
+Tanzania GPE
+484km QUANTITY
+Nkhata Bay LOC
+Saturday DATE
+the Niassa Province GPE
+Mozambique NORP
+388km QUANTITY
+Nkhata Bay LOC
+Nkhokwe PERSON
+Wednesday DATE
+Tropical Cyclone Kenneth ORG
+Indian Ocean LOC
+Malawi PERSON
+Malawi PERSON
+Nkhokwe ORG
+Cyclone Idai PRODUCT
+African NORP
+late March DATE
+barely weeks DATE
+15 CARDINAL
+60 CARDINAL

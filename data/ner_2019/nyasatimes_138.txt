@@ -1,0 +1,34 @@
+Malawi PERSON
+Francis PERSON
+Roman Catholic Church ORG
+Francis PERSON
+15 CARDINAL
+Monday DATE
+March 25, 2019 DATE
+150,000 CARDINAL
+Francis PERSON
+Malawi GPE
+Mozambique NORP
+Zimbabwe GPE
+Pope PERSON
+Idai FAC
+three CARDINAL
+the Episcopal Conference of ORG
+Malawi PERSON
+Sunday DATE
+the March 31, 2019 DATE
+the Republic of South Africa GPE
+United Republic of Tanzania GPE
+the United Nations ORG
+60 CARDINAL
+nearly 184,000 CARDINAL
+Thyolo GPE
+Blantyre PERSON
+Zomba PERSON
+Mulanje GPE
+Phalombe GPE
+Mangochi GPE
+Chikwawa GPE
+Nsanje ORG
+Ntcheu GPE
+Dowa GPE

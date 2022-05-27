@@ -1,0 +1,19 @@
+Red Cross ORG
+Malawi PERSON
+Malawi Red Cross Society ORG
+Nsanje ORG
+Patricia Gadi PERSON
+Thursday DATE
+Bangula ADMARC ORG
+over 5,000 CARDINAL
+Mozambicans NORP
+March DATE
+Danish Red Cross ORG
+first ORDINAL
+Gadi PERSON
+The District Coordinator ORG
+Gadi PERSON
+cholera ORG
+Bangula ADMARC Camp PERSON
+Isaac Falakeza PERSON
+Falakeza ORG

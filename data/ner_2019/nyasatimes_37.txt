@@ -1,0 +1,13 @@
+2 CARDINAL
+Lilongwe PERSON
+Two CARDINAL
+two days DATE
+Capital ORG
+Lilongwe PERSON
+two days ago DATE
+Disaster Management ORG
+176 CARDINAL
+thousands CARDINAL
+Nicholas Dausi PERSON
+yesterday DATE
+Dausi PERSON

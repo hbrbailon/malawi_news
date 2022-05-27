@@ -1,0 +1,53 @@
+South Africa GPE
+Malawi PERSON
+Peter Mutharika PERSON
+South African NORP
+Malawi ORG
+Chileka Airport FAC
+Blantyre GPE
+Sunday DATE
+afternoon TIME
+South African NORP
+Mutharika GPE
+Malawi PERSON
+Malawians NORP
+2015/2016 DATE
+Llyold Muhara PERSON
+Malawi PERSON
+28 CARDINAL
+Chipiliro Khamula PERSON
+Malawi’s Department of Disaster Management ORG
+the Ministry of Homeland Security ORG
+Sunday DATE
+the Department of Disaster Management Affairs ORG
+Machinga GPE
+Chikwawa ORG
+Zomba PERSON
+Mulanje PERSON
+Nsanje ORG
+Thyolo GPE
+Chiradzulu GPE
+Blantyre GPE
+Neno GPE
+Mwanza ORG
+Dedza ORG
+Balaka GPE
+Mangochi GPE
+Over 22,000 CARDINAL
+DoDMA ORG
+the Malawi Defence Force ORG
+Henry Mussa PERSON
+Parliamentarian NORP
+Monday DATE
+Mussa ORG
+Chiradzulu GPE
+3000 CARDINAL
+Chiradzulu GPE
+3,019 CARDINAL
+the Department of Disaster Management Affairs ORG
+Mussa ORG
+Nicholas Dausi PERSON
+Chiradzulu GPE
+Chikwawa ORG
+Mulanje PERSON
+Zomba PERSON

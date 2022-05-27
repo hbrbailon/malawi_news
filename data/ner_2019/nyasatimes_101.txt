@@ -1,0 +1,33 @@
+National Bank of Malawi ORG
+K20 ORG
+National Bank of Malawi ORG
+NBM) plc ORG
+K20 PERSON
+12 CARDINAL
+Cyclone Idai PRODUCT
+Homeland Security Nicholus ORG
+Tuesday DATE
+Blantyre PERSON
+the Department of Disaster Management Affairs ORG
+NBM ORG
+Harold Jiya PERSON
+NBM ORG
+The Bank of the Nation’ WORK_OF_ART
+last month DATE
+Jiya PERSON
+Dedza GPE
+Mangochi GPE
+Neno GPE
+K20 PERSON
+Soya ORG
+one CARDINAL
+Jiya PERSON
+Dausi ORG
+Dausi GPE
+NBM ORG
+National Bank ORG
+Dausi PERSON
+March DATE
+60 CARDINAL
+thousands CARDINAL
+Peter Mutharika PERSON

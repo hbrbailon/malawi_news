@@ -1,0 +1,26 @@
+Malawi PERSON
+Red Cross ORG
+Malawi Red Cross Society ORG
+Red Cross ORG
+Phalombe GPE
+Francis Liyati PERSON
+Matawa Primary School ORG
+Red Cross ORG
+first ORDINAL
+Phalombe GPE
+Liyati GPE
+159 CARDINAL
+Matawa GPE
+approximately 50 CARDINAL
+one CARDINAL
+Matawa Camp ORG
+Lucy Nkhata PERSON
+68 DATE
+KalindeVillage ORG
+Liyati GPE
+Phalombe District Council ORG
+the Red Cross Malawi Society ORG
+approximately 1,500 CARDINAL
+Traditional Authority ORG
+Jenala GPE
+Kaduya GPE

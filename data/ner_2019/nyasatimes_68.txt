@@ -1,0 +1,12 @@
+SAWA Group ORG
+SAWA Group ORG
+Friday DATE
+20 000 CARDINAL
+last week DATE
+SAWA Group ORG
+Emmanuel Mwenda PERSON
+10 kilograms QUANTITY
+700 CARDINAL
+Mwenda GPE
+Phalombe Davie Chibani PERSON
+SAWA Group ORG

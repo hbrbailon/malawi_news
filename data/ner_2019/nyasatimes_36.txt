@@ -1,0 +1,33 @@
+Malawians NORP
+PS Madula ORG
+the Ministry of Homeland Security ORG
+Sam Madula PERSON
+Malawians NORP
+Madula PERSON
+Mangochi GPE
+five – day DATE
+one CARDINAL
+every year DATE
+Madula PERSON
+Soche Hill LOC
+Blantyre GPE
+Mtandire GPE
+Lilongwe PERSON
+Lower Shire GPE
+Madula PERSON
+five-day DATE
+Asian NORP
+Bangkok GPE
+Thailand GPE
+Aslam Perwais ORG
+Malawi News Agency ORG
+Mana ORG
+Malawi PERSON
+Perwais ORG
+the World Bank ORG
+2015 DATE
+230,000 CARDINAL
+at least 175 CARDINAL
+the World Bank’s Senior Disaster Risk Management Specialist ORG
+Francis Mkoka PERSON
+ADPC ORG

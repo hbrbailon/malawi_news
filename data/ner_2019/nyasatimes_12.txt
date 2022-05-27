@@ -1,0 +1,34 @@
+Jappie PERSON
+Sawa PRODUCT
+Transport and Public Works ORG
+Jappie Mhango PERSON
+the Mchesi Bridge FAC
+Lilongwe PERSON
+two days ago DATE
+Mhango GPE
+Friday DATE
+Mhango GPE
+Mhango GPE
+Nyasa Times ORG
+Sawa Group ORG
+Mhango ORG
+three hours TIME
+Lilongwe PERSON
+Biwi ORG
+Kawale GPE
+Chipasula PERSON
+at least two CARDINAL
+176 CARDINAL
+Homeland Security ORG
+Nicholas Dausi PERSON
+Sawa Group ORG
+a few months DATE
+Mhango GPE
+Kawale-Mchesi ORG
+Mhango GPE
+Malawians NORP
+Democratic Progressive Party ORG
+DPP ORG
+2014 DATE
+May 21 DATE
+just three months’ time DATE

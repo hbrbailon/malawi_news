@@ -1,0 +1,32 @@
+Sana PERSON
+Lilongwe PERSON
+About 150 CARDINAL
+Kawale GPE
+Chipasula PERSON
+Sana Cash PERSON
+last week DATE
+Kawale-Nchesi ORG
+150 CARDINAL
+the rainy season DATE
+Nyasa Times ORG
+Sana Cash PERSON
+Carry Human Resources ORG
+Tennyson Kipandura PERSON
+Ulemu Msungama ORG
+Kipandura GPE
+Kipandura ORG
+the Chipasula Secondary School ORG
+Msungama ORG
+first ORDINAL
+Sana PERSON
+2017 DATE
+Msungama ORG
+Last year DATE
+this year DATE
+Msungama ORG
+Sana PERSON
+Maliro PERSON
+one CARDINAL
+Rose Sikanona PERSON
+Sana PERSON
+Maliro PERSON

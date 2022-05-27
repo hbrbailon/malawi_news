@@ -1,0 +1,27 @@
+Malawi GPE
+Lilongwe GPE
+Lilongwe GPE
+Bridges PERSON
+Chipasula GPE
+Kawale GPE
+Chidzanja ORG
+Nicholas Dausi PERSON
+Friday DATE
+Lilongwe City GPE
+Dausi PERSON
+Dausi PERSON
+30 metre QUANTITY
+Dausi PERSON
+Lilongwe City Council ORG
+the Kawale River LOC
+Dausi PERSON
+LilongweCity Council ORG
+Lilongwe City Council ORG
+Charles Kalemba PERSON
+Council ORG
+the Council Disaster committee ORG
+Two CARDINAL
+Thursday DATE
+afternoon TIME
+176 CARDINAL
+20 CARDINAL

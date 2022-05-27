@@ -1,0 +1,57 @@
+Balaka GPE
+2 CARDINAL
+Mangochi GPE
+two year old DATE
+Balaka GPE
+Friday DATE
+evening TIME
+Balaka District LOC
+the past five days DATE
+Dorothy Mauwa PERSON
+28 DATE
+Emmanuella Bwekere ORG
+Friday DATE
+10 pm TIME
+three CARDINAL
+Mauwa PERSON
+three CARDINAL
+Thursday DATE
+this day DATE
+Friday DATE
+around 10 pm TIME
+Saturday DATE
+Balaka GPE
+Emmanuelle GPE
+Samati Village GPE
+Traditional Authority ORG
+Balaka GPE
+Mangochi GPE
+two CARDINAL
+the early hours TIME
+Sunday DATE
+two CARDINAL
+Patuma Welemu ORG
+53 DATE
+Rose Ayami PERSON
+6 DATE
+Nsinje Village GPE
+Group Village ORG
+Headman Michesi PERSON
+Mangochi District LOC
+the night TIME
+two CARDINAL
+Koche Hospital ORG
+DC GPE
+The Department of Disaster Management Affairs ORG
+Sunday DATE
+afternoon TIME
+Homeland Security ORG
+Nicholas Dausi PERSON
+two CARDINAL
+Monday DATE
+Mangochi GPE
+7:30am CARDINAL
+Balaka District LOC
+DoDMA Public Relations Officer ORG
+Chipiliro Khamula PERSON
+Sunday DATE

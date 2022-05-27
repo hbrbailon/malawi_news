@@ -1,0 +1,40 @@
+Airtel Malawi PERSON
+Airtel Malawi PERSON
+K20 PERSON
+the Department of Disaster Management Affairs ORG
+Nsanje GPE
+Chikwawa GPE
+Mulanje PERSON
+Machinga ORG
+Mangochi GPE
+Zomba PERSON
+Thursday DATE
+Capital Hill LOC
+Lilongwe GPE
+Airtel Legal ORG
+Regulatory ORG
+Hlupikire Chalamba PERSON
+Airtel ORG
+the Department of Disaster Management Affairs ORG
+the day DATE
+the Department of Disaster Management Affairs ORG
+James Chiusiwa PERSON
+187 CARDINAL
+Camps ORG
+Malawi PERSON
+Chiusiwa ORG
+Airtel PRODUCT
+000 CARDINAL
+16 000 CARDINAL
+Mosques FAC
+Tents WORK_OF_ART
+Airtel ORG
+10 CARDINAL
+Lilongwe Technical College ORG
+Wednesday DATE
+Lilongwe Technical College ORG
+the Ministry of Labor ORG
+Matemba PERSON
+Computers NORP
+Lilongwe Technical College Suzika Mvalo ORG
+Airtel ORG

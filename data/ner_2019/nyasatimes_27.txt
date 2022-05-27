@@ -1,0 +1,35 @@
+Chinese NORP
+K38 ORG
+Malawi PERSON
+Chinese NORP
+Malawi GPE
+Chinese Chambers of Commerce ORG
+Malawi GPE
+K38 million CARDINAL
+the Department of Disaster Management Affairs ORG
+early March DATE
+2,000 tonnes QUANTITY
+Malawi PERSON
+Malawi GPE
+Zhou Shanjian PERSON
+Malawi GPE
+Malawi PERSON
+Shanjian NORP
+Malawi GPE
+Embassy LOC
+China GPE
+Malawi GPE
+Wang Xiusheng PERSON
+Malawi PERSON
+Homeland Security ORG
+Nicholas Dausi PERSON
+over 700,000 CARDINAL
+Malawi GPE
+Dausi PERSON
+China GPE
+4000 more tonnes QUANTITY
+Malawi PERSON
+13 CARDINAL
+Malawi GPE
+Southern Region LOC
+60 CARDINAL

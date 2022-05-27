@@ -1,0 +1,37 @@
+ICT ORG
+TNM Plc ORG
+Malawi Red Cross ORG
+Saturday DATE
+Phalombe GPE
+RC GPE
+three CARDINAL
+Chikwawa PERSON
+Nsanje ORG
+TNM ORG
+Eric Valentine PERSON
+Valentine PERSON
+Valentine PERSON
+TNM ORG
+Malawi Red Cross ORG
+Valentine PERSON
+TNM ORG
+Red Cross ORG
+TNM ORG
+Malawi Red Cross Society ORG
+Roster Kufandiko PERSON
+K8.7 million CARDINAL
+Phalombe GPE
+Chikwawa PERSON
+Nsanje ORG
+TNM ORG
+2015 DATE
+Red Cross ORG
+Kufandiko PERSON
+Kufandiko PERSON
+this year DATE
+Red Cross ORG
+Red Cross ORG
+the Department of Disaster Management Affairs ORG
+the Ministry of Homeland Security ORG
+this year DATE
+172 151 CARDINAL

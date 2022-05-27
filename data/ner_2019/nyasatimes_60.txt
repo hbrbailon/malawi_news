@@ -1,0 +1,10 @@
+Lower Shire GPE
+Nsanje GPE
+two CARDINAL
+One CARDINAL
+Nyachikadza PERSON
+Nyachikadza PERSON
+Malemia PERSON
+Nsanje ORG
+At least 500 CARDINAL
+Nsanje GPE

@@ -1,0 +1,26 @@
+Malawi PERSON
+Malawi ORG
+K17 billion MONEY
+Japan GPE
+Malawi PERSON
+$1 million MONEY
+the World Food Program ORG
+WFP ORG
+Italy GPE
+500 CARDINAL
+WFP ORG
+the African Development Bank ORG
+Malawi PERSON
+Mathias Mugala PERSON
+$1.8 million MONEY
+Homeland Security ORG
+Nicholas Dausi PERSON
+Rumphi GPE
+three CARDINAL
+five CARDINAL
+nine CARDINAL
+Dausi ORG
+K277 million CARDINAL
+Dausi PERSON
+Germany GPE
+only K7 billion MONEY

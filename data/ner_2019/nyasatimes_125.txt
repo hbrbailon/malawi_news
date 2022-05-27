@@ -1,0 +1,35 @@
+Malawi ORG
+2019 DATE
+Marine Rescue Teams EVENT
+the Lower Shire GPE
+the Malawi Defence Force ORG
+the Department of Disaster Management Affairs ORG
+K1 500 FAC
+MDF ORG
+one CARDINAL
+Nsanje ORG
+Nyasa Times ORG
+MDF ORG
+8th March 19 DATE
+today DATE
+26 March DATE
+7 days DATE
+000 MONEY
+2012 DATE
+2019 DATE
+DoDMA ORG
+DoDMA ORG
+The past years DATE
+DoDMA ORG
+K10 ORG
+000 CARDINAL
+K15 ORG
+000 CARDINAL
+K20 ORG
+000 CARDINAL
+K25 ORG
+000 CARDINAL
+Paul Chiphwanya PERSON
+Tuesday DATE
+night TIME
+Chiphwanya PERSON

@@ -1,0 +1,54 @@
+this Friday DATE
+Shaker PERSON
+March 6 2019 DATE
+16-kilometre QUANTITY
+Mchenga Primary School ORG
+Chikwawa District LOC
+Traditional Authority Makhuwira ORG
+Shire River LOC
+two CARDINAL
+the night TIME
+The next day DATE
+Group Village GPE
+Gumbala GPE
+Nsanje District LOC
+Shire PERSON
+March 9 DATE
+1,500 CARDINAL
+the day DATE
+Kapito Clemence PERSON
+daytime TIME
+one CARDINAL
+Clemence ORG
+2,000 CARDINAL
+15 CARDINAL
+Mchenga School ORG
+Khulubvi Primary School ORG
+Thondwe GPE
+Zomba PERSON
+Khulubvi Primary School Head ORG
+Luciano Chikalimba PERSON
+Chikalimba ORG
+Clemence ORG
+The Department of Disaster Management Affairs ORG
+173 CARDINAL
+Civil Society Education Coalition Executive ORG
+Benedicto Kondowe PERSON
+Kondowe PERSON
+Kondowe PERSON
+Malawi GPE
+Kondowe PERSON
+Education ORG
+Science and Technology Ministry’s ORG
+Lindiwe Chide ORG
+Chide ORG
+Dodma ORG
+Chide ORG
+48 CARDINAL
+Chide ORG
+Dodma ORG
+the Ministry of Education ORG
+Dodma Commissioner ORG
+Wilson Moleni PERSON
+Phalombe PERSON
+Mulanje PERSON

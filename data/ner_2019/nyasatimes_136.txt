@@ -1,0 +1,23 @@
+Met Office ORG
+South LOC
+Climate Change and Meteorological Department ORG
+Jolam Nkhokwe PERSON
+today, Tuesday DATE
+another continuous two week DATE
+third ORDINAL
+December DATE
+Nkhokwe ORG
+the Mozambique Channel ORG
+Tropical ORG
+Quelimane PERSON
+Beira GPE
+Mozambique GPE
+390 kilometres QUANTITY
+Malawi PERSON
+Nsanje GPE
+14:00 hours TIME
+Monday, January 21, 2019 DATE
+the Tropical Storm ORG
+Mozambique NORP
+Malawi PERSON
+Wednesday, January 23, 2019 DATE

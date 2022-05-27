@@ -1,0 +1,14 @@
+16 CARDINAL
+Chikwawa PERSON
+Thursday DATE
+morning TIME
+16 CARDINAL
+Frank Chatandika PERSON
+“Out ORG
+16 CARDINAL
+two CARDINAL
+St. Montfort Hospital ORG
+14 CARDINAL
+at least 500 CARDINAL
+Lundu PERSON
+Makhuwira GPE

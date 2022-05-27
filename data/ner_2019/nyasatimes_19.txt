@@ -1,0 +1,32 @@
+Mutharika GPE
+Peter Mutharika PERSON
+Malata ORG
+Subsidy Programme PERSON
+10 CARDINAL
+Thursday DATE
+Namatamba Primary School ORG
+Zomba GPE
+Malawi PERSON
+Malawians NORP
+Homeland Security ORG
+Nicholas Dausi PERSON
+Southern Region LOC
+Dausi PERSON
+Zomba District LOC
+54 CARDINAL
+3,571 CARDINAL
+the Department of Disaster Management Affairs ORG
+Tuesday, March 12, 2019 DATE
+56 CARDINAL
+577 CARDINAL
+Three CARDINAL
+Zomba PERSON
+four CARDINAL
+Traditional Authority Chikowi ORG
+two CARDINAL
+Traditional Authority Malemia ORG
+Mutharika PERSON
+State ORG
+Balaka ORG
+Mangochi GPE
+Machinga PERSON

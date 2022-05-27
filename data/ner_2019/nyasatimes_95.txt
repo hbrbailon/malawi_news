@@ -1,0 +1,22 @@
+Malawi PERSON
+the coming days DATE
+26 CARDINAL
+11 CARDINAL
+the Meteorological and Climate Change Department ORG
+March 13 DATE
+Department of Disaster and Management (Dodma ORG
+29 CARDINAL
+22 CARDINAL
+000 CARDINAL
+Nsanje ORG
+Dodma PERSON
+Blantyre PERSON
+Chikhwawa GPE
+Nsanje GPE
+Neno GPE
+Mwanza ORG
+Zomba ORG
+Peter Mutharika PERSON
+Democratic Progressive Party ORG
+DPP ORG
+tomorrow DATE

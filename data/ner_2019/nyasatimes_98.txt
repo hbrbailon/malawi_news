@@ -1,0 +1,33 @@
+DPP ORG
+Mchacha PERSON
+Homeland Security ORG
+Democrtaic Progressive Party ORG
+DPP ORG
+Charles Mchacha PERSON
+Sunday DATE
+Malawi Congress Party ORG
+MCP ORG
+Lazarus Chakwera PERSON
+Crossroads Hotel FAC
+Lilongwe GPE
+Malawians NORP
+last  week DATE
+about 26 CARDINAL
+nine CARDINAL
+Blantyre ORG
+Thyolo ORG
+Mulanje GPE
+Phalombe GPE
+Salima GPE
+Nkhotakota GPE
+Karonga GPE
+Mangochi GPE
+Zomba PERSON
+Zomba PERSON
+DPP ORG
+Everton Chimulirenji PERSON
+Mchacha PERSON
+MCP ORG
+the same day DATE
+K2 million CARDINAL
+Sidik Mia PERSON

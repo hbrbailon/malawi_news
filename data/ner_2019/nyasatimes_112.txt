@@ -1,0 +1,42 @@
+30 CARDINAL
+Malawi ORG
+30 CARDINAL
+377 CARDINAL
+The Department of Disaster Management Affairs ORG
+Chipiliro Khamula PERSON
+400 CARDINAL
+128 CARDINAL
+93 CARDINAL
+000.He CARDINAL
+6 CARDINAL
+000 CARDINAL
+South Africa GPE
+Malawi PERSON
+South African NORP
+Malawi ORG
+Peter Mutharika PERSON
+14 CARDINAL
+Khamula PERSON
+Makhanga PRODUCT
+Chikhwawa GPE
+Malawi PERSON
+Ncheu GPE
+four CARDINAL
+Sunday DATE
+Ntcheu GPE
+four CARDINAL
+one CARDINAL
+night TIME
+Phalombe GPE
+44-year-old DATE
+Chikwawa GPE
+Catholic NORP
+Musikuwo PERSON
+Sunday DATE
+Khamula PERSON
+93,730 CARDINAL
+Malawi PERSON
+Tuesday DATE
+Friday DATE
+93,730 CARDINAL
+6,341 CARDINAL

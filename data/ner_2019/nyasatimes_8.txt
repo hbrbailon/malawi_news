@@ -1,0 +1,39 @@
+Malawi PERSON
+MET ORG
+South LOC
+The Department of Climate Change and Meteological Services ORG
+the Southern Region LOC
+Friday DATE
+Nyasa Times ORG
+Malawians NORP
+the Department of Climate Change and Meteorological Services ORG
+MET ORG
+Jolam Nkhokwe PERSON
+Southern Africa Regional ORG
+Mozambique Channel ORG
+a Tropical Cyclone LOC
+IDAI PERSON
+March 11 DATE
+Malawi PERSON
+Nsanje GPE
+17.4 CARDINAL
+43.2 CARDINAL
+East LOC
+Madagascar GPE
+Beira GPE
+Beira GPE
+480kms CARDINAL
+Nsanje Boma ORG
+Thursday DATE
+14 March DATE
+Malawi PERSON
+Thursday DATE
+Sunday DATE
+Malawi PERSON
+the Tropical Cyclone ORG
+Zimbabwe GPE
+18th March DATE
+the Department of Disaster Management Affairs ORG
+45 CARDINAL
+577 CARDINAL
+over 90,000 CARDINAL

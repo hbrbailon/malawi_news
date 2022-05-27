@@ -1,0 +1,32 @@
+Christian Aid PERSON
+One CARDINAL
+Christian Aid PERSON
+Sunday DATE
+Soya ORG
+Likuni Phala WORK_OF_ART
+Kalima PERSON
+Medrum Camps PERSON
+Traditional Authorities (TA) Maseya and Mulilima WORK_OF_ART
+Chikwawa District LOC
+About 350 CARDINAL
+Christian Aid Country ORG
+Malawi ORG
+Pansi Katenga ORG
+first ORDINAL
+Country ORG
+Katenga ORG
+Gender ORG
+Chikwawa District Council ORG
+Rita Sukasuka PERSON
+Christian Aid PERSON
+Likuni Phala PERSON
+six CARDINAL
+Group Village FAC
+Christian NORP
+Christian NORP
+Christian Aid PERSON
+1 million pounds QUANTITY
+approximately K965 million MONEY
+5,000 CARDINAL
+25,000 CARDINAL
+5,000 CARDINAL

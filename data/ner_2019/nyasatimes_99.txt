@@ -1,0 +1,46 @@
+Mutharika GPE
+Malawi GPE
+Peter Mutharika PERSON
+Malawians NORP
+Saturday DATE
+Nyambadwe Primary School ORG
+one CARDINAL
+South African NORP
+25 CARDINAL
+Malawi PERSON
+Saturday DATE
+Chileka International Airport FAC
+Blantyre GPE
+Chikwawa District LOC
+one CARDINAL
+Chinese NORP
+American Government ORG
+Malawi PERSON
+the next three months DATE
+First ORDINAL
+1 CARDINAL
+today DATE
+Sanjika Palace FAC
+the Decent and Affordable Housing Subsidy Programme ORG
+Malata ORG
+Cement Subsidy PERSON
+Malawi ORG
+Dedza GPE
+Saturday DATE
+Kampepuza GPE
+Ntcheu GPE
+Friday DATE
+a minute TIME
+One CARDINAL
+Ndirande ORG
+Maria Chikaphonya PERSON
+First ORDINAL
+Blantyre City Council ORG
+Alfred Chanza PERSON
+more than 52 CARDINAL
+Blantyre City GPE
+Ndirande EVENT
+Mutharika PERSON
+15 CARDINAL
+56 CARDINAL
+17 CARDINAL

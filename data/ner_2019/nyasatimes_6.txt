@@ -1,0 +1,21 @@
+Chilima GPE
+Nsanje ORG
+Malawi VP ORG
+UTM Party ORG
+Dr Saulos Chilima PERSON
+Tuesday DATE
+Gamake GPE
+Nsanje GPE
+Tuesday DATE
+Chikuse ORG
+Mpomba NORP
+Chilima PERSON
+the years DATE
+Chilima GPE
+Malawi PERSON
+Idai FAC
+Nsanje GPE
+Chikwawa GPE
+Chiradzulu ORG
+60 CARDINAL
+thousands CARDINAL

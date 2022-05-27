@@ -1,0 +1,23 @@
+UTM ORG
+Kaliati GPE
+Mulanje GPE
+UTM Party ORG
+Patricia Kaliati PERSON
+Mulanje GPE
+Kaliati ORG
+Parliament ORG
+West Constituency GPE
+Wednesday DATE
+Luwanga Primary School ORG
+Kaliati GPE
+Kaliati ORG
+Willard Matola PERSON
+Luwanga Primary School ORG
+Kaliati GPE
+Parliament ORG
+Matola GPE
+Kaliati ORG
+Malawi PERSON
+Africa LOC
+Mozambique NORP
+early march this year DATE

@@ -1,0 +1,33 @@
+Illovo Malawi PERSON
+K13 ORG
+Chikwawa ORG
+Nsanje ORG
+Illovo Sugar Malawi ORG
+K13 million LAW
+Chikwawa PERSON
+Nsanje ORG
+Malawi ORG
+more than 50 CARDINAL
+hundreds CARDINAL
+Peter Mutharika PERSON
+the Southern Region LOC
+Chikwawa District PERSON
+34 CARDINAL
+53 920 CARDINAL
+Illovo Sugar Malawi- ORG
+Nchalo Estate Marc Pousson ORG
+10 tons QUANTITY
+100 CARDINAL
+one CARDINAL
+FES ORG
+Unitrans NORP
+Malawi Red Cross ORG
+Paramount ORG
+Illovo ORG
+Paramount Lundu PERSON
+Unitrans NORP
+K500 000 CARDINAL
+Total ORG
+K2 million CARDINAL
+K500 000 CARDINAL
+Farm Engineering Services ORG

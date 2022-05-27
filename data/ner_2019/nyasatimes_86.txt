@@ -1,0 +1,37 @@
+Chilima GPE
+Saulos Chilima PERSON
+UTM ORG
+the Shire Basin LOC
+Nsanje GPE
+UTM ORG
+RBL Engineers ORG
+February 2018 DATE
+K290 million CARDINAL
+Chilima ORG
+Zomba Matiya PERSON
+MASAF ORG
+4 CARDINAL
+Phalombe River GPE
+thousands CARDINAL
+Makina Village GPE
+million CARDINAL
+14 CARDINAL
+Malawi GPE
+about 187 CARDINAL
+Malawi ORG
+Red Cross ORG
+Save the Children ORG
+UN ORG
+MRA ORG
+South Africa GPE
+Tanzania GPE
+Chilima GPE
+Chilima PERSON
+Soche Hill GPE
+Blantyre PERSON
+Blantyre City Council ORG
+BCC ORG
+Chilima GPE
+BCC ORG
+DPP ORG
+BCC ORG

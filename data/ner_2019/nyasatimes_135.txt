@@ -1,0 +1,26 @@
+Malawi ORG
+Peter Mutharika PERSON
+Tuesday DATE
+about 114 000 CARDINAL
+about 10 CARDINAL
+March 5-8, 2019 DATE
+Mutharika GPE
+Malawi PERSON
+a minute TIME
+five CARDINAL
+Mangochi District LOC
+Moses Chimphepo PERSON
+five CARDINAL
+over 15 CARDINAL
+600 CARDINAL
+10 Traditional Authorities ORG
+four CARDINAL
+Makanjira Road FAC
+Malombe Road FAC
+TA Katuli FAC
+DC GPE
+six CARDINAL
+Malawi Red Cross Society ORG
+two CARDINAL
+Mutharika GPE
+Mangochi GPE

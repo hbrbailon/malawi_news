@@ -1,0 +1,33 @@
+Asian NORP
+Mangochi GPE
+Asian NORP
+Muslim NORP
+thousands CARDINAL
+Malawians NORP
+the past weeks DATE
+AMRA ORG
+Mangochi GPE
+Aamir Jakhura PERSON
+Nyasa Times ORG
+K72 million CARDINAL
+Malindi ORG
+Mangochi District LOC
+25kg QUANTITY
+Soya ORG
+Jakhura PERSON
+Chikwawa LOC
+Traditional Authority Chowe ORG
+Weeks ago DATE
+Mangochi District LOC
+Moses Chimphepo PERSON
+15 CARDINAL
+600 CARDINAL
+10 Traditional Authorities ORG
+four CARDINAL
+Makanjira Road FAC
+Malombe Road FAC
+TA Katuli FAC
+DC GPE
+six CARDINAL
+Malawi Red Cross Society ORG
+two CARDINAL

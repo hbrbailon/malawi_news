@@ -1,0 +1,33 @@
+Malawi GPE
+The Hindu Community of Blantyre ORG
+Shree Hindu Seva Mandal Blantyre ORG
+Phalombe GPE
+Hindus NORP
+million CARDINAL
+50 CARDINAL
+Likuni PERSON
+Navinmhai GPE
+Patel PERSON
+first ORDINAL
+today DATE
+thousands CARDINAL
+a few days from now DATE
+Nsanje ORG
+Chikwawa ORG
+10 CARDINAL
+Hindu NORP
+Malawi GPE
+the early 1800s DATE
+the Republic of Malawi GPE
+today DATE
+almost 2 weeks DATE
+first ORDINAL
+almost 2000 CARDINAL
+Health and Social Services ORG
+DHO ORG
+Phalombe GPE
+Dave Chibani PERSON
+Phalombe GPE
+5000 CARDINAL
+about 2,448 CARDINAL
+the Hindu Community ORG
