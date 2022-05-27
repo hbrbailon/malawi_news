@@ -1,0 +1,10 @@
+students
+items
+bac
+poly
+accountancy
+floods
+country
+camp
+senior
+village

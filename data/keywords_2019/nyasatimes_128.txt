@@ -1,0 +1,10 @@
+pil
+people
+world
+vision
+floods
+items
+affected
+victims
+phalombe
+relief

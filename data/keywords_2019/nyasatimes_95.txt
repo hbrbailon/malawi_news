@@ -1,0 +1,10 @@
+rains
+heavy
+north
+people
+districts
+weather
+experts
+centre
+regions
+disaster

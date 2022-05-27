@@ -1,0 +1,10 @@
+pressure
+system
+cyclone
+deep
+low
+degrees
+weather
+km
+nkhata
+bay
