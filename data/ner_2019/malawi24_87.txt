@@ -1,0 +1,17 @@
+UN ORG
+Malawi PERSON
+UN ORG
+António Guterres PERSON
+Malawi ORG
+At least 28 CARDINAL
+the past week DATE
+Monday DATE
+Guterres PERSON
+The United Nations ORG
+Malawian NORP
+UN ORG
+The World Food Programme ORG
+WFP ORG
+two CARDINAL
+the UN Food and Agriculture Organization ORG
+WFP ORG

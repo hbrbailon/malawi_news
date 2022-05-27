@@ -1,0 +1,59 @@
+The Nation Online WORK_OF_ART
+Central and Southern NORP
+Sunday DATE
+Nsanje GPE
+Nkhotakota ORG
+Zomba PERSON
+Chikwawa PERSON
+Department of Disaster Management Affairs ORG
+Chipiliro Khamula PERSON
+The Department of Climate
+Change Management and Meteorological Services ORG
+Chikanda Township GPE
+Zomba City GPE
+yesterday DATE
+one CARDINAL
+One CARDINAL
+46-year-old DATE
+Nessie Kamanga PERSON
+four CARDINAL
+three CARDINAL
+Chancellor College ORG
+Chanco ORG
+the University of Malawi ORG
+Unima ORG
+Kamanga ORG
+Frank Chiwowo PERSON
+the night TIME
+Zomba City Council ORG
+Mercy Chaluma PERSON
+Likangala ORG
+Chikanda GPE
+Chanco ORG
+Nsanje GPE
+two nights DATE
+Bangula ORG
+Nsanje Boma ORG
+Nsanje PERSON
+Chikwawa ORG
+the Shire Valley GPE
+Nsanje NORP
+DC GPE
+Reinghard Chavula PERSON
+yesterday DATE
+Nyachikadza, Tengani ORG
+Mlolo PERSON
+Khamula PERSON
+Tengani ORG
+260 CARDINAL
+15 CARDINAL
+Nkhotakota ORG
+the end of December
+2018 DATE
+Dodma ORG
+2 936 CARDINAL
+about $94.1 million MONEY
+this year DATE
+El ORG
+Africa LOC
+this year DATE

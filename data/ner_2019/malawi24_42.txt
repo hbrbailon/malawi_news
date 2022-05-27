@@ -1,0 +1,35 @@
+African Union ORG
+Malawi ORG
+The African Union ORG
+100,000 MONEY
+about K74 million MONEY
+Malawi ORG
+Displaced Persons ORG
+Rebecca Otengo PERSON
+Saturday DATE
+Nyangu Camp FAC
+Makhuwira GPE
+Chikwawa GPE
+100,000 MONEY
+Otengo ORG
+three CARDINAL
+AU.Otengo GPE
+US$100,000 and US$ MONEY
+150,000 MONEY
+Zimbabwe GPE
+Mozambique NORP
+Otengo ORG
+DoDMA’s ORG
+Response ORG
+Recovery Harris Kachale PERSON
+first ORDINAL
+over 89,000 CARDINAL
+Kachale PERSON
+AU ORG
+Thursday DATE
+15 CARDINAL
+Chikwawa PERSON
+Nsanje ORG
+DoDMA ORG
+the Malawi Defence Force ORG
+the South African National Defence Force ORG

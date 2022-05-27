@@ -1,0 +1,30 @@
+328 CARDINAL
+Karonga GPE
+Tuesday DATE
+Wednesday DATE
+Karonga GPE
+328 CARDINAL
+Lufilya River LOC
+nine CARDINAL
+Karonga District Council’s ORG
+DPD ORG
+Isaac Mkandawire PERSON
+four CARDINAL
+Ngerenge ORG
+nine CARDINAL
+Kilupula PERSON
+40 DATE
+70 CARDINAL
+Mkandawire ORG
+Kalongolera ORG
+Kyungu River LOC
+Kakolya GPE
+Ntakisi GPE
+Kalongolera ORG
+Mwambuli GPE
+Kalongolera GPE
+one CARDINAL
+two CARDINAL
+Mwakyusa ORG
+Mwangali GPE
+Kalongolera ORG

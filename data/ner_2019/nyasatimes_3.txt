@@ -1,0 +1,46 @@
+UK GPE
+Malawi NORP
+United Kingdom’s GPE
+UK GPE
+Department for International Development ORG
+DfID GPE
+£3.4 million MONEY
+Malawi GPE
+Thursday DATE
+DfID GPE
+DFID ORG
+140,000 CARDINAL
+the end of March DATE
+UK GPE
+the World Food Programme ORG
+UNICEF ORG
+the Red Cross ORG
+Phalombe GPE
+Nsanje ORG
+Chikwawa ORG
+DfID Head PERSON
+Malawi GPE
+David Beer PERSON
+Cyclone Idai NORP
+Malawi ORG
+UK GPE
+Malawians NORP
+£3.4 million MONEY
+Malawians NORP
+ CARDINAL
+65,000 CARDINAL
+ CARDINAL
+150,000 CARDINAL
+two months DATE
+ CARDINAL
+250,000 CARDINAL
+ CARDINAL
+130,000 CARDINAL
+Southern NORP
+At least 13 CARDINAL
+Chikwawa ORG
+Machinga ORG
+Mulanje GPE
+Nsanje ORG
+Phalombe PERSON
+Zomba PERSON

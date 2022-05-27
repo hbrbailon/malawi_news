@@ -1,0 +1,26 @@
+three CARDINAL
+Ntcheu GPE
+38 DATE
+two CARDINAL
+four CARDINAL
+Ntcheu GPE
+Ntcheu Police Public Relations ORG
+three CARDINAL
+one CARDINAL
+Tsangano-Proper ORG
+Chrisant Mkomazinja PERSON
+a hectic day DATE
+Malawi ORG
+around 0400 hours TIME
+Mr Chrisant Mkomazinja PERSON
+38 CARDINAL
+two CARDINAL
+three (3 DATE
+four CARDINAL
+4) years DATE
+Chigalu PERSON
+three CARDINAL
+Katsalambande ORG
+two CARDINAL
+Traditional Authority ORG
+Kwataine PERSON

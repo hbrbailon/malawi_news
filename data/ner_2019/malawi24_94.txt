@@ -1,0 +1,28 @@
+Botswana ORG
+Malawians NORP
+Friday DATE
+Malawi NORP
+March 2019 DATE
+the Botswana Defence Force ORG
+Chileka Airport FAC
+Blantyre GPE
+11.55 am TIME
+one tonne QUANTITY
+ten tonnes QUANTITY
+four tonnes QUANTITY
+500 CARDINAL
+Botswana ORG
+Malawi His Excellency Lt PERSON
+Louis Matshwenyego PERSON
+two CARDINAL
+two CARDINAL
+Matshwenyego GPE
+Disaster Management Affairs ORG
+Wilson Moleni PERSON
+Botswana ORG
+Arthur Peter Mutharika PERSON
+8th March DATE
+Botswana ORG
+Moleni PERSON
+Botswana ORG
+seven more tonnes QUANTITY

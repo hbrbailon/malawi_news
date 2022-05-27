@@ -1,0 +1,17 @@
+thousands CARDINAL
+a couple of days DATE
+a week ago DATE
+Malawi ORG
+At least 56 CARDINAL
+the Department of Disaster Management Affairs ORG
+557 CARDINAL
+184,589 CARDINAL
+922,949 CARDINAL
+Phalombe GPE
+1152 DATE
+1341 DATE
+8 CARDINAL
+Phalombe GPE
+Rhoda Kimu PERSON
+Bona GPE
+Kimu PERSON

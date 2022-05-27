@@ -1,0 +1,10 @@
+70-year-old DATE
+Ireen Ngwira ORG
+Mbiriwizi River LOC
+Chozoli Rumphi PERSON
+Ngwira PERSON
+morning hours TIME
+February 11, 2019 DATE
+Rumphi District Hospital FAC
+Kadoko Village FAC
+Traditional Authority ORG

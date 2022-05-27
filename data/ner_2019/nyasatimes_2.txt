@@ -1,0 +1,28 @@
+Russia GPE
+Malawi PERSON
+Russian NORP
+Malawi PERSON
+Malawi GPE
+30 1045 tons QUANTITY
+Homeland Security ORG
+Nicholas Dausi PERSON
+the Russian Federation GPE
+‘On GPE
+Vladimir Putin PERSON
+the Russian Federation GPE
+67 CARDINAL
+over a million CARDINAL
+64 CARDINAL
+75 CARDINAL
+America GPE
+Germany GPE
+Britain GPE
+Dausi PERSON
+Ambassadorof the Russian Federation ORG
+the Republics of Zimbabwe ORG
+Malawi, Sergey V. Bakharev ORG
+“On behalf PERSON
+the Russian Federation GPE
+Russia GPE
+Malawi PERSON
+two CARDINAL

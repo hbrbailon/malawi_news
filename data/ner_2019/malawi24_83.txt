@@ -1,0 +1,25 @@
+Malawi PERSON
+28 CARDINAL
+The Department of Disaster Management Affairs ORG
+28 CARDINAL
+124 CARDINAL
+last week DATE
+45 CARDINAL
+312 CARDINAL
+approximately 226,560 CARDINAL
+14 CARDINAL
+Saturday DATE
+Nicholas Dausi PERSON
+Chikwawa PERSON
+Mulanje PERSON
+Charles Mchacha PERSON
+Dausi PERSON
+Tuesday DATE
+14 CARDINAL
+thousands CARDINAL
+Arthur Peter Mutharika PERSON
+Friday DATE
+State of Disaster ORG
+the Department of Disaster Management Affairs ORG
+the Malawi Defence Force ORG
+The Malawi Police Service ORG

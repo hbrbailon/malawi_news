@@ -1,0 +1,46 @@
+Zambia GPE
+Rwanda GPE
+Malawi ORG
+Zambian NORP
+Rwanda GPE
+Malawi Government ORG
+Idai PRODUCT
+Zambia GPE
+US$580 000 MONEY
+Rwanda GPE
+Thursday DATE
+US$200 000 MONEY
+Malawi ORG
+Zambia GPE
+Sylvia Chalikosa PERSON
+Malawi PERSON
+Homeland Security Responsible for Disaster Management ORG
+Nicholas Dausi PERSON
+Thursday DATE
+Capital Hill LOC
+Lilongwe GPE
+Mozambique NORP
+Zimbabwe GPE
+two CARDINAL
+Dausi PERSON
+Zambian NORP
+Malawi PERSON
+Dausi PERSON
+Zambian NORP
+Malawi ORG
+John Ngwata Phiri PERSON
+Department of Disaster Management Affairs ORG
+Wilson Moleni ORG
+Idai FAC
+173 CARDINAL
+Rwanda GPE
+Malawi ORG
+Monique Mukaruliza PERSON
+Emmanuel Fabiano PERSON
+Capital Hill LOC
+200,000 MONEY
+Mukaruliza PERSON
+Fabiano ORG
+Rwandan NORP
+15 CARDINAL
+25 MONEY

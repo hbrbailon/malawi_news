@@ -1,0 +1,48 @@
+UK GPE
+Shelter Box PERSON
+Habitat ORG
+K223 PERSON
+Malawi PERSON
+United Kingdom GPE
+Shelter Box PERSON
+Habitat ORG
+Malawi GPE
+72 tonnes QUANTITY
+the Malawi Government ORG
+K223 million CARDINAL
+2000 CARDINAL
+Chikwawa PERSON
+Mulanje PERSON
+Shelter Box PERSON
+United Kingdom GPE
+Habitat for Humanity International ORG
+two CARDINAL
+Homeland Security ORG
+Nicholas Dausi PERSON
+Shelter Box volunteer PERSON
+Elizabeth Odell PERSON
+Rotarians NORP
+Malawians NORP
+this week DATE
+Odell PERSON
+Habitat ORG
+Humanity Malawi PERSON
+Kelvin Kalonga PERSON
+Kalonga GPE
+Dausi PERSON
+60 CARDINAL
+868 CARDINAL
+895 CARDINAL
+Dausi PERSON
+Malawi GPE
+2000 CARDINAL
+Chikwawa PERSON
+Mulanje PERSON
+one CARDINAL
+one CARDINAL
+two CARDINAL
+two CARDINAL
+two CARDINAL
+two CARDINAL
+two CARDINAL
+one CARDINAL

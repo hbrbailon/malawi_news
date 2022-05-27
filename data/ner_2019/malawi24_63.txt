@@ -1,0 +1,47 @@
+Zambia GPE
+Rwanda GPE
+Malawi PERSON
+Rwanda GPE
+Zambia GPE
+Thursday DATE
+K150 million CARDINAL
+K435 million CARDINAL
+Malawi PERSON
+Rwanda GPE
+Malawi ORG
+Monique Mukaruliza PERSON
+USD $200,000 MONEY
+K150 PERSON
+the Malawi Government ORG
+Thursday DATE
+Foreign Affairs and International Cooperation ORG
+Emmanuel Fabiano PERSON
+Rwandan NORP
+Zambia GPE
+Zambian NORP
+Sylvia Chalikosa PERSON
+Chalikosa ORG
+Zambian NORP
+Idai FAC
+Zambian NORP
+Mozambique NORP
+Zimbabwe GPE
+two CARDINAL
+Malawi PERSON
+Homeland Security Responsible for Disaster Management ORG
+Nicholas Dausi PERSON
+Zambian NORP
+Malawi PERSON
+Dausi PERSON
+Zambian NORP
+Malawi ORG
+John Ngwata Phiri PERSON
+Department of Disaster Management Affairs ORG
+Wilson Moleni ORG
+Idai FAC
+173 CARDINAL
+Malawi PERSON
+last month DATE
+57 CARDINAL
+thousands CARDINAL
+17 CARDINAL

@@ -1,0 +1,26 @@
+US GPE
+The United States GPE
+Malawi ORG
+US$4.3 million MONEY
+about K3.1 billion MONEY
+Malawi ORG
+US GPE
+Malawi Virginia Palmer ORG
+Wednesday, 10th April DATE
+2019.Palmer DATE
+Malawi GPE
+Nsanje District LOC
+Bangula Admarc Camp PERSON
+US$4.3 million MONEY
+Palmer PERSON
+US GPE
+March DATE
+2019 DATE
+over 89,000 CARDINAL
+15 CARDINAL
+60 CARDINAL
+thousands CARDINAL
+Malawians NORP
+Nicholas Dausi PERSON
+the US Government ORG
+Dausi PERSON

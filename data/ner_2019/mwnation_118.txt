@@ -1,0 +1,35 @@
+1 200 CARDINAL
+3 CARDINAL
+The Nation Online WORK_OF_ART
+At least 1 206 CARDINAL
+three CARDINAL
+Mafale 2 Camp ORG
+Grey Phazi PERSON
+Friday DATE
+Habitat ORG
+Humanity Malawi PERSON
+600 CARDINAL
+Chikwawa GPE
+317 CARDINAL
+cholera ORG
+Habitat ORG
+Humanity Malawi ORG
+Jallison Chaguluka PERSON
+840 000 CARDINAL
+K18.7
+million PERSON
+Habitat ORG
+600 CARDINAL
+today DATE
+Chikwawa GPE
+tarpaulin GPE
+One CARDINAL
+Mafale 2 Camp ORG
+Wotchi Mose,17 GPE
+three CARDINAL
+Habitat ORG
+Humanity Malawi PERSON
+About 94 000 CARDINAL
+week-long DATE
+two weeks ago DATE
+187 CARDINAL

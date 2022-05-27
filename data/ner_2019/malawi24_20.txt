@@ -1,0 +1,40 @@
+Nsanje NORP
+years DATE
+Malawi PERSON
+This year DATE
+56 CARDINAL
+2012 DATE
+10 CARDINAL
+3million MONEY
+2015 DATE
+1 CARDINAL
+101 CARDINAL
+264 CARDINAL
+230 CARDINAL
+000 CARDINAL
+over 170 CARDINAL
+172 CARDINAL
+$335 million MONEY
+$494 million MONEY
+this year DATE
+the Department of Meteorology and Climate Change ORG
+Kwacha ORG
+the decades DATE
+2018 DATE
+MK290 million CARDINAL
+Shire River Basin Management Programme BRL FAC
+823 meter QUANTITY
+Nkhande LOC
+Nsanje GPE
+Malawi ORG
+Saulos Chilima PERSON
+Anati NORP
+Each year DATE
+billions CARDINAL
+billions CARDINAL
+the decades DATE
+Malawi ORG
+Chikwawa PERSON
+Nsanje ORG
+Malawi Government ORG
+Malawi GPE

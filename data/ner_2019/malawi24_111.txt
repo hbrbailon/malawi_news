@@ -1,0 +1,20 @@
+Lilongwe GPE
+about three hours TIME
+Lilongwe GPE
+yesterday DATE
+Chipasula Bridge PERSON
+Kawale Bridge FAC
+Kawale GPE
+Department of Disaster Management Affairs ORG
+Lilongwe PERSON
+109 CARDINAL
+approximately 600 CARDINAL
+Kaliyeka Township GPE
+Biwi ORG
+Chipasula Mchesi PERSON
+Kawale GPE
+Lilongwe City ORG
+the Department Disaster Management Affairs ORG
+Homeland Security ORG
+Nicholas Dausi PERSON
+Friday DATE

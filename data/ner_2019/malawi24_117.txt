@@ -1,0 +1,28 @@
+Mudi River LOC
+19-year-old DATE
+Namiwawa Township GPE
+Blantyre GPE
+Thursday DATE
+afternoon TIME
+Mudi River LOC
+Blantyre PERSON
+Dorrah Chathyoka PERSON
+Jimmy Banda PERSON
+Tate Private Secondary School ORG
+Chathyoka PERSON
+Banda PERSON
+Thursday DATE
+afternoon TIME
+Mudi River LOC
+Banda PERSON
+two CARDINAL
+Banda PERSON
+Chilomoni PERSON
+Banda PERSON
+Friday DATE
+Queen Elizabeth Central Hospital ORG
+Jimmy Banda PERSON
+Manyowe ORG
+Traditional Authority ORG
+Kuntaja GPE
+Blantyre District GPE

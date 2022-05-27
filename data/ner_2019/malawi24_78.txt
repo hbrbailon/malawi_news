@@ -1,0 +1,13 @@
+Phalombe GPE
+Malawi24 PERSON
+Malawi Environmental Health Association ORG
+Ming’ambo Primary School ORG
+Lidia Fadweck ORG
+daily DATE
+Mavuto Mumderanji PERSON
+400 CARDINAL
+Mumderanji PERSON
+five CARDINAL
+the school days DATE
+MEHA ORG
+Penjani Chunda PERSON

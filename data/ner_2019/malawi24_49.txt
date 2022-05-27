@@ -1,0 +1,25 @@
+Malawi ORG
+Malawi ORG
+Peter Mutharika PERSON
+the Northern Region LOC
+the State of Disaster ORG
+South LOC
+Southern Region LOC
+23 CARDINAL
+At least twelve CARDINAL
+twenty-nine CARDINAL
+thousands CARDINAL
+Southern Region LOC
+Malawi PERSON
+the Northern Region LOC
+State House ORG
+State House ORG
+Mutharika GPE
+Southern Malawi PERSON
+the Department of Disaster Management Affairs ORG
+the Ministry of Homeland Security ORG
+Mutharika GPE
+the Malawi Defence Force ORG
+one hundred thousand CARDINAL
+Saturday DATE
+afternoon TIME

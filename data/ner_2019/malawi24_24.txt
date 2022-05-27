@@ -1,0 +1,21 @@
+six CARDINAL
+six CARDINAL
+Chikwawa PERSON
+Constable Foster Benjamin ORG
+one CARDINAL
+a Health Surveillance Assistant ORG
+two CARDINAL
+Livunzu River LOC
+Wednesday evening TIME
+Maperera Health Centre FAC
+Nkhathe River LOC
+East Bank GPE
+Khongono LOC
+Traditional Authority Changata ORG
+Thyolo GPE
+Thyolo ORG
+35-year-old DATE
+Alice Kalikokha PERSON
+6-year-old DATE
+Traditional Authority Maseya’s ORG
+six CARDINAL

@@ -1,0 +1,26 @@
+Balaka ORG
+K1.2 million CARDINAL
+Aubrey Duwa PERSON
+Duwa PERSON
+today DATE
+one CARDINAL
+Duwa PERSON
+five CARDINAL
+Mpulura GPE
+Sawali GPE
+Matola GPE
+Chiendausiku GPE
+Balaka GPE
+One CARDINAL
+Elles Sangweni PERSON
+Matola village GPE
+56 year old DATE
+the night of TIME
+March DATE
+2019 DATE
+daily DATE
+Malawi PERSON
+three CARDINAL
+African NORP
+Idai PRODUCT
+Approximately 850 thousand CARDINAL
