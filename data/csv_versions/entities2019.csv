@@ -1,0 +1,4188 @@
+doc_id,entity,label
+malawi24_108,UTM,ORG
+malawi24_108,UTM,ORG
+malawi24_108,Lilongwe,GPE
+malawi24_108,Friday,DATE
+malawi24_108,Biwi,ORG
+malawi24_108,Kawale,GPE
+malawi24_108,Mchesi,GPE
+malawi24_108,Patricia Kaliati,PERSON
+malawi24_108,Kaliati,GPE
+malawi24_108,Democratic Progressive Party,ORG
+malawi24_108,the Department of Disaster and Management Affairs,ORG
+malawi24_108,Kalimbo,PERSON
+malawi24_108,Kalimbo,PERSON
+malawi24_108,UTM,ORG
+malawi24_108,28,CARDINAL
+malawi24_108,120,CARDINAL
+malawi24_134,328,CARDINAL
+malawi24_134,Karonga,GPE
+malawi24_134,Tuesday,DATE
+malawi24_134,Wednesday,DATE
+malawi24_134,Karonga,GPE
+malawi24_134,328,CARDINAL
+malawi24_134,Lufilya River,LOC
+malawi24_134,nine,CARDINAL
+malawi24_134,Karonga District Council’s,ORG
+malawi24_134,DPD,ORG
+malawi24_134,Isaac Mkandawire,PERSON
+malawi24_134,four,CARDINAL
+malawi24_134,Ngerenge,ORG
+malawi24_134,nine,CARDINAL
+malawi24_134,Kilupula,PERSON
+malawi24_134,40,DATE
+malawi24_134,70,CARDINAL
+malawi24_134,Mkandawire,ORG
+malawi24_134,Kalongolera,ORG
+malawi24_134,Kyungu River,LOC
+malawi24_134,Kakolya,GPE
+malawi24_134,Ntakisi,GPE
+malawi24_134,Kalongolera,ORG
+malawi24_134,Mwambuli,GPE
+malawi24_134,Kalongolera,GPE
+malawi24_134,one,CARDINAL
+malawi24_134,two,CARDINAL
+malawi24_134,Mwakyusa,ORG
+malawi24_134,Mwangali,GPE
+malawi24_134,Kalongolera,ORG
+times.mw_76,Lazarus Chakwera,PERSON
+times.mw_76,Jameson Chauluka,PERSON
+times.mw_76,Malawi Congress Party,ORG
+times.mw_76,Lazarus Chakwera,PERSON
+times.mw_76,year-out,DATE
+times.mw_76,Chakwera,PERSON
+times.mw_76,Nyachikadza and Mankhokwe,ORG
+times.mw_76,Ntowe,PERSON
+times.mw_76,Nsanje District,LOC
+times.mw_76,Sunday,DATE
+times.mw_76,Department of Disaster Management Affairs,ORG
+times.mw_76,56,CARDINAL
+times.mw_76,577,CARDINAL
+times.mw_76,the Southern Region,LOC
+times.mw_76,Chakwera,ORG
+times.mw_76,Malawi,PERSON
+times.mw_76,“Plans,NORP
+times.mw_76,Chakwera,ORG
+times.mw_76,Shire River,LOC
+times.mw_76,Chakwera,ORG
+times.mw_76,over 2,000,CARDINAL
+times.mw_76,two,CARDINAL
+nyasatimes_77,Hailstorm,ORG
+nyasatimes_77,Kenneth,PERSON
+nyasatimes_77,Hailstorm,ORG
+nyasatimes_77,Rumphi,NORP
+nyasatimes_77,Kenneth,PERSON
+nyasatimes_77,Friday,DATE
+nyasatimes_77,Mlowe,GPE
+nyasatimes_77,three,CARDINAL
+nyasatimes_77,five,CARDINAL
+nyasatimes_77,nine,CARDINAL
+nyasatimes_77,Kenneth,PERSON
+nyasatimes_77,Nicholas Dausi,PERSON
+nyasatimes_77,Hastings Kachale,PERSON
+nyasatimes_77,the Department of Climate Change and Meteorological Services,ORG
+nyasatimes_77,Jolam Nkhokwe,PERSON
+nyasatimes_77,Climate Change and Meteorological Services,ORG
+nyasatimes_77,the Indian Ocean,LOC
+nyasatimes_77,1008,DATE
+nyasatimes_77,Indian Ocean,LOC
+nyasatimes_77,Madagascar,GPE
+nyasatimes_77,9.4 degrees,QUANTITY
+nyasatimes_77,50.3 degrees,QUANTITY
+nyasatimes_77,1874km,QUANTITY
+nyasatimes_77,Nkhata Bay,FAC
+nyasatimes_88,Illovo Malawi,PERSON
+nyasatimes_88,K13,ORG
+nyasatimes_88,Chikwawa,ORG
+nyasatimes_88,Nsanje,ORG
+nyasatimes_88,Illovo Sugar Malawi,ORG
+nyasatimes_88,K13 million,LAW
+nyasatimes_88,Chikwawa,PERSON
+nyasatimes_88,Nsanje,ORG
+nyasatimes_88,Malawi,ORG
+nyasatimes_88,more than 50,CARDINAL
+nyasatimes_88,hundreds,CARDINAL
+nyasatimes_88,Peter Mutharika,PERSON
+nyasatimes_88,the Southern Region,LOC
+nyasatimes_88,Chikwawa District,PERSON
+nyasatimes_88,34,CARDINAL
+nyasatimes_88,53 920,CARDINAL
+nyasatimes_88,Illovo Sugar Malawi-,ORG
+nyasatimes_88,Nchalo Estate Marc Pousson,ORG
+nyasatimes_88,10 tons,QUANTITY
+nyasatimes_88,100,CARDINAL
+nyasatimes_88,one,CARDINAL
+nyasatimes_88,FES,ORG
+nyasatimes_88,Unitrans,NORP
+nyasatimes_88,Malawi Red Cross,ORG
+nyasatimes_88,Paramount,ORG
+nyasatimes_88,Illovo,ORG
+nyasatimes_88,Paramount Lundu,PERSON
+nyasatimes_88,Unitrans,NORP
+nyasatimes_88,K500 000,CARDINAL
+nyasatimes_88,Total,ORG
+nyasatimes_88,K2 million,CARDINAL
+nyasatimes_88,K500 000,CARDINAL
+nyasatimes_88,Farm Engineering Services,ORG
+nyasatimes_62,Chipasula,PERSON
+nyasatimes_62,Lilongwe,GPE
+nyasatimes_62,Human Rights Defenders Coalition,ORG
+nyasatimes_62,Chipasula,GPE
+nyasatimes_62,Lilongwe,GPE
+nyasatimes_62,HRDC,ORG
+nyasatimes_62,Timothy Mtambo,PERSON
+nyasatimes_62,HRDC,ORG
+nyasatimes_62,the floods year,DATE
+nyasatimes_62,year,DATE
+nyasatimes_62,Mtambo,ORG
+nyasatimes_62,HRDC Gift Trapence,ORG
+nyasatimes_62,Kawale,GPE
+nyasatimes_62,500,CARDINAL
+nyasatimes_62,Kawale,GPE
+nyasatimes_62,Biwi,ORG
+nyasatimes_62,Chipasula,PERSON
+nyasatimes_62,22,CARDINAL
+malawi24_24,six,CARDINAL
+malawi24_24,six,CARDINAL
+malawi24_24,Chikwawa,PERSON
+malawi24_24,Constable Foster Benjamin,ORG
+malawi24_24,one,CARDINAL
+malawi24_24,a Health Surveillance Assistant,ORG
+malawi24_24,two,CARDINAL
+malawi24_24,Livunzu River,LOC
+malawi24_24,Wednesday evening,TIME
+malawi24_24,Maperera Health Centre,FAC
+malawi24_24,Nkhathe River,LOC
+malawi24_24,East Bank,GPE
+malawi24_24,Khongono,LOC
+malawi24_24,Traditional Authority Changata,ORG
+malawi24_24,Thyolo,GPE
+malawi24_24,Thyolo,ORG
+malawi24_24,35-year-old,DATE
+malawi24_24,Alice Kalikokha,PERSON
+malawi24_24,6-year-old,DATE
+malawi24_24,Traditional Authority Maseya’s,ORG
+malawi24_24,six,CARDINAL
+malawi24_26,Blantyre Press Club,ORG
+malawi24_26,The Blantyre Press Club,ORG
+malawi24_26,this Friday,DATE
+malawi24_26,Blantyre,GPE
+malawi24_26,thousands,CARDINAL
+malawi24_26,Chikwawa,GPE
+malawi24_26,Blantyre Press Club,ORG
+malawi24_26,Blessings Kanache,PERSON
+malawi24_26,thousands,CARDINAL
+malawi24_26,15,CARDINAL
+malawi24_26,Kanache,ORG
+malawi24_26,Malawian,NORP
+malawi24_26,Chikwawa,LOC
+malawi24_26,Chikwawa,PERSON
+malawi24_26,Kanache,ORG
+malawi24_26,Nsanje,ORG
+malawi24_26,Blantyre,PERSON
+malawi24_26,Kanache,ORG
+malawi24_26,Mibawa Multi,PERSON
+malawi24_26,Limbe,GPE
+malawi24_26,K2500,NORP
+malawi24_26,Malawi,ORG
+malawi24_26,The Black Missionaries,ORG
+malawi24_26,the Malawi Red Cross,ORG
+malawi24_26,Friday,DATE
+nyasatimes_60,Lower Shire,GPE
+nyasatimes_60,Nsanje,GPE
+nyasatimes_60,two,CARDINAL
+nyasatimes_60,One,CARDINAL
+nyasatimes_60,Nyachikadza,PERSON
+nyasatimes_60,Nyachikadza,PERSON
+nyasatimes_60,Malemia,PERSON
+nyasatimes_60,Nsanje,ORG
+nyasatimes_60,At least 500,CARDINAL
+nyasatimes_60,Nsanje,GPE
+nyasatimes_48,Balaka,GPE
+nyasatimes_48,2,CARDINAL
+nyasatimes_48,Mangochi,GPE
+nyasatimes_48,two year old,DATE
+nyasatimes_48,Balaka,GPE
+nyasatimes_48,Friday,DATE
+nyasatimes_48,evening,TIME
+nyasatimes_48,Balaka District,LOC
+nyasatimes_48,the past five days,DATE
+nyasatimes_48,Dorothy Mauwa,PERSON
+nyasatimes_48,28,DATE
+nyasatimes_48,Emmanuella Bwekere,ORG
+nyasatimes_48,Friday,DATE
+nyasatimes_48,10 pm,TIME
+nyasatimes_48,three,CARDINAL
+nyasatimes_48,Mauwa,PERSON
+nyasatimes_48,three,CARDINAL
+nyasatimes_48,Thursday,DATE
+nyasatimes_48,this day,DATE
+nyasatimes_48,Friday,DATE
+nyasatimes_48,around 10 pm,TIME
+nyasatimes_48,Saturday,DATE
+nyasatimes_48,Balaka,GPE
+nyasatimes_48,Emmanuelle,GPE
+nyasatimes_48,Samati Village,GPE
+nyasatimes_48,Traditional Authority,ORG
+nyasatimes_48,Balaka,GPE
+nyasatimes_48,Mangochi,GPE
+nyasatimes_48,two,CARDINAL
+nyasatimes_48,the early hours,TIME
+nyasatimes_48,Sunday,DATE
+nyasatimes_48,two,CARDINAL
+nyasatimes_48,Patuma Welemu,ORG
+nyasatimes_48,53,DATE
+nyasatimes_48,Rose Ayami,PERSON
+nyasatimes_48,6,DATE
+nyasatimes_48,Nsinje Village,GPE
+nyasatimes_48,Group Village,ORG
+nyasatimes_48,Headman Michesi,PERSON
+nyasatimes_48,Mangochi District,LOC
+nyasatimes_48,the night,TIME
+nyasatimes_48,two,CARDINAL
+nyasatimes_48,Koche Hospital,ORG
+nyasatimes_48,DC,GPE
+nyasatimes_48,The Department of Disaster Management Affairs,ORG
+nyasatimes_48,Sunday,DATE
+nyasatimes_48,afternoon,TIME
+nyasatimes_48,Homeland Security,ORG
+nyasatimes_48,Nicholas Dausi,PERSON
+nyasatimes_48,two,CARDINAL
+nyasatimes_48,Monday,DATE
+nyasatimes_48,Mangochi,GPE
+nyasatimes_48,7:30am,CARDINAL
+nyasatimes_48,Balaka District,LOC
+nyasatimes_48,DoDMA Public Relations Officer,ORG
+nyasatimes_48,Chipiliro Khamula,PERSON
+nyasatimes_48,Sunday,DATE
+nyasatimes_61,Belgium,GPE
+nyasatimes_61,Ronny van Geneugden,PERSON
+nyasatimes_61,Wednesday,DATE
+nyasatimes_61,Mwalija,PRODUCT
+nyasatimes_61,Chikwawa,GPE
+nyasatimes_61,Flames,ORG
+nyasatimes_61,James Sangala,PERSON
+nyasatimes_61,Geneugden,PERSON
+nyasatimes_61,Belgium,GPE
+nyasatimes_61,Malawi,PERSON
+nyasatimes_61,some two years ago,DATE
+nyasatimes_61,Chikwawa District Commissioner,ORG
+nyasatimes_61,Lusizi Nhlane,PERSON
+nyasatimes_61,RVG,ORG
+nyasatimes_61,Nhlane,PERSON
+nyasatimes_61,Innocent Jumbe,PERSON
+nyasatimes_61,Peter Joseph,PERSON
+nyasatimes_61,RVG,ORG
+nyasatimes_61,today,DATE
+nyasatimes_61,Jumbe,PERSON
+nyasatimes_61,Chikwawa,GPE
+nyasatimes_61,15,000,CARDINAL
+nyasatimes_61,58,000,CARDINAL
+nyasatimes_61,37,CARDINAL
+nyasatimes_61,Malawi,PERSON
+nyasatimes_61,FAM,ORG
+nyasatimes_61,this Friday,DATE
+nyasatimes_61,Belgian,NORP
+nyasatimes_61,two-year,DATE
+nyasatimes_61,Malawi,ORG
+nyasatimes_61,Flames,ORG
+nyasatimes_61,21,CARDINAL
+nyasatimes_61,two,CARDINAL
+nyasatimes_61,eight,CARDINAL
+nyasatimes_61,11,CARDINAL
+nyasatimes_61,first,ORDINAL
+nyasatimes_61,two,CARDINAL
+nyasatimes_61,Flames,ORG
+nyasatimes_61,Kenya 0-0,PERSON
+nyasatimes_61,Flames,ORG
+nyasatimes_61,one and a half years ago,DATE
+nyasatimes_61,Togo’s Hawks,ORG
+nyasatimes_75,this week,DATE
+nyasatimes_75,The Department of Climate Change and Meteorological Services,ORG
+nyasatimes_75,this week,DATE
+nyasatimes_75,Jolamu Nkhokwe,PERSON
+nyasatimes_75,this week,DATE
+nyasatimes_75,Congo,GPE
+nyasatimes_75,Nyasa Times,ORG
+nyasatimes_75,Department of Disaster Management Affairs,ORG
+nyasatimes_75,Chipiliro Khamula,PERSON
+nyasatimes_75,Mangochi,GPE
+nyasatimes_75,Nsanje,GPE
+nyasatimes_75,Salima,GPE
+nyasatimes_75,Karonga,GPE
+nyasatimes_75,Chikwawa,ORG
+mwnation_32,St Joseph’s Mission
+Hospital,ORG
+mwnation_32,Nguludi,NORP
+mwnation_32,Chiradzulu,GPE
+mwnation_32,March 7,DATE
+mwnation_32,four days,DATE
+mwnation_32,Fanny Kazembe,PERSON
+mwnation_32,Traditional Authority,ORG
+mwnation_32,Mpama,PERSON
+mwnation_32,Anne
+Chinaima,PERSON
+mwnation_32,Chiradzulu District
+Hospital,ORG
+mwnation_32,Elizabeth Hospital,ORG
+mwnation_32,Friday March 8,DATE
+mwnation_32,Tuesday, March 14,DATE
+mwnation_32,Nguludi,NORP
+mwnation_32,St
+Joseph’s Hospital,PERSON
+mwnation_32,Sister Mercy Kanyombo,PERSON
+mwnation_32,Chiradzulu District Hospital,ORG
+mwnation_32,Chiradzulu
+District Hospital,ORG
+mwnation_32,house,ORG
+mwnation_32,eight,CARDINAL
+mwnation_32,seven,CARDINAL
+mwnation_32,one,CARDINAL
+mwnation_32,Qech,PERSON
+mwnation_32,Timotheos Foundation at Ntonda,ORG
+mwnation_32,Chiradzulu,GPE
+mwnation_32,Mpama,ORG
+mwnation_32,one,CARDINAL
+mwnation_32,March 5 to March 8,DATE
+mwnation_32,17,CARDINAL
+mwnation_32,28,CARDINAL
+mwnation_32,370,CARDINAL
+mwnation_32,922 945,CARDINAL
+mwnation_32,seven,CARDINAL
+mwnation_32,the middle of the night,DATE
+mwnation_32,Chiradzulu North,ORG
+mwnation_32,Fafafa River,LOC
+mwnation_32,Chiradzulu Mountain,ORG
+mwnation_32,four days,DATE
+mwnation_32,Fafafa River,LOC
+mwnation_32,maize,PERSON
+mwnation_32,seven,CARDINAL
+mwnation_32,18-year-old,DATE
+mwnation_32,About 992,CARDINAL
+mwnation_32,Mpama,ORG
+mwnation_32,six,CARDINAL
+mwnation_32,Mpama,ORG
+mwnation_32,Chitera,PERSON
+mwnation_32,Ntchena,ORG
+mwnation_32,Nkalo,ORG
+mwnation_32,three,CARDINAL
+mwnation_32,More than 28 381,CARDINAL
+mwnation_32,DC) Malango Bottomani,ORG
+mwnation_32,DC,GPE
+mwnation_32,DC,GPE
+nyasatimes_59,Peter Mutharika,PERSON
+nyasatimes_59,Wednesday March 20 2019,DATE
+nyasatimes_59,Molele,PERSON
+nyasatimes_59,Thyolo,GPE
+nyasatimes_59,Molele Primary School,ORG
+nyasatimes_59,Traditional Authority,ORG
+nyasatimes_59,Up to 91 077,CARDINAL
+nyasatimes_59,Thyolo,GPE
+nyasatimes_59,eight,CARDINAL
+nyasatimes_59,25,CARDINAL
+nyasatimes_59,59 000,CARDINAL
+nyasatimes_59,Tuesday,DATE
+nyasatimes_59,Mutharika,GPE
+nyasatimes_59,the Social Cash Transfer and the Decent and Affordable Housing Programme,EVENT
+nyasatimes_59,Chikuse,ORG
+nyasatimes_59,Chikwawa District,LOC
+nyasatimes_59,Monday,DATE
+nyasatimes_59,afternoon,TIME
+nyasatimes_59,Mutharika,GPE
+nyasatimes_59,daily,DATE
+nyasatimes_59,Ministry of Lands, Housing and Urban Development,ORG
+nyasatimes_59,the Social Cash Transfer,ORG
+nyasatimes_59,Chikuse,ORG
+nyasatimes_59,Paramount,ORG
+nyasatimes_59,every Traditional Authority (TA,ORG
+nyasatimes_59,Mutharika,PERSON
+nyasatimes_59,Lilongwe,PERSON
+nyasatimes_59,today,DATE
+nyasatimes_59,Lundu,ORG
+nyasatimes_71,Malawi,PERSON
+nyasatimes_71,K8.7,ORG
+nyasatimes_71,Red Cross,ORG
+nyasatimes_71,ICT,ORG
+nyasatimes_71,TNM Plc,ORG
+nyasatimes_71,Malawi Red Cross Society,ORG
+nyasatimes_71,Sobhuza Ngwenya,PERSON
+nyasatimes_71,TNM,ORG
+nyasatimes_71,the State of Disaster,ORG
+nyasatimes_71,14,CARDINAL
+nyasatimes_71,20 kg,QUANTITY
+nyasatimes_71,4.5,CARDINAL
+nyasatimes_71,2 litre,QUANTITY
+nyasatimes_71,2 kg,QUANTITY
+nyasatimes_71,500,CARDINAL
+nyasatimes_71,about 2,000,CARDINAL
+nyasatimes_71,Malawi Red Cross Society,ORG
+nyasatimes_71,3,CARDINAL
+nyasatimes_71,Nsanje,GPE
+nyasatimes_71,Chikwawa,PERSON
+nyasatimes_71,Ngwenya,ORG
+nyasatimes_71,TNM,ORG
+nyasatimes_71,Red Cross,ORG
+nyasatimes_71,TNM,ORG
+nyasatimes_71,Malawi Red Cross Society,ORG
+nyasatimes_71,The Red Cross,ORG
+nyasatimes_71,TNM Plc,ORG
+nyasatimes_71,TNM,ORG
+nyasatimes_71,Malawian,NORP
+nyasatimes_71,Malawi Red Cross,ORG
+nyasatimes_71,Malawi Red Cross,ORG
+nyasatimes_71,Programmes and Development,ORG
+nyasatimes_71,Prisca Chisala,GPE
+nyasatimes_71,2015,DATE
+nyasatimes_71,Chisala,PERSON
+nyasatimes_71,Chisala,PERSON
+nyasatimes_71,TNM,ORG
+nyasatimes_71,the Department of Disaster Management Affairs,ORG
+nyasatimes_71,the Ministry of Homeland Security,ORG
+nyasatimes_71,56,CARDINAL
+nyasatimes_71,this week,DATE
+nyasatimes_71,Malawi,PERSON
+nyasatimes_71,Mozambique,NORP
+nyasatimes_71,Cyclone Idai,PRODUCT
+nyasatimes_65,Tanzania,GPE
+nyasatimes_65,Malawi,PERSON
+nyasatimes_65,Cyclone Idai,PRODUCT
+nyasatimes_65,the United Republic of Tanzania,GPE
+nyasatimes_65,donating 200 metric tons,QUANTITY
+nyasatimes_65,Friday,DATE
+nyasatimes_65,Malawi,ORG
+nyasatimes_65,Karonga Admarc,PERSON
+nyasatimes_65,Tanzanian,NORP
+nyasatimes_65,Malawi,ORG
+nyasatimes_65,Benedicto Martin Mashiba,PERSON
+nyasatimes_65,Malawi,PERSON
+nyasatimes_65,Peter Mutharika,PERSON
+nyasatimes_65,March 10,DATE
+nyasatimes_65,the Southern Region,LOC
+nyasatimes_65,59,CARDINAL
+nyasatimes_65,Malawi,PERSON
+nyasatimes_65,John Pombe,PERSON
+nyasatimes_65,Magufuli,GPE
+nyasatimes_65,Mashiba,ORG
+nyasatimes_65,the Department of Disaster Management Affairs,ORG
+nyasatimes_65,Levi Manda,PERSON
+nyasatimes_65,Tanzania,GPE
+nyasatimes_65,13,CARDINAL
+nyasatimes_65,more than 400,000,CARDINAL
+nyasatimes_65,two,CARDINAL
+nyasatimes_65,Manda,PERSON
+nyasatimes_65,Paramount,ORG
+nyasatimes_65,Karonga District,LOC
+nyasatimes_64,South Africa,GPE
+nyasatimes_64,Malawi,PERSON
+nyasatimes_64,Peter Mutharika,PERSON
+nyasatimes_64,South African,NORP
+nyasatimes_64,Malawi,ORG
+nyasatimes_64,Chileka Airport,FAC
+nyasatimes_64,Blantyre,GPE
+nyasatimes_64,Sunday,DATE
+nyasatimes_64,afternoon,TIME
+nyasatimes_64,South African,NORP
+nyasatimes_64,Mutharika,GPE
+nyasatimes_64,Malawi,PERSON
+nyasatimes_64,Malawians,NORP
+nyasatimes_64,2015/2016,DATE
+nyasatimes_64,Llyold Muhara,PERSON
+nyasatimes_64,Malawi,PERSON
+nyasatimes_64,28,CARDINAL
+nyasatimes_64,Chipiliro Khamula,PERSON
+nyasatimes_64,Malawi’s Department of Disaster Management,ORG
+nyasatimes_64,the Ministry of Homeland Security,ORG
+nyasatimes_64,Sunday,DATE
+nyasatimes_64,the Department of Disaster Management Affairs,ORG
+nyasatimes_64,Machinga,GPE
+nyasatimes_64,Chikwawa,ORG
+nyasatimes_64,Zomba,PERSON
+nyasatimes_64,Mulanje,PERSON
+nyasatimes_64,Nsanje,ORG
+nyasatimes_64,Thyolo,GPE
+nyasatimes_64,Chiradzulu,GPE
+nyasatimes_64,Blantyre,GPE
+nyasatimes_64,Neno,GPE
+nyasatimes_64,Mwanza,ORG
+nyasatimes_64,Dedza,ORG
+nyasatimes_64,Balaka,GPE
+nyasatimes_64,Mangochi,GPE
+nyasatimes_64,Over 22,000,CARDINAL
+nyasatimes_64,DoDMA,ORG
+nyasatimes_64,the Malawi Defence Force,ORG
+nyasatimes_64,Henry Mussa,PERSON
+nyasatimes_64,Parliamentarian,NORP
+nyasatimes_64,Monday,DATE
+nyasatimes_64,Mussa,ORG
+nyasatimes_64,Chiradzulu,GPE
+nyasatimes_64,3000,CARDINAL
+nyasatimes_64,Chiradzulu,GPE
+nyasatimes_64,3,019,CARDINAL
+nyasatimes_64,the Department of Disaster Management Affairs,ORG
+nyasatimes_64,Mussa,ORG
+nyasatimes_64,Nicholas Dausi,PERSON
+nyasatimes_64,Chiradzulu,GPE
+nyasatimes_64,Chikwawa,ORG
+nyasatimes_64,Mulanje,PERSON
+nyasatimes_64,Zomba,PERSON
+nyasatimes_70,Peter Mutharika,PERSON
+nyasatimes_70,Saturday,DATE
+nyasatimes_70,Mileme Primary School,ORG
+nyasatimes_70,Traditional Authority,ORG
+nyasatimes_70,Phalombe,GPE
+nyasatimes_70,last week,DATE
+nyasatimes_70,Mutharika,GPE
+nyasatimes_70,the Ministry of Lands, Housing and Urban Development,ORG
+nyasatimes_70,the Decent and Affordable Housing Subsidy Programme,ORG
+nyasatimes_70,Cement,ORG
+nyasatimes_70,Malata Subsidy,PERSON
+nyasatimes_70,Malawi,PERSON
+nyasatimes_70,Africa,LOC
+nyasatimes_70,Mutharika,GPE
+nyasatimes_70,the United Nations,ORG
+nyasatimes_70,Commission of Enquiry,ORG
+nyasatimes_70,this week,DATE
+nyasatimes_70,the Supreme Court of Appeal,ORG
+nyasatimes_70,Malawian,NORP
+nyasatimes_70,South Africa,GPE
+nyasatimes_70,America,GPE
+nyasatimes_70,“The US Government,ORG
+nyasatimes_70,Malawi,PERSON
+nyasatimes_70,K146 million,CARDINAL
+nyasatimes_70,South Africa,GPE
+nyasatimes_70,Kaleso,ORG
+nyasatimes_70,one,CARDINAL
+nyasatimes_70,18,CARDINAL
+nyasatimes_70,Kaleso,ORG
+nyasatimes_70,Malawi Red Cross Society,ORG
+nyasatimes_70,Sawa Group,ORG
+nyasatimes_70,the Indian Community,ORG
+nyasatimes_70,Kaleso,ORG
+nyasatimes_70,At least 21,CARDINAL
+nyasatimes_70,870,CARDINAL
+nyasatimes_70,96,CARDINAL
+nyasatimes_70,026,CARDINAL
+nyasatimes_70,Phalombe,GPE
+nyasatimes_70,Traditional Authority,ORG
+nyasatimes_70,Jenala,PERSON
+nyasatimes_70,Mutharika,GPE
+nyasatimes_70,Malawians,NORP
+nyasatimes_58,Ben Phiri,PERSON
+nyasatimes_58,Ben Phiri,PERSON
+nyasatimes_58,Saturday,DATE
+nyasatimes_58,Malawi,PERSON
+nyasatimes_58,56,CARDINAL
+nyasatimes_58,577,CARDINAL
+nyasatimes_58,three,CARDINAL
+nyasatimes_58,184,589,CARDINAL
+nyasatimes_58,16,545,CARDINAL
+nyasatimes_58,Khonjeni,PERSON
+nyasatimes_58,Chilammwera,PERSON
+nyasatimes_58,Phiri,ORG
+nyasatimes_58,Malawians,NORP
+nyasatimes_58,one,CARDINAL
+nyasatimes_58,Phiri,ORG
+nyasatimes_58,the Democratic Progressive Party,ORG
+nyasatimes_58,DPP).He,ORG
+nyasatimes_58,almost 1400,CARDINAL
+nyasatimes_58,Group Village Head,ORG
+nyasatimes_58,GVH,ORG
+nyasatimes_58,Nkolokosa of Nkolokosa 1,ORG
+nyasatimes_58,2,CARDINAL
+nyasatimes_58,3,CARDINAL
+nyasatimes_58,Mchilamwera,PERSON
+nyasatimes_58,about 106,CARDINAL
+nyasatimes_58,Phiri,PERSON
+nyasatimes_58,first,ORDINAL
+nyasatimes_58,GVH Makombe,PERSON
+nyasatimes_58,Khonjeni,NORP
+nyasatimes_58,Traditional Authority Kapiti,ORG
+nyasatimes_58,Phiri,PERSON
+nyasatimes_58,one,CARDINAL
+nyasatimes_58,Alesi Liston,PERSON
+nyasatimes_58,20,DATE
+malawi24_133,Malawi Congress Party,ORG
+malawi24_133,MCP,ORG
+malawi24_133,Lazarus Chakwera,PERSON
+malawi24_133,Ready and Steady,WORK_OF_ART
+malawi24_133,Crossroads Hotel,FAC
+malawi24_133,Lilongwe,GPE
+malawi24_133,K3 million,CARDINAL
+malawi24_133,Chakwera,PERSON
+malawi24_133,Nsanje,ORG
+malawi24_133,Chikwawa,GPE
+malawi24_133,Neno,ORG
+malawi24_133,Balaka,GPE
+malawi24_133,Mangochi,GPE
+malawi24_133,Malawians,NORP
+malawi24_133,MCP,ORG
+malawi24_133,Malawians,NORP
+malawi24_133,Mkaka,PERSON
+malawi24_133,first,ORDINAL
+malawi24_133,MCP,ORG
+malawi24_133,first,ORDINAL
+malawi24_133,May 21.He,DATE
+malawi24_133,Malawians,NORP
+malawi24_133,MCP,ORG
+malawi24_133,Agriculture Development Bank,ORG
+malawi24_133,Masintha Ground,FAC
+times.mw_67,House,ORG
+times.mw_67,2,CARDINAL
+times.mw_67,Yohane Symon,PERSON
+times.mw_67,Two,CARDINAL
+times.mw_67,Mangochi District,LOC
+times.mw_67,Saturday,DATE
+times.mw_67,night,TIME
+times.mw_67,Mangochi District Commissioner,LOC
+times.mw_67,53-year-old,DATE
+times.mw_67,six-year-old,DATE
+times.mw_67,Rose Ayami,PERSON
+times.mw_67,Msinje Village,GPE
+times.mw_67,Traditional Authority,ORG
+times.mw_67,two,CARDINAL
+times.mw_67,19,CARDINAL
+times.mw_67,November 2018.“It,DATE
+times.mw_67,two,CARDINAL
+times.mw_67,one,CARDINAL
+times.mw_67,Chimphepo,ORG
+times.mw_67,Koche Health Centre,ORG
+times.mw_67,two,CARDINAL
+times.mw_67,Homeland Security,ORG
+times.mw_67,Nicholas Dausi,PERSON
+times.mw_67,Disaster Management Affairs,ORG
+times.mw_67,Last week,DATE
+times.mw_67,two,CARDINAL
+times.mw_67,over 176,CARDINAL
+malawi24_20,Nsanje,NORP
+malawi24_20,years,DATE
+malawi24_20,Malawi,PERSON
+malawi24_20,This year,DATE
+malawi24_20,56,CARDINAL
+malawi24_20,2012,DATE
+malawi24_20,10,CARDINAL
+malawi24_20,3million,MONEY
+malawi24_20,2015,DATE
+malawi24_20,1,CARDINAL
+malawi24_20,101,CARDINAL
+malawi24_20,264,CARDINAL
+malawi24_20,230,CARDINAL
+malawi24_20,000,CARDINAL
+malawi24_20,over 170,CARDINAL
+malawi24_20,172,CARDINAL
+malawi24_20,$335 million,MONEY
+malawi24_20,$494 million,MONEY
+malawi24_20,this year,DATE
+malawi24_20,the Department of Meteorology and Climate Change,ORG
+malawi24_20,Kwacha,ORG
+malawi24_20,the decades,DATE
+malawi24_20,2018,DATE
+malawi24_20,MK290 million,CARDINAL
+malawi24_20,Shire River Basin Management Programme BRL,FAC
+malawi24_20,823 meter,QUANTITY
+malawi24_20,Nkhande,LOC
+malawi24_20,Nsanje,GPE
+malawi24_20,Malawi,ORG
+malawi24_20,Saulos Chilima,PERSON
+malawi24_20,Anati,NORP
+malawi24_20,Each year,DATE
+malawi24_20,billions,CARDINAL
+malawi24_20,billions,CARDINAL
+malawi24_20,the decades,DATE
+malawi24_20,Malawi,ORG
+malawi24_20,Chikwawa,PERSON
+malawi24_20,Nsanje,ORG
+malawi24_20,Malawi Government,ORG
+malawi24_20,Malawi,GPE
+nyasatimes_66,K10,ORG
+nyasatimes_66,World Vision Malawi,ORG
+nyasatimes_66,Petroleum Importers Limited,ORG
+nyasatimes_66,K10 million,CARDINAL
+nyasatimes_66,World Vision Malawi,ORG
+nyasatimes_66,PIL General,ORG
+nyasatimes_66,Enwell Kadango,PERSON
+nyasatimes_66,World Vision,ORG
+nyasatimes_66,the past few weeks,DATE
+nyasatimes_66,Malawians,NORP
+nyasatimes_66,Operations,ORG
+nyasatimes_66,Charles Chimombo,PERSON
+nyasatimes_66,Mozambique,NORP
+nyasatimes_66,Malawi,PERSON
+nyasatimes_66,5 March,DATE
+nyasatimes_66,75,CARDINAL
+nyasatimes_66,56,CARDINAL
+nyasatimes_66,577,CARDINAL
+nyasatimes_66,Malawi,ORG
+nyasatimes_72,Malawi,GPE
+nyasatimes_72,Lilongwe,GPE
+nyasatimes_72,Lilongwe,GPE
+nyasatimes_72,Bridges,PERSON
+nyasatimes_72,Chipasula,GPE
+nyasatimes_72,Kawale,GPE
+nyasatimes_72,Chidzanja,ORG
+nyasatimes_72,Nicholas Dausi,PERSON
+nyasatimes_72,Friday,DATE
+nyasatimes_72,Lilongwe City,GPE
+nyasatimes_72,Dausi,PERSON
+nyasatimes_72,Dausi,PERSON
+nyasatimes_72,30 metre,QUANTITY
+nyasatimes_72,Dausi,PERSON
+nyasatimes_72,Lilongwe City Council,ORG
+nyasatimes_72,the Kawale River,LOC
+nyasatimes_72,Dausi,PERSON
+nyasatimes_72,LilongweCity Council,ORG
+nyasatimes_72,Lilongwe City Council,ORG
+nyasatimes_72,Charles Kalemba,PERSON
+nyasatimes_72,Council,ORG
+nyasatimes_72,the Council Disaster committee,ORG
+nyasatimes_72,Two,CARDINAL
+nyasatimes_72,Thursday,DATE
+nyasatimes_72,afternoon,TIME
+nyasatimes_72,176,CARDINAL
+nyasatimes_72,20,CARDINAL
+nyasatimes_99,Mutharika,GPE
+nyasatimes_99,Malawi,GPE
+nyasatimes_99,Peter Mutharika,PERSON
+nyasatimes_99,Malawians,NORP
+nyasatimes_99,Saturday,DATE
+nyasatimes_99,Nyambadwe Primary School,ORG
+nyasatimes_99,one,CARDINAL
+nyasatimes_99,South African,NORP
+nyasatimes_99,25,CARDINAL
+nyasatimes_99,Malawi,PERSON
+nyasatimes_99,Saturday,DATE
+nyasatimes_99,Chileka International Airport,FAC
+nyasatimes_99,Blantyre,GPE
+nyasatimes_99,Chikwawa District,LOC
+nyasatimes_99,one,CARDINAL
+nyasatimes_99,Chinese,NORP
+nyasatimes_99,American Government,ORG
+nyasatimes_99,Malawi,PERSON
+nyasatimes_99,the next three months,DATE
+nyasatimes_99,First,ORDINAL
+nyasatimes_99,1,CARDINAL
+nyasatimes_99,today,DATE
+nyasatimes_99,Sanjika Palace,FAC
+nyasatimes_99,the Decent and Affordable Housing Subsidy Programme,ORG
+nyasatimes_99,Malata,ORG
+nyasatimes_99,Cement Subsidy,PERSON
+nyasatimes_99,Malawi,ORG
+nyasatimes_99,Dedza,GPE
+nyasatimes_99,Saturday,DATE
+nyasatimes_99,Kampepuza,GPE
+nyasatimes_99,Ntcheu,GPE
+nyasatimes_99,Friday,DATE
+nyasatimes_99,a minute,TIME
+nyasatimes_99,One,CARDINAL
+nyasatimes_99,Ndirande,ORG
+nyasatimes_99,Maria Chikaphonya,PERSON
+nyasatimes_99,First,ORDINAL
+nyasatimes_99,Blantyre City Council,ORG
+nyasatimes_99,Alfred Chanza,PERSON
+nyasatimes_99,more than 52,CARDINAL
+nyasatimes_99,Blantyre City,GPE
+nyasatimes_99,Ndirande,EVENT
+nyasatimes_99,Mutharika,PERSON
+nyasatimes_99,15,CARDINAL
+nyasatimes_99,56,CARDINAL
+nyasatimes_99,17,CARDINAL
+nyasatimes_98,DPP,ORG
+nyasatimes_98,Mchacha,PERSON
+nyasatimes_98,Homeland Security,ORG
+nyasatimes_98,Democrtaic Progressive Party,ORG
+nyasatimes_98,DPP,ORG
+nyasatimes_98,Charles Mchacha,PERSON
+nyasatimes_98,Sunday,DATE
+nyasatimes_98,Malawi Congress Party,ORG
+nyasatimes_98,MCP,ORG
+nyasatimes_98,Lazarus Chakwera,PERSON
+nyasatimes_98,Crossroads Hotel,FAC
+nyasatimes_98,Lilongwe,GPE
+nyasatimes_98,Malawians,NORP
+nyasatimes_98,last  week,DATE
+nyasatimes_98,about 26,CARDINAL
+nyasatimes_98,nine,CARDINAL
+nyasatimes_98,Blantyre,ORG
+nyasatimes_98,Thyolo,ORG
+nyasatimes_98,Mulanje,GPE
+nyasatimes_98,Phalombe,GPE
+nyasatimes_98,Salima,GPE
+nyasatimes_98,Nkhotakota,GPE
+nyasatimes_98,Karonga,GPE
+nyasatimes_98,Mangochi,GPE
+nyasatimes_98,Zomba,PERSON
+nyasatimes_98,Zomba,PERSON
+nyasatimes_98,DPP,ORG
+nyasatimes_98,Everton Chimulirenji,PERSON
+nyasatimes_98,Mchacha,PERSON
+nyasatimes_98,MCP,ORG
+nyasatimes_98,the same day,DATE
+nyasatimes_98,K2 million,CARDINAL
+nyasatimes_98,Sidik Mia,PERSON
+nyasatimes_73,Malawian,NORP
+nyasatimes_73,45,CARDINAL
+nyasatimes_73,Lower Shire,GPE
+nyasatimes_73,The Department of Disaster Management Affairs,ORG
+nyasatimes_73,45,CARDINAL
+nyasatimes_73,577,CARDINAL
+nyasatimes_73,Monday 11th March 2019,DATE
+nyasatimes_73,Monday,DATE
+nyasatimes_73,about 147,958,CARDINAL
+nyasatimes_73,approximately 739,790,CARDINAL
+nyasatimes_73,15,185,CARDINAL
+nyasatimes_73,187,CARDINAL
+nyasatimes_73,14,CARDINAL
+nyasatimes_73,the Lower Shire,GPE
+nyasatimes_73,the Lower Shire,GPE
+nyasatimes_73,Friday,DATE
+nyasatimes_73,Malawian,NORP
+nyasatimes_73,Peter Mutharika,PERSON
+nyasatimes_73,earlier in the week,DATE
+nyasatimes_73,Malawi’s,ORG
+nyasatimes_73,The World Food Programme,ORG
+nyasatimes_73,WFP,ORG
+nyasatimes_73,two,CARDINAL
+nyasatimes_73,UN Childrens’ Fund,ORG
+nyasatimes_73,the UN Food and Agriculture Organisation,ORG
+nyasatimes_73,WFP,ORG
+nyasatimes_120,Third-year,DATE
+nyasatimes_120,Bachelor of Accountancy,ORG
+nyasatimes_120,BAC,ORG
+nyasatimes_120,Polytechnic College,ORG
+nyasatimes_120,44,CARDINAL
+nyasatimes_120,BAC,ORG
+nyasatimes_120,Sunday,DATE
+nyasatimes_120,Magombo Camp,ORG
+nyasatimes_120,Nkanda,GPE
+nyasatimes_120,Mulanje,GPE
+nyasatimes_120,George Kaliwo,PERSON
+nyasatimes_120,Kaliwo,ORG
+nyasatimes_120,Hollen Kamanga,PERSON
+nyasatimes_120,Group Village,LOC
+nyasatimes_120,Mkanda,PERSON
+nyasatimes_120,one,CARDINAL
+nyasatimes_120,the BAC Poly Students,WORK_OF_ART
+nyasatimes_120,Mkanda,PERSON
+nyasatimes_8,Malawi,PERSON
+nyasatimes_8,MET,ORG
+nyasatimes_8,South,LOC
+nyasatimes_8,The Department of Climate Change and Meteological Services,ORG
+nyasatimes_8,the Southern Region,LOC
+nyasatimes_8,Friday,DATE
+nyasatimes_8,Nyasa Times,ORG
+nyasatimes_8,Malawians,NORP
+nyasatimes_8,the Department of Climate Change and Meteorological Services,ORG
+nyasatimes_8,MET,ORG
+nyasatimes_8,Jolam Nkhokwe,PERSON
+nyasatimes_8,Southern Africa Regional,ORG
+nyasatimes_8,Mozambique Channel,ORG
+nyasatimes_8,a Tropical Cyclone,LOC
+nyasatimes_8,IDAI,PERSON
+nyasatimes_8,March 11,DATE
+nyasatimes_8,Malawi,PERSON
+nyasatimes_8,Nsanje,GPE
+nyasatimes_8,17.4,CARDINAL
+nyasatimes_8,43.2,CARDINAL
+nyasatimes_8,East,LOC
+nyasatimes_8,Madagascar,GPE
+nyasatimes_8,Beira,GPE
+nyasatimes_8,Beira,GPE
+nyasatimes_8,480kms,CARDINAL
+nyasatimes_8,Nsanje Boma,ORG
+nyasatimes_8,Thursday,DATE
+nyasatimes_8,14 March,DATE
+nyasatimes_8,Malawi,PERSON
+nyasatimes_8,Thursday,DATE
+nyasatimes_8,Sunday,DATE
+nyasatimes_8,Malawi,PERSON
+nyasatimes_8,the Tropical Cyclone,ORG
+nyasatimes_8,Zimbabwe,GPE
+nyasatimes_8,18th March,DATE
+nyasatimes_8,the Department of Disaster Management Affairs,ORG
+nyasatimes_8,45,CARDINAL
+nyasatimes_8,577,CARDINAL
+nyasatimes_8,over 90,000,CARDINAL
+malawi24_52,DEM,ORG
+malawi24_52,District Education Managers,ORG
+malawi24_52,Lilongwe,GPE
+malawi24_52,first,ORDINAL
+malawi24_52,The Ministry of Education, Science and Technology,ORG
+malawi24_52,Justin Saidi,PERSON
+malawi24_52,One,CARDINAL
+malawi24_52,1994,DATE
+malawi24_52,Chitsamiro,ORG
+malawi24_52,1994,DATE
+malawi24_52,25 years,DATE
+malawi24_52,one,CARDINAL
+malawi24_52,PT3,ORG
+malawi24_52,1,549,CARDINAL
+malawi24_52,4,719,CARDINAL
+malawi24_52,Malawi,PERSON
+malawi24_52,TUM,ORG
+malawi24_52,Charles Kumchenga,PERSON
+malawi24_52,Union,ORG
+malawi24_52,Civil Society Education Coalition,ORG
+malawi24_52,Benedicto Kondowe,PERSON
+malawi24_52,The Ministry of Education, Science and Technology,ORG
+malawi24_52,12,000,CARDINAL
+malawi24_52,2013,DATE
+malawi24_52,the Peoples Party,ORG
+malawi24_52,Joyce Banda,PERSON
+malawi24_52,barely a year,DATE
+malawi24_52,2014,DATE
+malawi24_52,20,210,CARDINAL
+malawi24_52,May,DATE
+malawi24_91,Petroleum Importers Limited,ORG
+malawi24_91,Petroleum Importers Limited,ORG
+malawi24_91,K10,ORG
+malawi24_91,World Vision Malawi,ORG
+malawi24_91,Phalombe,GPE
+malawi24_91,Dr Enwell Kadango,PERSON
+malawi24_91,Arthur Peter Mutharika,PERSON
+malawi24_91,the Indian Ocean,LOC
+malawi24_91,hundreds,CARDINAL
+malawi24_91,thousands,CARDINAL
+malawi24_91,Mozambican,NORP
+malawi24_91,Beira,GPE
+malawi24_91,PIL,ORG
+malawi24_91,PIL,ORG
+malawi24_91,World Vision,ORG
+malawi24_91,WORLD Vision,ORG
+malawi24_91,World Vision District Programs,ORG
+malawi24_91,Phalombe Samson Semu,ORG
+malawi24_91,Semu,GPE
+malawi24_91,PIL,ORG
+malawi24_91,Semu,GPE
+malawi24_91,Ellis Simudya,PERSON
+malawi24_91,World Vision,ORG
+malawi24_91,Malawi,PERSON
+malawi24_91,14,CARDINAL
+malawi24_91,56,CARDINAL
+malawi24_1,Nsanje,ORG
+malawi24_1,Chikwawa,PERSON
+malawi24_1,Nsanje,ORG
+malawi24_1,Sant’ Egidio,ORG
+malawi24_1,Sant’ Egidio National Coordinator,ORG
+malawi24_1,Keegan Mwanguku,PERSON
+malawi24_1,Mwanguku.,ORG
+malawi24_1,Nsanje,GPE
+malawi24_1,Sant’ Egidio,PERSON
+malawi24_1,Nthole,ORG
+malawi24_1,the Community of Saint Egidio,ORG
+malawi24_1,Nsanje,NORP
+malawi24_1,Nsanje,ORG
+malawi24_1,Nsanje,GPE
+malawi24_1,Chikwawa,PERSON
+malawi24_1,Mozambican,NORP
+malawi24_1,about 375,CARDINAL
+malawi24_1,Malawi,PERSON
+malawi24_1,Idai,FAC
+malawi24_1,hundreds,CARDINAL
+nyasatimes_29,Pakistani Association,ORG
+nyasatimes_29,Zomba,GPE
+nyasatimes_29,Zomba,PERSON
+nyasatimes_29,two weeks ago,DATE
+nyasatimes_29,the Pakistan Welfare Association,ORG
+nyasatimes_29,PWA,ORG
+nyasatimes_29,K22 million,LAW
+nyasatimes_29,800,CARDINAL
+nyasatimes_29,two,CARDINAL
+nyasatimes_29,Zomba,GPE
+nyasatimes_29,Group Villages Chaweza,ORG
+nyasatimes_29,Zomba,PERSON
+nyasatimes_29,Chimombo,PRODUCT
+nyasatimes_29,Phutheya,PERSON
+nyasatimes_29,Phalombe,GPE
+nyasatimes_29,400,CARDINAL
+nyasatimes_29,Chaweza Primary School,ORG
+nyasatimes_29,Zomba,GPE
+nyasatimes_29,Ali Akbar Kamdar,PERSON
+nyasatimes_29,Malawians,NORP
+nyasatimes_29,third,ORDINAL
+nyasatimes_29,Malawi,PERSON
+nyasatimes_29,second,ORDINAL
+nyasatimes_29,first,ORDINAL
+nyasatimes_29,Malawians,NORP
+nyasatimes_29,the hold month,DATE
+nyasatimes_29,Ramadhan,PERSON
+nyasatimes_29,Malawians,NORP
+nyasatimes_29,The Pakistan Welfare Association,ORG
+nyasatimes_29,three years ago,DATE
+nyasatimes_29,Malawians,NORP
+nyasatimes_29,Pakistan,GPE
+nyasatimes_29,Kamdar,ORG
+nyasatimes_29,Malawi,GPE
+nyasatimes_29,one,CARDINAL
+nyasatimes_29,Zomba,PERSON
+nyasatimes_29,two,CARDINAL
+nyasatimes_29,Luwiza Matembwe,PERSON
+nyasatimes_29,80-year-old,DATE
+nyasatimes_29,Mwaliwa Village,GPE
+nyasatimes_29,at point zero,CARDINAL
+nyasatimes_29,Group Village Chaweza,ORG
+nyasatimes_29,Phalombe River,GPE
+times.mw_28,Jameson Chauluka & Pilirani Kachinziri: Department of Climate Change and Meteorological Services,ORG
+times.mw_28,Thursday,DATE
+times.mw_28,30,CARDINAL
+times.mw_28,45.A,CARDINAL
+times.mw_28,Tropical Cyclone Idai,NORP
+times.mw_28,Mozambique,NORP
+times.mw_28,Mozambique Channel,ORG
+times.mw_28,11 March 2019,DATE
+times.mw_28,900 kilometres,QUANTITY
+times.mw_28,Malawi,PERSON
+times.mw_28,Nsanje,GPE
+times.mw_28,17.4o,CARDINAL
+times.mw_28,South,LOC
+times.mw_28,43.2o,CARDINAL
+times.mw_28,East,LOC
+times.mw_28,Madagascar,GPE
+times.mw_28,Beira,GPE
+times.mw_28,Mozambique,GPE
+times.mw_28,480 kilometres,QUANTITY
+times.mw_28,Nsanje Boma,PERSON
+times.mw_28,Thursday,DATE
+times.mw_28,Mozambique,NORP
+times.mw_28,Malawi,ORG
+times.mw_28,Thursday 14th March to Sunday 17th March 2019,DATE
+times.mw_28,Malawi,PERSON
+times.mw_28,the Tropical Cyclone,ORG
+times.mw_28,Zimbabwe,GPE
+times.mw_28,18th March 2019,DATE
+times.mw_28,last week,DATE
+times.mw_28,30,CARDINAL
+times.mw_28,45,CARDINAL
+times.mw_28,577,CARDINAL
+times.mw_28,Department of Disaster Management Affairs,ORG
+times.mw_28,147,958,CARDINAL
+times.mw_28,approximately 739,790,CARDINAL
+times.mw_28,15,185,CARDINAL
+times.mw_28,187,CARDINAL
+times.mw_28,Dodma,ORG
+times.mw_28,Tuesday,DATE
+times.mw_28,Chipiliro Khamula,PERSON
+times.mw_28,Lower Shire,GPE
+times.mw_28,Nsanje,GPE
+times.mw_28,Chikwawa,ORG
+times.mw_28,Nsanje District Commissioner,PERSON
+times.mw_28,Reinghard Chavula,PERSON
+times.mw_28,Monday,DATE
+times.mw_28,two,CARDINAL
+times.mw_28,Makhanga,PRODUCT
+times.mw_28,Village Head Kalonga,PERSON
+times.mw_28,2015,DATE
+times.mw_28,United Nations Children’s Fund,ORG
+times.mw_28,March 11 2019,DATE
+times.mw_28,Unicef Public Relations Officer,ORG
+times.mw_28,Rebecca Phwitiko,PERSON
+times.mw_28,thousands,CARDINAL
+times.mw_28,thousands,CARDINAL
+times.mw_28,Phwitiko,PERSON
+nyasatimes_9,UK,GPE
+nyasatimes_9,Malawi,GPE
+nyasatimes_9,British,NORP
+nyasatimes_9,the Department for International Development,ORG
+nyasatimes_9,Malawi,PERSON
+nyasatimes_9,up to £6 million,MONEY
+nyasatimes_9,Idai,FAC
+nyasatimes_9,Mozambique,GPE
+nyasatimes_9,Zimbabwe,GPE
+nyasatimes_9,International Development,ORG
+nyasatimes_9,Penny Mordaunt,PERSON
+nyasatimes_9,Monday,DATE
+nyasatimes_9,UN,ORG
+nyasatimes_9,900 000,CARDINAL
+nyasatimes_9,Malawi,GPE
+nyasatimes_9,600 000,CARDINAL
+nyasatimes_9,Mozambique,NORP
+nyasatimes_9,Malawi,GPE
+nyasatimes_9,UK,GPE
+nyasatimes_9,the World Food Programme,ORG
+nyasatimes_9,140,CARDINAL
+nyasatimes_9,the end of March,DATE
+nyasatimes_9,£6 million,MONEY
+nyasatimes_9,UK,GPE
+nyasatimes_9,Mordaunt,PERSON
+nyasatimes_9,International Development,ORG
+nyasatimes_9,Zimbabwe,GPE
+nyasatimes_9,UK,GPE
+nyasatimes_9,DFID,ORG
+nyasatimes_9,UN,ORG
+nyasatimes_9,Red Cross,ORG
+nyasatimes_135,Malawi,ORG
+nyasatimes_135,Peter Mutharika,PERSON
+nyasatimes_135,Tuesday,DATE
+nyasatimes_135,about 114 000,CARDINAL
+nyasatimes_135,about 10,CARDINAL
+nyasatimes_135,March 5-8, 2019,DATE
+nyasatimes_135,Mutharika,GPE
+nyasatimes_135,Malawi,PERSON
+nyasatimes_135,a minute,TIME
+nyasatimes_135,five,CARDINAL
+nyasatimes_135,Mangochi District,LOC
+nyasatimes_135,Moses Chimphepo,PERSON
+nyasatimes_135,five,CARDINAL
+nyasatimes_135,over 15,CARDINAL
+nyasatimes_135,600,CARDINAL
+nyasatimes_135,10 Traditional Authorities,ORG
+nyasatimes_135,four,CARDINAL
+nyasatimes_135,Makanjira Road,FAC
+nyasatimes_135,Malombe Road,FAC
+nyasatimes_135,TA Katuli,FAC
+nyasatimes_135,DC,GPE
+nyasatimes_135,six,CARDINAL
+nyasatimes_135,Malawi Red Cross Society,ORG
+nyasatimes_135,two,CARDINAL
+nyasatimes_135,Mutharika,GPE
+nyasatimes_135,Mangochi,GPE
+nyasatimes_109,Vision Malawi,ORG
+nyasatimes_109,eight,CARDINAL
+nyasatimes_109,Chikwawa,GPE
+nyasatimes_109,World Vision,ORG
+nyasatimes_109,Monday,DATE
+nyasatimes_109,World Vision,ORG
+nyasatimes_109,HezelNyathi,ORG
+nyasatimes_109,one,CARDINAL
+nyasatimes_109,thousands,CARDINAL
+nyasatimes_109,first,ORDINAL
+nyasatimes_109,Chikwawa,GPE
+nyasatimes_109,thousands,CARDINAL
+nyasatimes_109,seven,CARDINAL
+nyasatimes_109,Chikwawa,GPE
+nyasatimes_109,Nyathi,ORG
+nyasatimes_109,World Vision  ,ORG
+nyasatimes_109,InTizola Village,GPE
+nyasatimes_109,Group Village,ORG
+nyasatimes_109,Headman Chikuse,PERSON
+nyasatimes_109,the evening of,TIME
+nyasatimes_109,January 25,DATE
+nyasatimes_109,five  days,DATE
+nyasatimes_109,Shire River,GPE
+nyasatimes_109,An estimated 5000,CARDINAL
+nyasatimes_109,6,CARDINAL
+nyasatimes_109,World Vision,ORG
+nyasatimes_109,Red Cross,ORG
+mwnation_50,The Nation Online,WORK_OF_ART
+mwnation_50,Central and Southern,NORP
+mwnation_50,Sunday,DATE
+mwnation_50,Nsanje,GPE
+mwnation_50,Nkhotakota,ORG
+mwnation_50,Zomba,PERSON
+mwnation_50,Chikwawa,PERSON
+mwnation_50,Department of Disaster Management Affairs,ORG
+mwnation_50,Chipiliro Khamula,PERSON
+mwnation_50,The Department of Climate
+Change Management and Meteorological Services,ORG
+mwnation_50,Chikanda Township,GPE
+mwnation_50,Zomba City,GPE
+mwnation_50,yesterday,DATE
+mwnation_50,one,CARDINAL
+mwnation_50,One,CARDINAL
+mwnation_50,46-year-old,DATE
+mwnation_50,Nessie Kamanga,PERSON
+mwnation_50,four,CARDINAL
+mwnation_50,three,CARDINAL
+mwnation_50,Chancellor College,ORG
+mwnation_50,Chanco,ORG
+mwnation_50,the University of Malawi,ORG
+mwnation_50,Unima,ORG
+mwnation_50,Kamanga,ORG
+mwnation_50,Frank Chiwowo,PERSON
+mwnation_50,the night,TIME
+mwnation_50,Zomba City Council,ORG
+mwnation_50,Mercy Chaluma,PERSON
+mwnation_50,Likangala,ORG
+mwnation_50,Chikanda,GPE
+mwnation_50,Chanco,ORG
+mwnation_50,Nsanje,GPE
+mwnation_50,two nights,DATE
+mwnation_50,Bangula,ORG
+mwnation_50,Nsanje Boma,ORG
+mwnation_50,Nsanje,PERSON
+mwnation_50,Chikwawa,ORG
+mwnation_50,the Shire Valley,GPE
+mwnation_50,Nsanje,NORP
+mwnation_50,DC,GPE
+mwnation_50,Reinghard Chavula,PERSON
+mwnation_50,yesterday,DATE
+mwnation_50,Nyachikadza, Tengani,ORG
+mwnation_50,Mlolo,PERSON
+mwnation_50,Khamula,PERSON
+mwnation_50,Tengani,ORG
+mwnation_50,260,CARDINAL
+mwnation_50,15,CARDINAL
+mwnation_50,Nkhotakota,ORG
+mwnation_50,the end of December
+2018,DATE
+mwnation_50,Dodma,ORG
+mwnation_50,2 936,CARDINAL
+mwnation_50,about $94.1 million,MONEY
+mwnation_50,this year,DATE
+mwnation_50,El,ORG
+mwnation_50,Africa,LOC
+mwnation_50,this year,DATE
+nyasatimes_137,7 days,DATE
+nyasatimes_137,Chikwawa,PERSON
+nyasatimes_137,seven days,DATE
+nyasatimes_137,Blantyre,PERSON
+nyasatimes_137,Thabwa,ORG
+nyasatimes_137,Kamuzu,ORG
+nyasatimes_137,Plem,GPE
+nyasatimes_137,Saturday,DATE
+nyasatimes_137,Home Land Security,ORG
+nyasatimes_137,Nicholas Dausi,PERSON
+nyasatimes_137,Thabwa,PERSON
+nyasatimes_137,close to three hours,TIME
+nyasatimes_137,Plem,PERSON
+nyasatimes_137,Dausi,PERSON
+nyasatimes_137,30 minutes,TIME
+nyasatimes_137,two hours,TIME
+nyasatimes_137,this week,DATE
+nyasatimes_137,about 23,CARDINAL
+nyasatimes_137,nine,CARDINAL
+nyasatimes_137,Blantyre,ORG
+nyasatimes_137,Thyolo,ORG
+nyasatimes_137,Mulanje,GPE
+nyasatimes_137,Phalombe,GPE
+nyasatimes_137,Salima,GPE
+nyasatimes_137,Nkhotakota,GPE
+nyasatimes_137,Karonga,GPE
+nyasatimes_137,Mangochi,GPE
+nyasatimes_137,Zomba,PERSON
+nyasatimes_137,Peter Mutharika,PERSON
+nyasatimes_123,People’s Party,ORG
+nyasatimes_123,Malawians,NORP
+nyasatimes_123,the Southern Region,LOC
+nyasatimes_123,Malawi,GPE
+nyasatimes_123,Ackson Kalaile Banda,PERSON
+nyasatimes_123,Sunday  March 10 2019,DATE
+nyasatimes_123,Nyasa Times,ORG
+nyasatimes_123,about 26,CARDINAL
+nyasatimes_123,thousands,CARDINAL
+nyasatimes_123,the past week,DATE
+nyasatimes_123,Malawian,NORP
+nyasatimes_123,millions,CARDINAL
+nyasatimes_123,Malawians,NORP
+nyasatimes_123,Kalaile,PERSON
+nyasatimes_123,the Peoples Party,ORG
+nyasatimes_123,Joyce Banda,PERSON
+nyasatimes_123,Malawians,NORP
+nyasatimes_123,Kalaile,GPE
+nyasatimes_123,Peter Mutharika,PERSON
+nyasatimes_123,Malawi a State of Emergency,ORG
+nyasatimes_123,the week,DATE
+nyasatimes_123,the next coming few days,DATE
+nyasatimes_17,Asian Muslim ReliefAid,ORG
+nyasatimes_17,Blantyre,GPE
+nyasatimes_17,Malawian,NORP
+nyasatimes_17,the Asian Muslim Relief Aid,ORG
+nyasatimes_17,thousands,CARDINAL
+nyasatimes_17,Malawians,NORP
+nyasatimes_17,the past weeks,DATE
+nyasatimes_17,Blantyre,PERSON
+nyasatimes_17,Blantyre,PERSON
+nyasatimes_17,Kachere,ORG
+nyasatimes_17,MachinjiriThe,ORG
+nyasatimes_17,Ameer Jakhura,LOC
+nyasatimes_17,Nyasa Times,ORG
+nyasatimes_17,K10 million,CARDINAL
+nyasatimes_17,Ufa 20,FAC
+nyasatimes_17,Soya,ORG
+nyasatimes_17,40lt,DATE
+nyasatimes_17,Likuni Phala,ORG
+nyasatimes_17,Sugar,GPE
+nyasatimes_17,K5,000,ORG
+nyasatimes_17,50kg,QUANTITY
+nyasatimes_17,Jakhura,PERSON
+nyasatimes_17,Chikwawa,LOC
+nyasatimes_17,91,CARDINAL
+nyasatimes_17,Islamic Zakaat Fund,ORG
+nyasatimes_17,Limbe,GPE
+malawi24_87,UN,ORG
+malawi24_87,Malawi,PERSON
+malawi24_87,UN,ORG
+malawi24_87,António Guterres,PERSON
+malawi24_87,Malawi,ORG
+malawi24_87,At least 28,CARDINAL
+malawi24_87,the past week,DATE
+malawi24_87,Monday,DATE
+malawi24_87,Guterres,PERSON
+malawi24_87,The United Nations,ORG
+malawi24_87,Malawian,NORP
+malawi24_87,UN,ORG
+malawi24_87,The World Food Programme,ORG
+malawi24_87,WFP,ORG
+malawi24_87,two,CARDINAL
+malawi24_87,the UN Food and Agriculture Organization,ORG
+malawi24_87,WFP,ORG
+malawi24_78,Phalombe,GPE
+malawi24_78,Malawi24,PERSON
+malawi24_78,Malawi Environmental Health Association,ORG
+malawi24_78,Ming’ambo Primary School,ORG
+malawi24_78,Lidia Fadweck,ORG
+malawi24_78,daily,DATE
+malawi24_78,Mavuto Mumderanji,PERSON
+malawi24_78,400,CARDINAL
+malawi24_78,Mumderanji,PERSON
+malawi24_78,five,CARDINAL
+malawi24_78,the school days,DATE
+malawi24_78,MEHA,ORG
+malawi24_78,Penjani Chunda,PERSON
+nyasatimes_122,UTM,ORG
+nyasatimes_122,Blantyre,ORG
+nyasatimes_122,UTM Party,ORG
+nyasatimes_122,Michael Usi,PERSON
+nyasatimes_122,Sunday,DATE
+nyasatimes_122,Blantyre Rural,GPE
+nyasatimes_122,UTM,ORG
+nyasatimes_122,UTM,ORG
+nyasatimes_122,UTM,ORG
+nyasatimes_122,Dr Saulos Chilima,PERSON
+nyasatimes_122,Usi,ORG
+nyasatimes_122,the UTM Party,ORG
+nyasatimes_122,Malawians,NORP
+nyasatimes_122,Usi,ORG
+nyasatimes_122,UTM,ORG
+nyasatimes_122,Richard Makondi,PERSON
+nyasatimes_122,UTM,ORG
+nyasatimes_122,UTM,ORG
+nyasatimes_136,Met Office,ORG
+nyasatimes_136,South,LOC
+nyasatimes_136,Climate Change and Meteorological Department,ORG
+nyasatimes_136,Jolam Nkhokwe,PERSON
+nyasatimes_136,today, Tuesday,DATE
+nyasatimes_136,another continuous two week,DATE
+nyasatimes_136,third,ORDINAL
+nyasatimes_136,December,DATE
+nyasatimes_136,Nkhokwe,ORG
+nyasatimes_136,the Mozambique Channel,ORG
+nyasatimes_136,Tropical,ORG
+nyasatimes_136,Quelimane,PERSON
+nyasatimes_136,Beira,GPE
+nyasatimes_136,Mozambique,GPE
+nyasatimes_136,390 kilometres,QUANTITY
+nyasatimes_136,Malawi,PERSON
+nyasatimes_136,Nsanje,GPE
+nyasatimes_136,14:00 hours,TIME
+nyasatimes_136,Monday, January 21, 2019,DATE
+nyasatimes_136,the Tropical Storm,ORG
+nyasatimes_136,Mozambique,NORP
+nyasatimes_136,Malawi,PERSON
+nyasatimes_136,Wednesday, January 23, 2019,DATE
+nyasatimes_132,China,GPE
+nyasatimes_132,K36,ORG
+nyasatimes_132,Malawian,NORP
+nyasatimes_132,the People’s Republic of China,ORG
+nyasatimes_132,K36 million,PRODUCT
+nyasatimes_132,Malawi,PERSON
+nyasatimes_132,The Chinese Charge de Affairs,ORG
+nyasatimes_132,Malawi,GPE
+nyasatimes_132,Wang Xiusheng,PERSON
+nyasatimes_132,the Ministry of Foreign Affairs,ORG
+nyasatimes_132,Capital Hill,LOC
+nyasatimes_132,Malawi’s Capital,ORG
+nyasatimes_132,Lilongwe,GPE
+nyasatimes_132,last week,DATE
+nyasatimes_132,Xiusheng,PERSON
+nyasatimes_132,4000 tonnes,QUANTITY
+nyasatimes_132,China,GPE
+nyasatimes_132,Malawi,PERSON
+nyasatimes_132,2000 tonnes,QUANTITY
+nyasatimes_132,13,CARDINAL
+nyasatimes_132,Malawi,GPE
+nyasatimes_132,56,CARDINAL
+nyasatimes_132,About 400,000,CARDINAL
+nyasatimes_132,Xiusheng,PERSON
+nyasatimes_132,Malawi,PERSON
+nyasatimes_132,Malawi,PERSON
+nyasatimes_132,Xiusheng,PERSON
+nyasatimes_132,Chinese,NORP
+nyasatimes_132,Malawi,PERSON
+nyasatimes_132,the Ministry of Foreign Affairs,ORG
+nyasatimes_132,Ben Botolo,PERSON
+nyasatimes_132,China,GPE
+nyasatimes_132,Malawi,ORG
+nyasatimes_132,11 years,DATE
+nyasatimes_132,China,GPE
+nyasatimes_132,Botolo,PERSON
+nyasatimes_126,16,CARDINAL
+nyasatimes_126,Chikwawa,PERSON
+nyasatimes_126,Thursday,DATE
+nyasatimes_126,morning,TIME
+nyasatimes_126,16,CARDINAL
+nyasatimes_126,Frank Chatandika,PERSON
+nyasatimes_126,“Out,ORG
+nyasatimes_126,16,CARDINAL
+nyasatimes_126,two,CARDINAL
+nyasatimes_126,St. Montfort Hospital,ORG
+nyasatimes_126,14,CARDINAL
+nyasatimes_126,at least 500,CARDINAL
+nyasatimes_126,Lundu,PERSON
+nyasatimes_126,Makhuwira,GPE
+nyasatimes_12,Jappie,PERSON
+nyasatimes_12,Sawa,PRODUCT
+nyasatimes_12,Transport and Public Works,ORG
+nyasatimes_12,Jappie Mhango,PERSON
+nyasatimes_12,the Mchesi Bridge,FAC
+nyasatimes_12,Lilongwe,PERSON
+nyasatimes_12,two days ago,DATE
+nyasatimes_12,Mhango,GPE
+nyasatimes_12,Friday,DATE
+nyasatimes_12,Mhango,GPE
+nyasatimes_12,Mhango,GPE
+nyasatimes_12,Nyasa Times,ORG
+nyasatimes_12,Sawa Group,ORG
+nyasatimes_12,Mhango,ORG
+nyasatimes_12,three hours,TIME
+nyasatimes_12,Lilongwe,PERSON
+nyasatimes_12,Biwi,ORG
+nyasatimes_12,Kawale,GPE
+nyasatimes_12,Chipasula,PERSON
+nyasatimes_12,at least two,CARDINAL
+nyasatimes_12,176,CARDINAL
+nyasatimes_12,Homeland Security,ORG
+nyasatimes_12,Nicholas Dausi,PERSON
+nyasatimes_12,Sawa Group,ORG
+nyasatimes_12,a few months,DATE
+nyasatimes_12,Mhango,GPE
+nyasatimes_12,Kawale-Mchesi,ORG
+nyasatimes_12,Mhango,GPE
+nyasatimes_12,Malawians,NORP
+nyasatimes_12,Democratic Progressive Party,ORG
+nyasatimes_12,DPP,ORG
+nyasatimes_12,2014,DATE
+nyasatimes_12,May 21,DATE
+nyasatimes_12,just three months’ time,DATE
+malawi24_83,Malawi,PERSON
+malawi24_83,28,CARDINAL
+malawi24_83,The Department of Disaster Management Affairs,ORG
+malawi24_83,28,CARDINAL
+malawi24_83,124,CARDINAL
+malawi24_83,last week,DATE
+malawi24_83,45,CARDINAL
+malawi24_83,312,CARDINAL
+malawi24_83,approximately 226,560,CARDINAL
+malawi24_83,14,CARDINAL
+malawi24_83,Saturday,DATE
+malawi24_83,Nicholas Dausi,PERSON
+malawi24_83,Chikwawa,PERSON
+malawi24_83,Mulanje,PERSON
+malawi24_83,Charles Mchacha,PERSON
+malawi24_83,Dausi,PERSON
+malawi24_83,Tuesday,DATE
+malawi24_83,14,CARDINAL
+malawi24_83,thousands,CARDINAL
+malawi24_83,Arthur Peter Mutharika,PERSON
+malawi24_83,Friday,DATE
+malawi24_83,State of Disaster,ORG
+malawi24_83,the Department of Disaster Management Affairs,ORG
+malawi24_83,the Malawi Defence Force,ORG
+malawi24_83,The Malawi Police Service,ORG
+malawi24_55,Peter Mutharika,PERSON
+malawi24_55,Tuesday,DATE
+malawi24_55,Malawians,NORP
+malawi24_55,Mutharika,GPE
+malawi24_55,Balaka at Kanyimbo Primary,ORG
+malawi24_55,Traditional Authority Nkaya,ORG
+malawi24_55,Mangochi,GPE
+malawi24_55,Mangochi,GPE
+malawi24_55,tomorrow,DATE
+malawi24_55,Zomba,GPE
+malawi24_55,Machinga,PERSON
+malawi24_55,10,CARDINAL
+malawi24_55,Mutharika,GPE
+malawi24_55,the Descent Affordable Housing Subsidy,ORG
+malawi24_55,Traditional Authority Mkaya,ORG
+malawi24_55,Mutharika,PERSON
+malawi24_55,Six,CARDINAL
+malawi24_55,66,CARDINAL
+malawi24_55,13 thousand,CARDINAL
+malawi24_55,Balaka,GPE
+malawi24_55,Southern,NORP
+nyasatimes_127,Malawi,PERSON
+nyasatimes_127,Lotus Hotel,ORG
+nyasatimes_127,Blantyre,GPE
+nyasatimes_127,Saturday,DATE
+nyasatimes_127,Nyasa Times,ORG
+nyasatimes_127,thousands,CARDINAL
+nyasatimes_127,two,CARDINAL
+nyasatimes_127,Nsanje,GPE
+nyasatimes_127,Chikwawa,ORG
+nyasatimes_127,one,CARDINAL
+nyasatimes_127,Ceaser Fatchi,PERSON
+nyasatimes_127,K500 000,MONEY
+nyasatimes_127,K1 million,MONEY
+nyasatimes_127,Said Fatchi,PERSON
+nyasatimes_127,Malawians,NORP
+nyasatimes_127,Mia,PERSON
+nyasatimes_127,Chikwawa,PERSON
+nyasatimes_127,Nsanje,ORG
+nyasatimes_127,Mia,PERSON
+nyasatimes_127,days,DATE
+nyasatimes_127,Mia,PERSON
+nyasatimes_127,Chikwawa,PERSON
+nyasatimes_127,Nsanje,ORG
+nyasatimes_127,Mia,PERSON
+nyasatimes_125,Malawi,ORG
+nyasatimes_125,2019,DATE
+nyasatimes_125,Marine Rescue Teams,EVENT
+nyasatimes_125,the Lower Shire,GPE
+nyasatimes_125,the Malawi Defence Force,ORG
+nyasatimes_125,the Department of Disaster Management Affairs,ORG
+nyasatimes_125,K1 500,FAC
+nyasatimes_125,MDF,ORG
+nyasatimes_125,one,CARDINAL
+nyasatimes_125,Nsanje,ORG
+nyasatimes_125,Nyasa Times,ORG
+nyasatimes_125,MDF,ORG
+nyasatimes_125,8th March 19,DATE
+nyasatimes_125,today,DATE
+nyasatimes_125,26 March,DATE
+nyasatimes_125,7 days,DATE
+nyasatimes_125,000,MONEY
+nyasatimes_125,2012,DATE
+nyasatimes_125,2019,DATE
+nyasatimes_125,DoDMA,ORG
+nyasatimes_125,DoDMA,ORG
+nyasatimes_125,The past years,DATE
+nyasatimes_125,DoDMA,ORG
+nyasatimes_125,K10,ORG
+nyasatimes_125,000,CARDINAL
+nyasatimes_125,K15,ORG
+nyasatimes_125,000,CARDINAL
+nyasatimes_125,K20,ORG
+nyasatimes_125,000,CARDINAL
+nyasatimes_125,K25,ORG
+nyasatimes_125,000,CARDINAL
+nyasatimes_125,Paul Chiphwanya,PERSON
+nyasatimes_125,Tuesday,DATE
+nyasatimes_125,night,TIME
+nyasatimes_125,Chiphwanya,PERSON
+nyasatimes_131,Ma Blacks,PERSON
+nyasatimes_131,Malawi,GPE
+nyasatimes_131,Partners Blantyre Press Club,ORG
+nyasatimes_131,Malawians,NORP
+nyasatimes_131,Blantyre Press Club,ORG
+nyasatimes_131,Malawi,ORG
+nyasatimes_131,Black Missionaries,PERSON
+nyasatimes_131,Friday,DATE
+nyasatimes_131,K3 Million,PERSON
+nyasatimes_131,Blessings Kanache,PERSON
+nyasatimes_131,Mibawa Hall,FAC
+nyasatimes_131,Blantyre Kanache,ORG
+nyasatimes_131,BPC,LOC
+nyasatimes_131,thousands,CARDINAL
+nyasatimes_131,BPC,LOC
+nyasatimes_131,Malawians,NORP
+nyasatimes_131,the Black Missionaries,ORG
+nyasatimes_131,Mibawa Multi,PERSON
+nyasatimes_131,Limbe,GPE
+nyasatimes_131,this Friday 22 March,DATE
+nyasatimes_131,8 pm,TIME
+nyasatimes_131,Kanache,ORG
+nyasatimes_131,Kanache,ORG
+nyasatimes_131,BPC,LOC
+nyasatimes_131,the Malawi Red Cross,ORG
+nyasatimes_131,BPC,LOC
+nyasatimes_131,Nsanje,ORG
+nyasatimes_131,Blantyre,PERSON
+nyasatimes_131,Harawa,ORG
+nyasatimes_131,Blantyre,ORG
+nyasatimes_131,BPC,LOC
+nyasatimes_131,first,ORDINAL
+nyasatimes_131,Karonga,PRODUCT
+nyasatimes_131,Chikwawa,PERSON
+nyasatimes_131,Malawian,NORP
+nyasatimes_131,one,CARDINAL
+nyasatimes_131,Malawian,NORP
+nyasatimes_131,Malawians,NORP
+nyasatimes_131,Harawa,ORG
+nyasatimes_131,Harawa,ORG
+nyasatimes_131,Anthony Makondetsa,PERSON
+nyasatimes_131,the night,TIME
+nyasatimes_131,Club,ORG
+nyasatimes_131,Malawi Red Cross,PERSON
+nyasatimes_131,Mibawa,GPE
+nyasatimes_39,First Capital Bank,ORG
+nyasatimes_39,K10,ORG
+nyasatimes_39,thousands,CARDINAL
+nyasatimes_39,First Capital Bank Plc,ORG
+nyasatimes_39,K10 million,CARDINAL
+nyasatimes_39,FCB,ORG
+nyasatimes_39,La Caverna’s,ORG
+nyasatimes_39,Blue Buckets of Hope,WORK_OF_ART
+nyasatimes_39,Luchenza,ORG
+nyasatimes_39,Mulanje,PERSON
+nyasatimes_39,Chikwawa,PERSON
+nyasatimes_39,Blantyre,GPE
+nyasatimes_39,FCB Acting Chief Executive Officer,ORG
+nyasatimes_39,Thomas Kadantot,PERSON
+nyasatimes_39,Bank,ORG
+nyasatimes_39,millions,CARDINAL
+nyasatimes_39,Malawians,NORP
+nyasatimes_39,FCB,ORG
+nyasatimes_39,Kadantot,ORG
+nyasatimes_39,Kadantot,ORG
+nyasatimes_39,Malawians,NORP
+nyasatimes_39,Malawians,NORP
+nyasatimes_39,thousands,CARDINAL
+nyasatimes_39,Luchenza,ORG
+nyasatimes_39,Chikwawa,PERSON
+nyasatimes_39,Caverna Arts Gallery,ORG
+nyasatimes_39,Lois Losacco,PERSON
+nyasatimes_39,FCB,ORG
+nyasatimes_39,Community Based Organisations,ORG
+nyasatimes_39,Joshua,PERSON
+nyasatimes_39,more than 20 years,DATE
+nyasatimes_39,Losacco,ORG
+nyasatimes_39,Likuni Phala,ORG
+malawi24_57,878,CARDINAL
+malawi24_57,Nkhotakota,GPE
+malawi24_57,878,CARDINAL
+malawi24_57,Nkhotakota,ORG
+malawi24_57,Wednesday,DATE
+malawi24_57,the wee hours,TIME
+malawi24_57,Saturday,DATE
+malawi24_57,the Department of Disaster Management Affairs,ORG
+malawi24_57,Nthondo,ORG
+malawi24_57,Kalimanjira Trading Centre and Mkazimasika School Camps,ORG
+malawi24_57,Disaster Management Affairs,ORG
+malawi24_57,Wilson Moleni,PERSON
+malawi24_57,yesterday,DATE
+malawi24_57,Moleni,PERSON
+malawi24_57,Moleni,PERSON
+malawi24_57,Sub/TA Kalimanjira and Acting District,ORG
+malawi24_57,Greystone Alindiamawo,PERSON
+nyasatimes_11,176,CARDINAL
+nyasatimes_11,Lilongwe,GPE
+nyasatimes_11,At least 176,CARDINAL
+nyasatimes_11,Chipasula, Kaliyeka and,ORG
+nyasatimes_11,Kawale,GPE
+nyasatimes_11,Chipasula River,LOC
+nyasatimes_11,at least two hours,TIME
+nyasatimes_11,Thursday,DATE
+nyasatimes_11,The Ministry of Homeland Security,ORG
+nyasatimes_11,Nicholas Dausi,PERSON
+nyasatimes_11,Friday,DATE
+nyasatimes_11,“Thank,ORG
+nyasatimes_11,the day,DATE
+nyasatimes_11,night,TIME
+nyasatimes_11,Chipasula,PERSON
+nyasatimes_11,around 3 o’clock in the afternoon,TIME
+nyasatimes_11,at least two hours,TIME
+nyasatimes_11,Chipasula River,LOC
+nyasatimes_11,32 year old,DATE
+nyasatimes_11,Doreen Kanyoza,WORK_OF_ART
+nyasatimes_11,12 year,DATE
+nyasatimes_11,a few metres,QUANTITY
+nyasatimes_11,about an hour,TIME
+nyasatimes_11,Kanyoza,ORG
+nyasatimes_11,three,CARDINAL
+nyasatimes_11,last year,DATE
+nyasatimes_11,Biwi,ORG
+nyasatimes_11,John Banda,PERSON
+nyasatimes_11,Chipasula River,LOC
+nyasatimes_11,Chidzanja Bridge,PERSON
+nyasatimes_11,Chipasula,PERSON
+nyasatimes_11,70 year old,DATE
+nyasatimes_11,Willam Mazoni,PERSON
+nyasatimes_11,Chipasula Secondary School,ORG
+nyasatimes_11,23,CARDINAL
+nyasatimes_11,“Lilongwe City,GPE
+nyasatimes_11,Mazoni,PERSON
+nyasatimes_11,16 years,DATE
+nyasatimes_11,Chipasula River,LOC
+nyasatimes_11,Mazoni,PERSON
+nyasatimes_11,three,CARDINAL
+nyasatimes_11,16,CARDINAL
+nyasatimes_11,Kaliyeka Ward,PERSON
+nyasatimes_11,Richard Banda,PERSON
+nyasatimes_11,Chipasula River,LOC
+nyasatimes_11,the past three consecutive years,DATE
+nyasatimes_11,Lilongwe District,LOC
+nyasatimes_11,Kawale,GPE
+nyasatimes_11,Chipasula,GPE
+malawi24_80,70-year-old,DATE
+malawi24_80,Ireen Ngwira,ORG
+malawi24_80,Mbiriwizi River,LOC
+malawi24_80,Chozoli Rumphi,PERSON
+malawi24_80,Ngwira,PERSON
+malawi24_80,morning hours,TIME
+malawi24_80,February 11, 2019,DATE
+malawi24_80,Rumphi District Hospital,FAC
+malawi24_80,Kadoko Village,FAC
+malawi24_80,Traditional Authority,ORG
+malawi24_94,Botswana,ORG
+malawi24_94,Malawians,NORP
+malawi24_94,Friday,DATE
+malawi24_94,Malawi,NORP
+malawi24_94,March 2019,DATE
+malawi24_94,the Botswana Defence Force,ORG
+malawi24_94,Chileka Airport,FAC
+malawi24_94,Blantyre,GPE
+malawi24_94,11.55 am,TIME
+malawi24_94,one tonne,QUANTITY
+malawi24_94,ten tonnes,QUANTITY
+malawi24_94,four tonnes,QUANTITY
+malawi24_94,500,CARDINAL
+malawi24_94,Botswana,ORG
+malawi24_94,Malawi His Excellency Lt,PERSON
+malawi24_94,Louis Matshwenyego,PERSON
+malawi24_94,two,CARDINAL
+malawi24_94,two,CARDINAL
+malawi24_94,Matshwenyego,GPE
+malawi24_94,Disaster Management Affairs,ORG
+malawi24_94,Wilson Moleni,PERSON
+malawi24_94,Botswana,ORG
+malawi24_94,Arthur Peter Mutharika,PERSON
+malawi24_94,8th March,DATE
+malawi24_94,Botswana,ORG
+malawi24_94,Moleni,PERSON
+malawi24_94,Botswana,ORG
+malawi24_94,seven more tonnes,QUANTITY
+malawi24_81,Balaka,ORG
+malawi24_81,K1.2 million,CARDINAL
+malawi24_81,Aubrey Duwa,PERSON
+malawi24_81,Duwa,PERSON
+malawi24_81,today,DATE
+malawi24_81,one,CARDINAL
+malawi24_81,Duwa,PERSON
+malawi24_81,five,CARDINAL
+malawi24_81,Mpulura,GPE
+malawi24_81,Sawali,GPE
+malawi24_81,Matola,GPE
+malawi24_81,Chiendausiku,GPE
+malawi24_81,Balaka,GPE
+malawi24_81,One,CARDINAL
+malawi24_81,Elles Sangweni,PERSON
+malawi24_81,Matola village,GPE
+malawi24_81,56 year old,DATE
+malawi24_81,the night of,TIME
+malawi24_81,March,DATE
+malawi24_81,2019,DATE
+malawi24_81,daily,DATE
+malawi24_81,Malawi,PERSON
+malawi24_81,three,CARDINAL
+malawi24_81,African,NORP
+malawi24_81,Idai,PRODUCT
+malawi24_81,Approximately 850 thousand,CARDINAL
+nyasatimes_10,Mozambicans,NORP
+nyasatimes_10,Malawi,ORG
+nyasatimes_10,Makhanga,PERSON
+nyasatimes_10,Mozambicans,NORP
+nyasatimes_10,Malawi,ORG
+nyasatimes_10,Nsanje,GPE
+nyasatimes_10,Malawians,NORP
+nyasatimes_10,Nsanje,NORP
+nyasatimes_10,Rengard Chavula,PERSON
+nyasatimes_10,Mozambicans,NORP
+nyasatimes_10,Chavula,PERSON
+nyasatimes_10,Malawian,NORP
+nyasatimes_10,Mozambicans,NORP
+nyasatimes_10,Chavula,GPE
+nyasatimes_10,Chavula,PERSON
+nyasatimes_10,Mozambicans,NORP
+nyasatimes_10,Tengani,ORG
+nyasatimes_10,Mbenje,PERSON
+nyasatimes_10,Tengani,PERSON
+nyasatimes_10,Mozambicans,NORP
+nyasatimes_10,Malawians,NORP
+nyasatimes_10,at least 30,CARDINAL
+nyasatimes_10,Makhanga,PRODUCT
+nyasatimes_10,Nsanje District,LOC
+nyasatimes_10,Tuesday,DATE
+nyasatimes_10,the past few days,DATE
+nyasatimes_10,the east bank of the Shire River,ORG
+nyasatimes_10,Nsanje,ORG
+nyasatimes_10,almost 21,CARDINAL
+nyasatimes_10,Monday,DATE
+nyasatimes_10,Disaster Management Affairs Department,ORG
+nyasatimes_10,Wilson Moleni,ORG
+nyasatimes_10,the Malawi Defence Force,ORG
+nyasatimes_10,Bangula Trading Centre,ORG
+nyasatimes_10,Moleni,PERSON
+nyasatimes_10,Nsanje,GPE
+nyasatimes_10,the Malawi Defence Force,ORG
+nyasatimes_10,Bangula,GPE
+nyasatimes_10,east bank,GPE
+nyasatimes_10,Moleni,PERSON
+nyasatimes_10,Kenneth Jali,PERSON
+nyasatimes_10,Mana,ORG
+malawi24_42,African Union,ORG
+malawi24_42,Malawi,ORG
+malawi24_42,The African Union,ORG
+malawi24_42,100,000,MONEY
+malawi24_42,about K74 million,MONEY
+malawi24_42,Malawi,ORG
+malawi24_42,Displaced Persons,ORG
+malawi24_42,Rebecca Otengo,PERSON
+malawi24_42,Saturday,DATE
+malawi24_42,Nyangu Camp,FAC
+malawi24_42,Makhuwira,GPE
+malawi24_42,Chikwawa,GPE
+malawi24_42,100,000,MONEY
+malawi24_42,Otengo,ORG
+malawi24_42,three,CARDINAL
+malawi24_42,AU.Otengo,GPE
+malawi24_42,US$100,000 and US$,MONEY
+malawi24_42,150,000,MONEY
+malawi24_42,Zimbabwe,GPE
+malawi24_42,Mozambique,NORP
+malawi24_42,Otengo,ORG
+malawi24_42,DoDMA’s,ORG
+malawi24_42,Response,ORG
+malawi24_42,Recovery Harris Kachale,PERSON
+malawi24_42,first,ORDINAL
+malawi24_42,over 89,000,CARDINAL
+malawi24_42,Kachale,PERSON
+malawi24_42,AU,ORG
+malawi24_42,Thursday,DATE
+malawi24_42,15,CARDINAL
+malawi24_42,Chikwawa,PERSON
+malawi24_42,Nsanje,ORG
+malawi24_42,DoDMA,ORG
+malawi24_42,the Malawi Defence Force,ORG
+malawi24_42,the South African National Defence Force,ORG
+nyasatimes_38,Chakwera,ORG
+nyasatimes_38,MCP,ORG
+nyasatimes_38,26,CARDINAL
+nyasatimes_38,Malawi Congress Party,ORG
+nyasatimes_38,MCP,ORG
+nyasatimes_38,Lazarus Chakwera,PERSON
+nyasatimes_38,thousands,CARDINAL
+nyasatimes_38,hundreds,CARDINAL
+nyasatimes_38,Southern,NORP
+nyasatimes_38,26,CARDINAL
+nyasatimes_38,MCP,ORG
+nyasatimes_38,Lilongwe,GPE
+nyasatimes_38,Saturday,DATE
+nyasatimes_38,CrossRoads Hotel,ORG
+nyasatimes_38,MCP,ORG
+nyasatimes_38,Peter Mutharika,PERSON
+nyasatimes_38,Friday,DATE
+nyasatimes_38,the Electricity Generation Company (Egenco,LAW
+nyasatimes_38,Nkula,GPE
+nyasatimes_38,Kapichira Power Stations,ORG
+nyasatimes_38,Egenco,PERSON
+nyasatimes_38,270 megawatts,QUANTITY
+nyasatimes_38,MW,ORG
+nyasatimes_38,320MW.Department,CARDINAL
+nyasatimes_38,Meteorological Services,ORG
+nyasatimes_38,the Mozambican Channel,ORG
+nyasatimes_38,the Inter-Tropical Convergence Zone,ORG
+nyasatimes_38,Southern Malawi,PERSON
+nyasatimes_130,Mutharika,GPE
+nyasatimes_130,Peter Mutharika,PERSON
+nyasatimes_130,Monday,DATE
+nyasatimes_130,Chikuse Camp,FAC
+nyasatimes_130,Chikwawa District,LOC
+nyasatimes_130,six-month,DATE
+nyasatimes_130,Mutharika,GPE
+nyasatimes_130,Homeland Security,ORG
+nyasatimes_130,Nicholas Dausi,PERSON
+nyasatimes_130,Dausi,PERSON
+nyasatimes_130,Chikwawa District Commissioner,PERSON
+nyasatimes_130,Lusizi Nhlane,PERSON
+nyasatimes_130,between March 5 and 10 March,DATE
+nyasatimes_130,53,DATE
+nyasatimes_130,765,CARDINAL
+nyasatimes_130,12,CARDINAL
+nyasatimes_130,755,CARDINAL
+nyasatimes_130,56,CARDINAL
+nyasatimes_130,5,210,CARDINAL
+nyasatimes_130,7,488,CARDINAL
+nyasatimes_130,34,CARDINAL
+nyasatimes_130,nine,CARDINAL
+nyasatimes_130,two,CARDINAL
+nyasatimes_130,Nhlane,PERSON
+nyasatimes_124,Sana,PERSON
+nyasatimes_124,Lilongwe,PERSON
+nyasatimes_124,About 150,CARDINAL
+nyasatimes_124,Kawale,GPE
+nyasatimes_124,Chipasula,PERSON
+nyasatimes_124,Sana Cash,PERSON
+nyasatimes_124,last week,DATE
+nyasatimes_124,Kawale-Nchesi,ORG
+nyasatimes_124,150,CARDINAL
+nyasatimes_124,the rainy season,DATE
+nyasatimes_124,Nyasa Times,ORG
+nyasatimes_124,Sana Cash,PERSON
+nyasatimes_124,Carry Human Resources,ORG
+nyasatimes_124,Tennyson Kipandura,PERSON
+nyasatimes_124,Ulemu Msungama,ORG
+nyasatimes_124,Kipandura,GPE
+nyasatimes_124,Kipandura,ORG
+nyasatimes_124,the Chipasula Secondary School,ORG
+nyasatimes_124,Msungama,ORG
+nyasatimes_124,first,ORDINAL
+nyasatimes_124,Sana,PERSON
+nyasatimes_124,2017,DATE
+nyasatimes_124,Msungama,ORG
+nyasatimes_124,Last year,DATE
+nyasatimes_124,this year,DATE
+nyasatimes_124,Msungama,ORG
+nyasatimes_124,Sana,PERSON
+nyasatimes_124,Maliro,PERSON
+nyasatimes_124,one,CARDINAL
+nyasatimes_124,Rose Sikanona,PERSON
+nyasatimes_124,Sana,PERSON
+nyasatimes_124,Maliro,PERSON
+nyasatimes_129,Airtel Malawi,PERSON
+nyasatimes_129,Airtel Malawi,PERSON
+nyasatimes_129,K20,PERSON
+nyasatimes_129,the Department of Disaster Management Affairs,ORG
+nyasatimes_129,Nsanje,GPE
+nyasatimes_129,Chikwawa,GPE
+nyasatimes_129,Mulanje,PERSON
+nyasatimes_129,Machinga,ORG
+nyasatimes_129,Mangochi,GPE
+nyasatimes_129,Zomba,PERSON
+nyasatimes_129,Thursday,DATE
+nyasatimes_129,Capital Hill,LOC
+nyasatimes_129,Lilongwe,GPE
+nyasatimes_129,Airtel Legal,ORG
+nyasatimes_129,Regulatory,ORG
+nyasatimes_129,Hlupikire Chalamba,PERSON
+nyasatimes_129,Airtel,ORG
+nyasatimes_129,the Department of Disaster Management Affairs,ORG
+nyasatimes_129,the day,DATE
+nyasatimes_129,the Department of Disaster Management Affairs,ORG
+nyasatimes_129,James Chiusiwa,PERSON
+nyasatimes_129,187,CARDINAL
+nyasatimes_129,Camps,ORG
+nyasatimes_129,Malawi,PERSON
+nyasatimes_129,Chiusiwa,ORG
+nyasatimes_129,Airtel,PRODUCT
+nyasatimes_129,000,CARDINAL
+nyasatimes_129,16 000,CARDINAL
+nyasatimes_129,Mosques,FAC
+nyasatimes_129,Tents,WORK_OF_ART
+nyasatimes_129,Airtel,ORG
+nyasatimes_129,10,CARDINAL
+nyasatimes_129,Lilongwe Technical College,ORG
+nyasatimes_129,Wednesday,DATE
+nyasatimes_129,Lilongwe Technical College,ORG
+nyasatimes_129,the Ministry of Labor,ORG
+nyasatimes_129,Matemba,PERSON
+nyasatimes_129,Computers,NORP
+nyasatimes_129,Lilongwe Technical College Suzika Mvalo,ORG
+nyasatimes_129,Airtel,ORG
+nyasatimes_101,National Bank of Malawi,ORG
+nyasatimes_101,K20,ORG
+nyasatimes_101,National Bank of Malawi,ORG
+nyasatimes_101,NBM) plc,ORG
+nyasatimes_101,K20,PERSON
+nyasatimes_101,12,CARDINAL
+nyasatimes_101,Cyclone Idai,PRODUCT
+nyasatimes_101,Homeland Security Nicholus,ORG
+nyasatimes_101,Tuesday,DATE
+nyasatimes_101,Blantyre,PERSON
+nyasatimes_101,the Department of Disaster Management Affairs,ORG
+nyasatimes_101,NBM,ORG
+nyasatimes_101,Harold Jiya,PERSON
+nyasatimes_101,NBM,ORG
+nyasatimes_101,The Bank of the Nation’,WORK_OF_ART
+nyasatimes_101,last month,DATE
+nyasatimes_101,Jiya,PERSON
+nyasatimes_101,Dedza,GPE
+nyasatimes_101,Mangochi,GPE
+nyasatimes_101,Neno,GPE
+nyasatimes_101,K20,PERSON
+nyasatimes_101,Soya,ORG
+nyasatimes_101,one,CARDINAL
+nyasatimes_101,Jiya,PERSON
+nyasatimes_101,Dausi,ORG
+nyasatimes_101,Dausi,GPE
+nyasatimes_101,NBM,ORG
+nyasatimes_101,National Bank,ORG
+nyasatimes_101,Dausi,PERSON
+nyasatimes_101,March,DATE
+nyasatimes_101,60,CARDINAL
+nyasatimes_101,thousands,CARDINAL
+nyasatimes_101,Peter Mutharika,PERSON
+nyasatimes_21,Prophet TB Joshua’s,PERSON
+nyasatimes_21,Malawi,GPE
+nyasatimes_21,Blantyre,ORG
+nyasatimes_21,Emmanuel TV Partners,ORG
+nyasatimes_21,Nigerian,NORP
+nyasatimes_21,prophet T. B Joshua,PERSON
+nyasatimes_21,Sunday,DATE
+nyasatimes_21,Traditional Authority,ORG
+nyasatimes_21,first,ORDINAL
+nyasatimes_21,about a month ago,DATE
+nyasatimes_21,Maize,PERSON
+nyasatimes_21,One,CARDINAL
+nyasatimes_21,Partners,ORG
+nyasatimes_21,Gondwe,PERSON
+nyasatimes_21,Prophet Joshua,PERSON
+nyasatimes_21,Group Village,ORG
+nyasatimes_21,Headman Mkumba,PERSON
+nyasatimes_21,today,DATE
+nyasatimes_21,today,DATE
+nyasatimes_21,Blantyre,PERSON
+nyasatimes_21,14,CARDINAL
+nyasatimes_21,TA Lundu,GPE
+nyasatimes_21,about 2903,CARDINAL
+nyasatimes_35,Machinga,GPE
+nyasatimes_35,Tuesday,DATE
+nyasatimes_35,Likuni Phala,WORK_OF_ART
+nyasatimes_35,Machinga,GPE
+nyasatimes_35,early last month,DATE
+nyasatimes_35,Machinga Chairperson,PERSON
+nyasatimes_35,Grey Natoto Mphithi,ORG
+nyasatimes_35,Machinga,GPE
+nyasatimes_35,Genesis Nutritional Company,ORG
+nyasatimes_35,Genesis Nutritional Company Products,ORG
+nyasatimes_35,Harry Haroon,PERSON
+nyasatimes_35,Kamzota,GPE
+nyasatimes_35,four hours,TIME
+nyasatimes_35,Kamzota,ORG
+nyasatimes_35,One,CARDINAL
+nyasatimes_35,Aida Wilson,PERSON
+nyasatimes_35,Wilson,ORG
+nyasatimes_35,five,CARDINAL
+nyasatimes_35,59,CARDINAL
+nyasatimes_35,Over 29,000,CARDINAL
+nyasatimes_35,145,CARDINAL
+nyasatimes_35,000,CARDINAL
+nyasatimes_35,Machinga,ORG
+nyasatimes_34,MEC,ORG
+nyasatimes_34,The Malawi Electoral Commission,ORG
+nyasatimes_34,MEC,ORG
+nyasatimes_34,Commission,ORG
+nyasatimes_34,Tuesday,DATE
+nyasatimes_34,three,CARDINAL
+nyasatimes_34,Mwanza,GPE
+nyasatimes_34,Chikwawa,PERSON
+nyasatimes_34,Nsanje,ORG
+nyasatimes_34,Malawians,NORP
+nyasatimes_34,Commission,ORG
+nyasatimes_34,Commission,ORG
+nyasatimes_34,MEC,ORG
+nyasatimes_34,Commission,ORG
+nyasatimes_114,Unilever Malawi,PERSON
+nyasatimes_114,Lifebouy,GPE
+nyasatimes_114,Phalombe,GPE
+nyasatimes_114,Unilever Malawi,PERSON
+nyasatimes_114,Red Cross Malawi,ORG
+nyasatimes_114,2 077,CARDINAL
+nyasatimes_114,Lifebuoy,GPE
+nyasatimes_114,Idai,FAC
+nyasatimes_114,Madalitso Camp,FAC
+nyasatimes_114,565,CARDINAL
+nyasatimes_114,2 827,CARDINAL
+nyasatimes_114,Malawi Red Cross Society,ORG
+nyasatimes_114,Levison Changole,PERSON
+nyasatimes_114,Unilever,ORG
+nyasatimes_114,Changole,PERSON
+nyasatimes_114,Unilever,ORG
+nyasatimes_114,Red Cross Malawi,ORG
+nyasatimes_114,14,000,CARDINAL
+nyasatimes_114,Non Food,ORG
+nyasatimes_114,DFID,ORG
+nyasatimes_114,EU,ORG
+nyasatimes_114,ECHO,ORG
+nyasatimes_114,Danish,GPE
+nyasatimes_114,Netherlands,GPE
+nyasatimes_114,Swiss,NORP
+nyasatimes_114,Belgian Red Cross Societies,ORG
+nyasatimes_114,Red Cross,ORG
+nyasatimes_114,170,CARDINAL
+nyasatimes_114,Chikwawa,GPE
+nyasatimes_114,Nsanje,ORG
+nyasatimes_114,Phalombe,PERSON
+nyasatimes_114,Changole,PERSON
+nyasatimes_114,Unilever Malawi Country,ORG
+nyasatimes_114,Anele Zunga,PERSON
+nyasatimes_114,Unilever,ORG
+nyasatimes_114,Unilever,ORG
+nyasatimes_114,one,CARDINAL
+nyasatimes_114,World,ORG
+nyasatimes_114,190,CARDINAL
+nyasatimes_114,2.5 billion,CARDINAL
+nyasatimes_100,Pope,PERSON
+nyasatimes_100,Cyclone Idai,PRODUCT
+nyasatimes_100,Malawi,ORG
+nyasatimes_100,Mozambique,NORP
+nyasatimes_100,Zimbabwe,GPE
+nyasatimes_100,Catholic Church,ORG
+nyasatimes_100,Pope Francis,PERSON
+nyasatimes_100,Malawi,GPE
+nyasatimes_100,Mozambique,NORP
+nyasatimes_100,Zimbabwe,GPE
+nyasatimes_100,Mozambique,GPE
+nyasatimes_100,Zimbabwe,GPE
+nyasatimes_100,Malawi,PERSON
+nyasatimes_100,thousands,CARDINAL
+nyasatimes_100,Saint Peter’s Square,FAC
+nyasatimes_100,Wednesday,DATE
+nyasatimes_100,Pope Francis,PERSON
+nyasatimes_100,The United Nations,ORG
+nyasatimes_100,one,CARDINAL
+nyasatimes_100,decades,DATE
+nyasatimes_100,Malawi,GPE
+nyasatimes_100,nearly a million,CARDINAL
+nyasatimes_100,more than 80,000,CARDINAL
+nyasatimes_128,Petroleum Importers Limited,ORG
+nyasatimes_128,Phalombe,GPE
+nyasatimes_128,Petroleum Importers Limited,ORG
+nyasatimes_128,K10,ORG
+nyasatimes_128,World Vision Malawi,ORG
+nyasatimes_128,Phalombe,GPE
+nyasatimes_128,Dr Enwell Kadango,PERSON
+nyasatimes_128,Arthur Peter Mutharika,PERSON
+nyasatimes_128,the Indian Ocean,LOC
+nyasatimes_128,hundreds,CARDINAL
+nyasatimes_128,thousands,CARDINAL
+nyasatimes_128,Mozambican,NORP
+nyasatimes_128,Beira,GPE
+nyasatimes_128,PIL,ORG
+nyasatimes_128,PIL,ORG
+nyasatimes_128,World Vision,ORG
+nyasatimes_128,WORLD Vision,ORG
+nyasatimes_128,World Vision District Programs,ORG
+nyasatimes_128,Phalombe Samson Semu,ORG
+nyasatimes_128,Semu,GPE
+nyasatimes_128,PIL,ORG
+nyasatimes_128,Semu,GPE
+nyasatimes_128,Ellis Simudya,PERSON
+nyasatimes_128,World Vision,ORG
+nyasatimes_128,Malawi,PERSON
+nyasatimes_128,14,CARDINAL
+nyasatimes_128,56,CARDINAL
+nyasatimes_116,Chimulirenji,ORG
+nyasatimes_116,Zomba,PERSON
+nyasatimes_116,Democratic Progressive Party,ORG
+nyasatimes_116,DPP,ORG
+nyasatimes_116,Civic Education,ORG
+nyasatimes_116,Everton Chimulirenji,PERSON
+nyasatimes_116,Sunday,DATE
+nyasatimes_116,a busy day,DATE
+nyasatimes_116,Zomba,PERSON
+nyasatimes_116,29 000,CARDINAL
+nyasatimes_116,6,CARDINAL
+nyasatimes_116,6 Miles,QUANTITY
+nyasatimes_116,Traditional Authority Chikowi,ORG
+nyasatimes_116,Chimulirenji,ORG
+nyasatimes_116,Chimulirenj,ORG
+nyasatimes_116,Charles Mchacha,PERSON
+nyasatimes_116,Mwayi Kamuyambeni,PERSON
+nyasatimes_116,Brave Mkwezalamba,PERSON
+nyasatimes_116,the Department of Disaster Management Affairs,ORG
+nyasatimes_116,the Ministry of Homeland Security,ORG
+nyasatimes_116,Chimulirenji,ORG
+nyasatimes_116,Mutharika,GPE
+nyasatimes_116,Malawians,NORP
+nyasatimes_116,Emmanuel Bambe,PERSON
+nyasatimes_2,Russia,GPE
+nyasatimes_2,Malawi,PERSON
+nyasatimes_2,Russian,NORP
+nyasatimes_2,Malawi,PERSON
+nyasatimes_2,Malawi,GPE
+nyasatimes_2,30 1045 tons,QUANTITY
+nyasatimes_2,Homeland Security,ORG
+nyasatimes_2,Nicholas Dausi,PERSON
+nyasatimes_2,the Russian Federation,GPE
+nyasatimes_2,‘On,GPE
+nyasatimes_2,Vladimir Putin,PERSON
+nyasatimes_2,the Russian Federation,GPE
+nyasatimes_2,67,CARDINAL
+nyasatimes_2,over a million,CARDINAL
+nyasatimes_2,64,CARDINAL
+nyasatimes_2,75,CARDINAL
+nyasatimes_2,America,GPE
+nyasatimes_2,Germany,GPE
+nyasatimes_2,Britain,GPE
+nyasatimes_2,Dausi,PERSON
+nyasatimes_2,Ambassadorof the Russian Federation,ORG
+nyasatimes_2,the Republics of Zimbabwe,ORG
+nyasatimes_2,Malawi, Sergey V. Bakharev,ORG
+nyasatimes_2,“On behalf,PERSON
+nyasatimes_2,the Russian Federation,GPE
+nyasatimes_2,Russia,GPE
+nyasatimes_2,Malawi,PERSON
+nyasatimes_2,two,CARDINAL
+nyasatimes_36,Malawians,NORP
+nyasatimes_36,PS Madula,ORG
+nyasatimes_36,the Ministry of Homeland Security,ORG
+nyasatimes_36,Sam Madula,PERSON
+nyasatimes_36,Malawians,NORP
+nyasatimes_36,Madula,PERSON
+nyasatimes_36,Mangochi,GPE
+nyasatimes_36,five – day,DATE
+nyasatimes_36,one,CARDINAL
+nyasatimes_36,every year,DATE
+nyasatimes_36,Madula,PERSON
+nyasatimes_36,Soche Hill,LOC
+nyasatimes_36,Blantyre,GPE
+nyasatimes_36,Mtandire,GPE
+nyasatimes_36,Lilongwe,PERSON
+nyasatimes_36,Lower Shire,GPE
+nyasatimes_36,Madula,PERSON
+nyasatimes_36,five-day,DATE
+nyasatimes_36,Asian,NORP
+nyasatimes_36,Bangkok,GPE
+nyasatimes_36,Thailand,GPE
+nyasatimes_36,Aslam Perwais,ORG
+nyasatimes_36,Malawi News Agency,ORG
+nyasatimes_36,Mana,ORG
+nyasatimes_36,Malawi,PERSON
+nyasatimes_36,Perwais,ORG
+nyasatimes_36,the World Bank,ORG
+nyasatimes_36,2015,DATE
+nyasatimes_36,230,000,CARDINAL
+nyasatimes_36,at least 175,CARDINAL
+nyasatimes_36,the World Bank’s Senior Disaster Risk Management Specialist,ORG
+nyasatimes_36,Francis Mkoka,PERSON
+nyasatimes_36,ADPC,ORG
+nyasatimes_22,Chakwera-Mia,ORG
+nyasatimes_22,MCP,ORG
+nyasatimes_22,Over 2000,CARDINAL
+nyasatimes_22,Nsanje,NORP
+nyasatimes_22,Sunday, March 17, 2019,DATE
+nyasatimes_22,Malawi Congress Party,ORG
+nyasatimes_22,MCP,ORG
+nyasatimes_22,Lazarus Chakwera,PERSON
+nyasatimes_22,the recent days,DATE
+nyasatimes_22,nearly a million,CARDINAL
+nyasatimes_22,At least 45,CARDINAL
+nyasatimes_22,tens of thousands,CARDINAL
+nyasatimes_22,Sidik Mia,WORK_OF_ART
+nyasatimes_22,1,760,CARDINAL
+nyasatimes_22,Nyachikadza,GPE
+nyasatimes_22,416,CARDINAL
+nyasatimes_22,Mankhokwe,GPE
+nyasatimes_22,Traditional Authority,ORG
+nyasatimes_22,MCP,ORG
+nyasatimes_22,Shire River,LOC
+nyasatimes_22,Chakwera,PERSON
+nyasatimes_22,Mia,PERSON
+nyasatimes_22,MCP,ORG
+nyasatimes_22,Lilongwe,GPE
+nyasatimes_22,the day,DATE
+nyasatimes_22,Mia,PERSON
+nyasatimes_22,the United States of America,GPE
+nyasatimes_22,USA,GPE
+nyasatimes_22,Chakwera,ORG
+nyasatimes_22,Mia,PERSON
+nyasatimes_22,National Campaign Director,ORG
+nyasatimes_22,Kunkuyu,ORG
+nyasatimes_22,Malata and Cement Subsidy Programme,WORK_OF_ART
+nyasatimes_22,the Shire Vallay,PRODUCT
+nyasatimes_22,Nsanje South,PERSON
+nyasatimes_22,Kunkuyu,GPE
+nyasatimes_22,the recent days,DATE
+nyasatimes_22,Mia,PERSON
+nyasatimes_22,Abida,GPE
+nyasatimes_22,MCP Shadow,ORG
+nyasatimes_22,Chikwawa Nkombedzi Constituency,PERSON
+nyasatimes_22,Chikwawa,PERSON
+nyasatimes_22,Nsanje,ORG
+nyasatimes_23,Malawi,PERSON
+nyasatimes_23,Red Cross,ORG
+nyasatimes_23,Malawi Red Cross Society,ORG
+nyasatimes_23,Red Cross,ORG
+nyasatimes_23,Phalombe,GPE
+nyasatimes_23,Francis Liyati,PERSON
+nyasatimes_23,Matawa Primary School,ORG
+nyasatimes_23,Red Cross,ORG
+nyasatimes_23,first,ORDINAL
+nyasatimes_23,Phalombe,GPE
+nyasatimes_23,Liyati,GPE
+nyasatimes_23,159,CARDINAL
+nyasatimes_23,Matawa,GPE
+nyasatimes_23,approximately 50,CARDINAL
+nyasatimes_23,one,CARDINAL
+nyasatimes_23,Matawa Camp,ORG
+nyasatimes_23,Lucy Nkhata,PERSON
+nyasatimes_23,68,DATE
+nyasatimes_23,KalindeVillage,ORG
+nyasatimes_23,Liyati,GPE
+nyasatimes_23,Phalombe District Council,ORG
+nyasatimes_23,the Red Cross Malawi Society,ORG
+nyasatimes_23,approximately 1,500,CARDINAL
+nyasatimes_23,Traditional Authority,ORG
+nyasatimes_23,Jenala,GPE
+nyasatimes_23,Kaduya,GPE
+nyasatimes_37,2,CARDINAL
+nyasatimes_37,Lilongwe,PERSON
+nyasatimes_37,Two,CARDINAL
+nyasatimes_37,two days,DATE
+nyasatimes_37,Capital,ORG
+nyasatimes_37,Lilongwe,PERSON
+nyasatimes_37,two days ago,DATE
+nyasatimes_37,Disaster Management,ORG
+nyasatimes_37,176,CARDINAL
+nyasatimes_37,thousands,CARDINAL
+nyasatimes_37,Nicholas Dausi,PERSON
+nyasatimes_37,yesterday,DATE
+nyasatimes_37,Dausi,PERSON
+nyasatimes_3,UK,GPE
+nyasatimes_3,Malawi,NORP
+nyasatimes_3,United Kingdom’s,GPE
+nyasatimes_3,UK,GPE
+nyasatimes_3,Department for International Development,ORG
+nyasatimes_3,DfID,GPE
+nyasatimes_3,£3.4 million,MONEY
+nyasatimes_3,Malawi,GPE
+nyasatimes_3,Thursday,DATE
+nyasatimes_3,DfID,GPE
+nyasatimes_3,DFID,ORG
+nyasatimes_3,140,000,CARDINAL
+nyasatimes_3,the end of March,DATE
+nyasatimes_3,UK,GPE
+nyasatimes_3,the World Food Programme,ORG
+nyasatimes_3,UNICEF,ORG
+nyasatimes_3,the Red Cross,ORG
+nyasatimes_3,Phalombe,GPE
+nyasatimes_3,Nsanje,ORG
+nyasatimes_3,Chikwawa,ORG
+nyasatimes_3,DfID Head,PERSON
+nyasatimes_3,Malawi,GPE
+nyasatimes_3,David Beer,PERSON
+nyasatimes_3,Cyclone Idai,NORP
+nyasatimes_3,Malawi,ORG
+nyasatimes_3,UK,GPE
+nyasatimes_3,Malawians,NORP
+nyasatimes_3,£3.4 million,MONEY
+nyasatimes_3,Malawians,NORP
+nyasatimes_3,,CARDINAL
+nyasatimes_3,65,000,CARDINAL
+nyasatimes_3,,CARDINAL
+nyasatimes_3,150,000,CARDINAL
+nyasatimes_3,two months,DATE
+nyasatimes_3,,CARDINAL
+nyasatimes_3,250,000,CARDINAL
+nyasatimes_3,,CARDINAL
+nyasatimes_3,130,000,CARDINAL
+nyasatimes_3,Southern,NORP
+nyasatimes_3,At least 13,CARDINAL
+nyasatimes_3,Chikwawa,ORG
+nyasatimes_3,Machinga,ORG
+nyasatimes_3,Mulanje,GPE
+nyasatimes_3,Nsanje,ORG
+nyasatimes_3,Phalombe,PERSON
+nyasatimes_3,Zomba,PERSON
+nyasatimes_103,ICT,ORG
+nyasatimes_103,TNM Plc,ORG
+nyasatimes_103,Malawi Red Cross,ORG
+nyasatimes_103,Saturday,DATE
+nyasatimes_103,Phalombe,GPE
+nyasatimes_103,RC,GPE
+nyasatimes_103,three,CARDINAL
+nyasatimes_103,Chikwawa,PERSON
+nyasatimes_103,Nsanje,ORG
+nyasatimes_103,TNM,ORG
+nyasatimes_103,Eric Valentine,PERSON
+nyasatimes_103,Valentine,PERSON
+nyasatimes_103,Valentine,PERSON
+nyasatimes_103,TNM,ORG
+nyasatimes_103,Malawi Red Cross,ORG
+nyasatimes_103,Valentine,PERSON
+nyasatimes_103,TNM,ORG
+nyasatimes_103,Red Cross,ORG
+nyasatimes_103,TNM,ORG
+nyasatimes_103,Malawi Red Cross Society,ORG
+nyasatimes_103,Roster Kufandiko,PERSON
+nyasatimes_103,K8.7 million,CARDINAL
+nyasatimes_103,Phalombe,GPE
+nyasatimes_103,Chikwawa,PERSON
+nyasatimes_103,Nsanje,ORG
+nyasatimes_103,TNM,ORG
+nyasatimes_103,2015,DATE
+nyasatimes_103,Red Cross,ORG
+nyasatimes_103,Kufandiko,PERSON
+nyasatimes_103,Kufandiko,PERSON
+nyasatimes_103,this year,DATE
+nyasatimes_103,Red Cross,ORG
+nyasatimes_103,Red Cross,ORG
+nyasatimes_103,the Department of Disaster Management Affairs,ORG
+nyasatimes_103,the Ministry of Homeland Security,ORG
+nyasatimes_103,this year,DATE
+nyasatimes_103,172 151,CARDINAL
+mwnation_74,MET,ORG
+mwnation_74,The Nation Online,WORK_OF_ART
+mwnation_74,The Department of
+Climate Change and Meteorological Services,ORG
+mwnation_74,MET,ORG
+mwnation_74,the Southern Region,LOC
+mwnation_74,Friday,DATE
+mwnation_74,Monday,DATE
+mwnation_74,Southern,NORP
+mwnation_74,last week,DATE
+mwnation_74,North,LOC
+mwnation_74,Mozambique,NORP
+mwnation_74,Malawi,ORG
+mwnation_74,MET,ORG
+mwnation_74,Jolam
+Nkhokwe,PERSON
+mwnation_74,yesterday,DATE
+mwnation_74,Zimbabwe,GPE
+mwnation_74,Mozambique,NORP
+mwnation_74,the Southern Region,LOC
+mwnation_74,Nsanje,PERSON
+mwnation_74,Chikwawa,PERSON
+mwnation_74,Blantyre,ORG
+nyasatimes_113,Mia,PERSON
+nyasatimes_113,Malawi Congress Party,ORG
+nyasatimes_113,May 2019,DATE
+nyasatimes_113,Sidik Mia,PERSON
+nyasatimes_113,Shire Valley,LOC
+nyasatimes_113,this year,DATE
+nyasatimes_113,Malawi,PERSON
+nyasatimes_113,Sidik Mia Foundation,ORG
+nyasatimes_113,four,CARDINAL
+nyasatimes_113,Chikwawa,PERSON
+nyasatimes_113,later in the afternoon,TIME
+nyasatimes_113,Nsanje,PERSON
+nyasatimes_113,Mia,PERSON
+nyasatimes_113,Kulima,GPE
+nyasatimes_113,Chikwawa,GPE
+nyasatimes_113,first,ORDINAL
+nyasatimes_113,Ufa,PERSON
+nyasatimes_113,Mia,PERSON
+nyasatimes_113,Shire Valley,LOC
+nyasatimes_113,Mia,PERSON
+nyasatimes_113,Sidik Mia Foundation,ORG
+nyasatimes_113,Malawi Broadcasting Corporation,ORG
+nyasatimes_113,Lyson Sibande,ORG
+nyasatimes_113,MCP,ORG
+nyasatimes_113,Manifesto,ORG
+nyasatimes_113,Lilongwe,GPE
+nyasatimes_113,the weekend,DATE
+nyasatimes_113,Sibande,ORG
+nyasatimes_113,MCP,ORG
+nyasatimes_113,Mia,PERSON
+nyasatimes_113,Manifesto,ORG
+nyasatimes_113,Mia,PERSON
+nyasatimes_113,Manifesto,ORG
+nyasatimes_113,Lazarus Chakwera,PERSON
+nyasatimes_113,Manifesto,ORG
+nyasatimes_113,Over 5 million,CARDINAL
+nyasatimes_113,minutes,TIME
+nyasatimes_113,that day,DATE
+nyasatimes_113,Mia,PERSON
+nyasatimes_113,Mia,PERSON
+nyasatimes_113,MCP,ORG
+nyasatimes_113,May 21,DATE
+nyasatimes_107,UTM,ORG
+nyasatimes_107,Malawi,PERSON
+nyasatimes_107,UTM Party,ORG
+nyasatimes_107,23,CARDINAL
+nyasatimes_107,thousands,CARDINAL
+nyasatimes_107,UTM,ORG
+nyasatimes_107,State,ORG
+nyasatimes_107,Saulos Chilima,PERSON
+nyasatimes_107,this hour,TIME
+nyasatimes_107,Chilima,PERSON
+nyasatimes_107,Citizens,ORG
+nyasatimes_107,Chilima,GPE
+nyasatimes_107,UTM,ORG
+nyasatimes_107,mosquito,PERSON
+nyasatimes_107,Peter Mutharika,PERSON
+nyasatimes_107,Friday,DATE
+nyasatimes_107,the Electricity Generation Company (Egenco,LAW
+nyasatimes_107,Nkula,GPE
+nyasatimes_107,Kapichira Power Stations,ORG
+nyasatimes_107,Egenco,PERSON
+nyasatimes_107,270 megawatts,QUANTITY
+nyasatimes_107,MW,ORG
+nyasatimes_107,320MW.The Department of Climate Change and Meteorological Services,ORG
+nyasatimes_107,the Mozambican Channel,ORG
+nyasatimes_107,the Inter-Tropical Convergence Zone,ORG
+nyasatimes_107,Southern Malawi,PERSON
+nyasatimes_7,MET,ORG
+nyasatimes_7,Department of Climate Change and Meteorological Services,ORG
+nyasatimes_7,Lilongwe,PERSON
+nyasatimes_7,Agriculture Meteorologist,PERSON
+nyasatimes_7,Adams Chavula,ORG
+nyasatimes_7,Mchesi,GPE
+nyasatimes_7,Kawale,GPE
+nyasatimes_7,Chipasula,PERSON
+nyasatimes_7,Lilongwe,PERSON
+nyasatimes_7,Chavula,GPE
+nyasatimes_7,“Lilongwe City Council,ORG
+nyasatimes_7,Lilongwe,GPE
+nyasatimes_7,Earlier this month,DATE
+nyasatimes_7,Lilongwe,GPE
+nyasatimes_7,the Department of Disaster Management Affairs,ORG
+nyasatimes_7,Kawale,GPE
+nyasatimes_7,Mchesi,GPE
+nyasatimes_7,Chavula,PERSON
+nyasatimes_7,Lilongwe,PERSON
+nyasatimes_7,Chavula,PERSON
+nyasatimes_7,Lilongwe,PERSON
+nyasatimes_7,Chipasula,GPE
+nyasatimes_7,70 year old,DATE
+nyasatimes_7,William Mazoni,PERSON
+nyasatimes_7,Mana,ORG
+nyasatimes_7,Lilongwe City Council,ORG
+nyasatimes_7,Chipasula River,LOC
+malawi24_49,Malawi,ORG
+malawi24_49,Malawi,ORG
+malawi24_49,Peter Mutharika,PERSON
+malawi24_49,the Northern Region,LOC
+malawi24_49,the State of Disaster,ORG
+malawi24_49,South,LOC
+malawi24_49,Southern Region,LOC
+malawi24_49,23,CARDINAL
+malawi24_49,At least twelve,CARDINAL
+malawi24_49,twenty-nine,CARDINAL
+malawi24_49,thousands,CARDINAL
+malawi24_49,Southern Region,LOC
+malawi24_49,Malawi,PERSON
+malawi24_49,the Northern Region,LOC
+malawi24_49,State House,ORG
+malawi24_49,State House,ORG
+malawi24_49,Mutharika,GPE
+malawi24_49,Southern Malawi,PERSON
+malawi24_49,the Department of Disaster Management Affairs,ORG
+malawi24_49,the Ministry of Homeland Security,ORG
+malawi24_49,Mutharika,GPE
+malawi24_49,the Malawi Defence Force,ORG
+malawi24_49,one hundred thousand,CARDINAL
+malawi24_49,Saturday,DATE
+malawi24_49,afternoon,TIME
+nyasatimes_33,Nyasa Big Bullets Football Club,ORG
+nyasatimes_33,Nyasa Manufacturing Company,ORG
+nyasatimes_33,Sunday,DATE
+nyasatimes_33,Bereu in,FAC
+nyasatimes_33,the Lower Shire District,LOC
+nyasatimes_33,Nyasa,GPE
+nyasatimes_33,Cornrad Buckle,ORG
+nyasatimes_33,6 000,CARDINAL
+nyasatimes_33,10 kilograms,QUANTITY
+nyasatimes_33,3 000,CARDINAL
+nyasatimes_33,60,CARDINAL
+nyasatimes_33,thousands,CARDINAL
+nyasatimes_27,Chinese,NORP
+nyasatimes_27,K38,ORG
+nyasatimes_27,Malawi,PERSON
+nyasatimes_27,Chinese,NORP
+nyasatimes_27,Malawi,GPE
+nyasatimes_27,Chinese Chambers of Commerce,ORG
+nyasatimes_27,Malawi,GPE
+nyasatimes_27,K38 million,CARDINAL
+nyasatimes_27,the Department of Disaster Management Affairs,ORG
+nyasatimes_27,early March,DATE
+nyasatimes_27,2,000 tonnes,QUANTITY
+nyasatimes_27,Malawi,PERSON
+nyasatimes_27,Malawi,GPE
+nyasatimes_27,Zhou Shanjian,PERSON
+nyasatimes_27,Malawi,GPE
+nyasatimes_27,Malawi,PERSON
+nyasatimes_27,Shanjian,NORP
+nyasatimes_27,Malawi,GPE
+nyasatimes_27,Embassy,LOC
+nyasatimes_27,China,GPE
+nyasatimes_27,Malawi,GPE
+nyasatimes_27,Wang Xiusheng,PERSON
+nyasatimes_27,Malawi,PERSON
+nyasatimes_27,Homeland Security,ORG
+nyasatimes_27,Nicholas Dausi,PERSON
+nyasatimes_27,over 700,000,CARDINAL
+nyasatimes_27,Malawi,GPE
+nyasatimes_27,Dausi,PERSON
+nyasatimes_27,China,GPE
+nyasatimes_27,4000 more tonnes,QUANTITY
+nyasatimes_27,Malawi,PERSON
+nyasatimes_27,13,CARDINAL
+nyasatimes_27,Malawi,GPE
+nyasatimes_27,Southern Region,LOC
+nyasatimes_27,60,CARDINAL
+times.mw_115,12,000,CARDINAL
+times.mw_115,Feston Malekezo,PERSON
+times.mw_115,Some 12,000,CARDINAL
+times.mw_115,230,000,CARDINAL
+times.mw_115,Department of Disaster Management Affairs,ORG
+times.mw_115,United Nations,ORG
+times.mw_115,Sunday,DATE
+times.mw_115,one,CARDINAL
+times.mw_115,UNFPA,ORG
+times.mw_115,23,000,CARDINAL
+times.mw_115,about 12,000,CARDINAL
+times.mw_115,Four,CARDINAL
+times.mw_115,United Nations Population Fund,ORG
+times.mw_115,“UNFPA,GPE
+times.mw_115,the Ministry of Health,ORG
+times.mw_115,Population- Reproductive Health Directorate,ORG
+times.mw_115,as early as next week,DATE
+times.mw_115,300,CARDINAL
+times.mw_115,600,CARDINAL
+times.mw_115,Balaka,GPE
+times.mw_115,Blantyre,PERSON
+times.mw_115,Machinga,GPE
+times.mw_115,Mangochi,GPE
+times.mw_115,Chikwawa,PERSON
+times.mw_115,Ministry of Health,ORG
+times.mw_115,107,500 mosquito,QUANTITY
+times.mw_115,2018,DATE
+times.mw_115,At least 15,CARDINAL
+times.mw_115,about 868,895,CARDINAL
+times.mw_115,173,CARDINAL
+nyasatimes_6,Chilima,GPE
+nyasatimes_6,Nsanje,ORG
+nyasatimes_6,Malawi VP,ORG
+nyasatimes_6,UTM Party,ORG
+nyasatimes_6,Dr Saulos Chilima,PERSON
+nyasatimes_6,Tuesday,DATE
+nyasatimes_6,Gamake,GPE
+nyasatimes_6,Nsanje,GPE
+nyasatimes_6,Tuesday,DATE
+nyasatimes_6,Chikuse,ORG
+nyasatimes_6,Mpomba,NORP
+nyasatimes_6,Chilima,PERSON
+nyasatimes_6,the years,DATE
+nyasatimes_6,Chilima,GPE
+nyasatimes_6,Malawi,PERSON
+nyasatimes_6,Idai,FAC
+nyasatimes_6,Nsanje,GPE
+nyasatimes_6,Chikwawa,GPE
+nyasatimes_6,Chiradzulu,ORG
+nyasatimes_6,60,CARDINAL
+nyasatimes_6,thousands,CARDINAL
+nyasatimes_112,30,CARDINAL
+nyasatimes_112,Malawi,ORG
+nyasatimes_112,30,CARDINAL
+nyasatimes_112,377,CARDINAL
+nyasatimes_112,The Department of Disaster Management Affairs,ORG
+nyasatimes_112,Chipiliro Khamula,PERSON
+nyasatimes_112,400,CARDINAL
+nyasatimes_112,128,CARDINAL
+nyasatimes_112,93,CARDINAL
+nyasatimes_112,000.He,CARDINAL
+nyasatimes_112,6,CARDINAL
+nyasatimes_112,000,CARDINAL
+nyasatimes_112,South Africa,GPE
+nyasatimes_112,Malawi,PERSON
+nyasatimes_112,South African,NORP
+nyasatimes_112,Malawi,ORG
+nyasatimes_112,Peter Mutharika,PERSON
+nyasatimes_112,14,CARDINAL
+nyasatimes_112,Khamula,PERSON
+nyasatimes_112,Makhanga,PRODUCT
+nyasatimes_112,Chikhwawa,GPE
+nyasatimes_112,Malawi,PERSON
+nyasatimes_112,Ncheu,GPE
+nyasatimes_112,four,CARDINAL
+nyasatimes_112,Sunday,DATE
+nyasatimes_112,Ntcheu,GPE
+nyasatimes_112,four,CARDINAL
+nyasatimes_112,one,CARDINAL
+nyasatimes_112,night,TIME
+nyasatimes_112,Phalombe,GPE
+nyasatimes_112,44-year-old,DATE
+nyasatimes_112,Chikwawa,GPE
+nyasatimes_112,Catholic,NORP
+nyasatimes_112,Musikuwo,PERSON
+nyasatimes_112,Sunday,DATE
+nyasatimes_112,Khamula,PERSON
+nyasatimes_112,93,730,CARDINAL
+nyasatimes_112,Malawi,PERSON
+nyasatimes_112,Tuesday,DATE
+nyasatimes_112,Friday,DATE
+nyasatimes_112,93,730,CARDINAL
+nyasatimes_112,6,341,CARDINAL
+nyasatimes_104,Red Cross,ORG
+nyasatimes_104,Malawi,PERSON
+nyasatimes_104,Malawi Red Cross Society,ORG
+nyasatimes_104,Nsanje,ORG
+nyasatimes_104,Patricia Gadi,PERSON
+nyasatimes_104,Thursday,DATE
+nyasatimes_104,Bangula ADMARC,ORG
+nyasatimes_104,over 5,000,CARDINAL
+nyasatimes_104,Mozambicans,NORP
+nyasatimes_104,March,DATE
+nyasatimes_104,Danish Red Cross,ORG
+nyasatimes_104,first,ORDINAL
+nyasatimes_104,Gadi,PERSON
+nyasatimes_104,The District Coordinator,ORG
+nyasatimes_104,Gadi,PERSON
+nyasatimes_104,cholera,ORG
+nyasatimes_104,Bangula ADMARC Camp,PERSON
+nyasatimes_104,Isaac Falakeza,PERSON
+nyasatimes_104,Falakeza,ORG
+nyasatimes_110,Malawi,GPE
+nyasatimes_110,Tanzania,GPE
+nyasatimes_110,829,MONEY
+nyasatimes_110,Songwe River Basin,LOC
+nyasatimes_110,Malawi,ORG
+nyasatimes_110,Tanzania,GPE
+nyasatimes_110,$829 million,MONEY
+nyasatimes_110,Songwe River Basin Commission,LOC
+nyasatimes_110,Tanzanian,NORP
+nyasatimes_110,Keyla,GPE
+nyasatimes_110,Joseph Mwanamveka,PERSON
+nyasatimes_110,Tanzanian,NORP
+nyasatimes_110,Jumaah Aweso,PERSON
+nyasatimes_110,Joint Songwe River Commission,ORG
+nyasatimes_110,two,CARDINAL
+nyasatimes_110,the Songwe River Basin,LOC
+nyasatimes_110,the Songwe River Basin,LOC
+nyasatimes_110,two,CARDINAL
+nyasatimes_110,Songwe,GPE
+nyasatimes_110,180 megawatts,QUANTITY
+nyasatimes_110,Basin,LOC
+nyasatimes_110,two,CARDINAL
+nyasatimes_110,Hydro Project,ORG
+nyasatimes_110,two,CARDINAL
+nyasatimes_110,Songwe,GPE
+nyasatimes_110,Kasumulu,PERSON
+nyasatimes_110,Tanzanian,NORP
+nyasatimes_110,Jumaah Aweso,PERSON
+nyasatimes_110,Malawi,GPE
+nyasatimes_110,Tanzania,GPE
+nyasatimes_110,the Tanzanian Government,ORG
+nyasatimes_110,two,CARDINAL
+nyasatimes_110,“The Tanzanian Government,ORG
+nyasatimes_110,Malawi,ORG
+nyasatimes_110,Joint Songwe,ORG
+nyasatimes_110,River Basin Commission,ORG
+nyasatimes_110,one,CARDINAL
+nyasatimes_110,The Songwe River Basin Commission,ORG
+nyasatimes_110,829 million dollars,MONEY
+nyasatimes_110,first,ORDINAL
+nyasatimes_110,10 years,DATE
+nyasatimes_110,the African Development Bank,ORG
+nyasatimes_110,Mwanamveka,PRODUCT
+nyasatimes_110,Arthur Peter Mutharika,PERSON
+nyasatimes_110,Tanzanian,NORP
+nyasatimes_110,John Pombe,PERSON
+nyasatimes_110,Magufuli,PERSON
+nyasatimes_110,two,CARDINAL
+nyasatimes_138,Malawi,PERSON
+nyasatimes_138,Francis,PERSON
+nyasatimes_138,Roman Catholic Church,ORG
+nyasatimes_138,Francis,PERSON
+nyasatimes_138,15,CARDINAL
+nyasatimes_138,Monday,DATE
+nyasatimes_138,March 25, 2019,DATE
+nyasatimes_138,150,000,CARDINAL
+nyasatimes_138,Francis,PERSON
+nyasatimes_138,Malawi,GPE
+nyasatimes_138,Mozambique,NORP
+nyasatimes_138,Zimbabwe,GPE
+nyasatimes_138,Pope,PERSON
+nyasatimes_138,Idai,FAC
+nyasatimes_138,three,CARDINAL
+nyasatimes_138,the Episcopal Conference of,ORG
+nyasatimes_138,Malawi,PERSON
+nyasatimes_138,Sunday,DATE
+nyasatimes_138,the March 31, 2019,DATE
+nyasatimes_138,the Republic of South Africa,GPE
+nyasatimes_138,United Republic of Tanzania,GPE
+nyasatimes_138,the United Nations,ORG
+nyasatimes_138,60,CARDINAL
+nyasatimes_138,nearly 184,000,CARDINAL
+nyasatimes_138,Thyolo,GPE
+nyasatimes_138,Blantyre,PERSON
+nyasatimes_138,Zomba,PERSON
+nyasatimes_138,Mulanje,GPE
+nyasatimes_138,Phalombe,GPE
+nyasatimes_138,Mangochi,GPE
+nyasatimes_138,Chikwawa,GPE
+nyasatimes_138,Nsanje,ORG
+nyasatimes_138,Ntcheu,GPE
+nyasatimes_138,Dowa,GPE
+nyasatimes_4,UK,GPE
+nyasatimes_4,Shelter Box,PERSON
+nyasatimes_4,Habitat,ORG
+nyasatimes_4,K223,PERSON
+nyasatimes_4,Malawi,PERSON
+nyasatimes_4,United Kingdom,GPE
+nyasatimes_4,Shelter Box,PERSON
+nyasatimes_4,Habitat,ORG
+nyasatimes_4,Malawi,GPE
+nyasatimes_4,72 tonnes,QUANTITY
+nyasatimes_4,the Malawi Government,ORG
+nyasatimes_4,K223 million,CARDINAL
+nyasatimes_4,2000,CARDINAL
+nyasatimes_4,Chikwawa,PERSON
+nyasatimes_4,Mulanje,PERSON
+nyasatimes_4,Shelter Box,PERSON
+nyasatimes_4,United Kingdom,GPE
+nyasatimes_4,Habitat for Humanity International,ORG
+nyasatimes_4,two,CARDINAL
+nyasatimes_4,Homeland Security,ORG
+nyasatimes_4,Nicholas Dausi,PERSON
+nyasatimes_4,Shelter Box volunteer,PERSON
+nyasatimes_4,Elizabeth Odell,PERSON
+nyasatimes_4,Rotarians,NORP
+nyasatimes_4,Malawians,NORP
+nyasatimes_4,this week,DATE
+nyasatimes_4,Odell,PERSON
+nyasatimes_4,Habitat,ORG
+nyasatimes_4,Humanity Malawi,PERSON
+nyasatimes_4,Kelvin Kalonga,PERSON
+nyasatimes_4,Kalonga,GPE
+nyasatimes_4,Dausi,PERSON
+nyasatimes_4,60,CARDINAL
+nyasatimes_4,868,CARDINAL
+nyasatimes_4,895,CARDINAL
+nyasatimes_4,Dausi,PERSON
+nyasatimes_4,Malawi,GPE
+nyasatimes_4,2000,CARDINAL
+nyasatimes_4,Chikwawa,PERSON
+nyasatimes_4,Mulanje,PERSON
+nyasatimes_4,one,CARDINAL
+nyasatimes_4,one,CARDINAL
+nyasatimes_4,two,CARDINAL
+nyasatimes_4,two,CARDINAL
+nyasatimes_4,two,CARDINAL
+nyasatimes_4,two,CARDINAL
+nyasatimes_4,two,CARDINAL
+nyasatimes_4,one,CARDINAL
+nyasatimes_18,Press Corporation,ORG
+nyasatimes_18,K1,PERSON
+nyasatimes_18,Conglomerate Press Corporation,ORG
+nyasatimes_18,yesterday,DATE
+nyasatimes_18,Wednesday,DATE
+nyasatimes_18,K1 million,CARDINAL
+nyasatimes_18,the Rotary Club of Limbe,ORG
+nyasatimes_18,Blantyre,GPE
+nyasatimes_18,PCL,ORG
+nyasatimes_18,Chikondi Liabunya,PERSON
+nyasatimes_18,Rotary Club of Limbe,ORG
+nyasatimes_18,Malawians,NORP
+nyasatimes_18,Liabunya,PERSON
+nyasatimes_18,Rotary Club of Limbe,ORG
+nyasatimes_18,Rotary Club of Limbe,ORG
+nyasatimes_18,Eric Chinkanda,PERSON
+nyasatimes_18,PCL,ORG
+nyasatimes_18,PCL,ORG
+nyasatimes_18,Chinkanda,PERSON
+nyasatimes_18,56,CARDINAL
+nyasatimes_18,thousands,CARDINAL
+nyasatimes_18,Peter Mutharika,PERSON
+nyasatimes_18,Malawians,NORP
+malawi24_89,Blantyre Press Club,ORG
+malawi24_89,Malawi,ORG
+malawi24_89,Blantyre Press Club,ORG
+malawi24_89,Chikwawa,GPE
+malawi24_89,Malawi,ORG
+malawi24_89,the Black Missionaries,ORG
+malawi24_89,Mibawa,PERSON
+malawi24_89,Blantyre,PERSON
+malawi24_89,K1.2 million,CARDINAL
+malawi24_89,Wednesday, April 10,DATE
+malawi24_89,Chikwawa,LOC
+malawi24_89,15,CARDINAL
+malawi24_89,Blessings Kanache,PERSON
+malawi24_89,Nyamphota,PERSON
+malawi24_89,Turo,PERSON
+malawi24_89,Sekeni,NORP
+malawi24_89,over 2000,CARDINAL
+malawi24_89,Kanache,ORG
+malawi24_89,K1.2,GPE
+malawi24_89,K3.5 million,CARDINAL
+malawi24_89,Blantyre Press Club,ORG
+malawi24_89,1500-2000,CARDINAL
+malawi24_89,three,CARDINAL
+malawi24_89,Kanache,ORG
+malawi24_89,The Black Missionaries,ORG
+malawi24_89,BPC,LOC
+malawi24_89,Paul Simfukwe,PERSON
+malawi24_89,15000,CARDINAL
+malawi24_89,68000,CARDINAL
+times.mw_102,Met Department,ORG
+times.mw_102,Jameson Chauluka,PERSON
+times.mw_102,Malawi,PERSON
+times.mw_102,the next few days,DATE
+times.mw_102,the Southern Region,LOC
+times.mw_102,the Department of Climate Change and Meteorological Services,ORG
+times.mw_102,Mozambican,NORP
+times.mw_102,some 390 kilometers,QUANTITY
+times.mw_102,Southern,NORP
+times.mw_102,Malawi,GPE
+times.mw_102,Mozambique,NORP
+times.mw_102,Nsanje District,LOC
+times.mw_102,Monday,DATE
+times.mw_102,today,DATE
+times.mw_102,the Southern Region,LOC
+times.mw_102,14:00 hours,TIME
+times.mw_102,Monday January 21st,DATE
+times.mw_102,Mozambique,NORP
+times.mw_102,Southern Malawi,PERSON
+times.mw_102,21,CARDINAL
+times.mw_102,the last six months,DATE
+times.mw_102,Malawi,GPE
+times.mw_102,later this week,DATE
+times.mw_102,the Southern Region,LOC
+nyasatimes_31,Over 5000,CARDINAL
+nyasatimes_31,Over 5 000,CARDINAL
+nyasatimes_31,Chikwawa,PERSON
+nyasatimes_31,the past three months,DATE
+nyasatimes_31,Chikwawa Francis Kadzokota,PERSON
+nyasatimes_31,Kadzokota,GPE
+nyasatimes_31,60,CARDINAL
+nyasatimes_31,13,CARDINAL
+nyasatimes_31,K277 million,CARDINAL
+nyasatimes_31,Homeland Security,ORG
+nyasatimes_31,Nicholas Dausi,PERSON
+nyasatimes_31,Dausi,PERSON
+nyasatimes_31,Germany,GPE
+nyasatimes_31,only K7 billion,MONEY
+nyasatimes_31,barely a day,DATE
+nyasatimes_31,Village,PERSON
+nyasatimes_31,Machilika,PERSON
+nyasatimes_31,Ngabu,GPE
+nyasatimes_31,Chikwawa,ORG
+nyasatimes_31,Lusungu Nhlane,PERSON
+nyasatimes_31,next week,DATE
+nyasatimes_25,256,CARDINAL
+nyasatimes_25,Salima,GPE
+nyasatimes_25,60 hectares,QUANTITY
+nyasatimes_25,Ntchisi,GPE
+nyasatimes_25,About 256,CARDINAL
+nyasatimes_25,Ntauchila Village,GPE
+nyasatimes_25,Traditional Authority Pemba,ORG
+nyasatimes_25,Salima,GPE
+nyasatimes_25,Lifidzi River,LOC
+nyasatimes_25,Charles Sipaida,PERSON
+nyasatimes_25,around 4:00 pm Monday,TIME
+nyasatimes_25,Sipaida,ORG
+nyasatimes_25,Desk Officer,PERSON
+nyasatimes_25,Brino Kamanga,PERSON
+nyasatimes_25,Salima District Council,ORG
+nyasatimes_25,Tuesday,DATE
+nyasatimes_25,the Department of Disaster Management Affairs,ORG
+nyasatimes_25,Kamanga,ORG
+nyasatimes_25,Kamanga,ORG
+nyasatimes_25,Kamanga,ORG
+nyasatimes_25,Kamanga,ORG
+nyasatimes_25,115,CARDINAL
+nyasatimes_25,96,CARDINAL
+nyasatimes_25,five,CARDINAL
+nyasatimes_25,Traditional Authority Chilooko’s,ORG
+nyasatimes_25,Ntchisi,GPE
+nyasatimes_25,Bua River,GPE
+nyasatimes_25,Agricultural Extension Development Coordinator,ORG
+nyasatimes_25,Joseph Nanthambwe,PERSON
+nyasatimes_25,Sunday,DATE
+nyasatimes_25,Monday this week,DATE
+nyasatimes_25,186,CARDINAL
+nyasatimes_25,Group Village,ORG
+nyasatimes_25,Headman Njowe,PERSON
+nyasatimes_25,the Department of Disaster and Management Affairs,ORG
+malawi24_63,Zambia,GPE
+malawi24_63,Rwanda,GPE
+malawi24_63,Malawi,PERSON
+malawi24_63,Rwanda,GPE
+malawi24_63,Zambia,GPE
+malawi24_63,Thursday,DATE
+malawi24_63,K150 million,CARDINAL
+malawi24_63,K435 million,CARDINAL
+malawi24_63,Malawi,PERSON
+malawi24_63,Rwanda,GPE
+malawi24_63,Malawi,ORG
+malawi24_63,Monique Mukaruliza,PERSON
+malawi24_63,USD $200,000,MONEY
+malawi24_63,K150,PERSON
+malawi24_63,the Malawi Government,ORG
+malawi24_63,Thursday,DATE
+malawi24_63,Foreign Affairs and International Cooperation,ORG
+malawi24_63,Emmanuel Fabiano,PERSON
+malawi24_63,Rwandan,NORP
+malawi24_63,Zambia,GPE
+malawi24_63,Zambian,NORP
+malawi24_63,Sylvia Chalikosa,PERSON
+malawi24_63,Chalikosa,ORG
+malawi24_63,Zambian,NORP
+malawi24_63,Idai,FAC
+malawi24_63,Zambian,NORP
+malawi24_63,Mozambique,NORP
+malawi24_63,Zimbabwe,GPE
+malawi24_63,two,CARDINAL
+malawi24_63,Malawi,PERSON
+malawi24_63,Homeland Security Responsible for Disaster Management,ORG
+malawi24_63,Nicholas Dausi,PERSON
+malawi24_63,Zambian,NORP
+malawi24_63,Malawi,PERSON
+malawi24_63,Dausi,PERSON
+malawi24_63,Zambian,NORP
+malawi24_63,Malawi,ORG
+malawi24_63,John Ngwata Phiri,PERSON
+malawi24_63,Department of Disaster Management Affairs,ORG
+malawi24_63,Wilson Moleni,ORG
+malawi24_63,Idai,FAC
+malawi24_63,173,CARDINAL
+malawi24_63,Malawi,PERSON
+malawi24_63,last month,DATE
+malawi24_63,57,CARDINAL
+malawi24_63,thousands,CARDINAL
+malawi24_63,17,CARDINAL
+nyasatimes_19,Mutharika,GPE
+nyasatimes_19,Peter Mutharika,PERSON
+nyasatimes_19,Malata,ORG
+nyasatimes_19,Subsidy Programme,PERSON
+nyasatimes_19,10,CARDINAL
+nyasatimes_19,Thursday,DATE
+nyasatimes_19,Namatamba Primary School,ORG
+nyasatimes_19,Zomba,GPE
+nyasatimes_19,Malawi,PERSON
+nyasatimes_19,Malawians,NORP
+nyasatimes_19,Homeland Security,ORG
+nyasatimes_19,Nicholas Dausi,PERSON
+nyasatimes_19,Southern Region,LOC
+nyasatimes_19,Dausi,PERSON
+nyasatimes_19,Zomba District,LOC
+nyasatimes_19,54,CARDINAL
+nyasatimes_19,3,571,CARDINAL
+nyasatimes_19,the Department of Disaster Management Affairs,ORG
+nyasatimes_19,Tuesday, March 12, 2019,DATE
+nyasatimes_19,56,CARDINAL
+nyasatimes_19,577,CARDINAL
+nyasatimes_19,Three,CARDINAL
+nyasatimes_19,Zomba,PERSON
+nyasatimes_19,four,CARDINAL
+nyasatimes_19,Traditional Authority Chikowi,ORG
+nyasatimes_19,two,CARDINAL
+nyasatimes_19,Traditional Authority Malemia,ORG
+nyasatimes_19,Mutharika,PERSON
+nyasatimes_19,State,ORG
+nyasatimes_19,Balaka,ORG
+nyasatimes_19,Mangochi,GPE
+nyasatimes_19,Machinga,PERSON
+times.mw_30,Feston Malekezo,PERSON
+times.mw_30,the Southern Region,LOC
+times.mw_30,about one-third,CARDINAL
+times.mw_30,Malawi,ORG
+times.mw_30,Food and Agriculture Organisation’s,ORG
+times.mw_30,Monday,DATE
+times.mw_30,Malawi,ORG
+times.mw_30,about 3.3 million tonnes,QUANTITY
+times.mw_30,October,DATE
+times.mw_30,the Southern Region,LOC
+times.mw_30,over 900,000,CARDINAL
+times.mw_30,2019,DATE
+times.mw_30,the second half of March,DATE
+times.mw_30,2019,DATE
+times.mw_30,2018.“Following,CARDINAL
+times.mw_30,2018/19,CARDINAL
+times.mw_30,April and March,DATE
+times.mw_30,2019/20,CARDINAL
+times.mw_30,Fao,PERSON
+times.mw_30,the last quarter of 2018,DATE
+times.mw_30,January 2019,DATE
+times.mw_30,more than one-third,CARDINAL
+times.mw_30,year-earlier,DATE
+times.mw_30,2019,DATE
+times.mw_30,2019,DATE
+times.mw_30,late April,DATE
+times.mw_30,Hamilton Chimala,PERSON
+times.mw_30,Tuesday,DATE
+times.mw_30,Malawian,NORP
+times.mw_30,Peter Mutharika,PERSON
+times.mw_30,next week,DATE
+nyasatimes_5,Zambia,GPE
+nyasatimes_5,Rwanda,GPE
+nyasatimes_5,Malawi,ORG
+nyasatimes_5,Zambian,NORP
+nyasatimes_5,Rwanda,GPE
+nyasatimes_5,Malawi Government,ORG
+nyasatimes_5,Idai,PRODUCT
+nyasatimes_5,Zambia,GPE
+nyasatimes_5,US$580 000,MONEY
+nyasatimes_5,Rwanda,GPE
+nyasatimes_5,Thursday,DATE
+nyasatimes_5,US$200 000,MONEY
+nyasatimes_5,Malawi,ORG
+nyasatimes_5,Zambia,GPE
+nyasatimes_5,Sylvia Chalikosa,PERSON
+nyasatimes_5,Malawi,PERSON
+nyasatimes_5,Homeland Security Responsible for Disaster Management,ORG
+nyasatimes_5,Nicholas Dausi,PERSON
+nyasatimes_5,Thursday,DATE
+nyasatimes_5,Capital Hill,LOC
+nyasatimes_5,Lilongwe,GPE
+nyasatimes_5,Mozambique,NORP
+nyasatimes_5,Zimbabwe,GPE
+nyasatimes_5,two,CARDINAL
+nyasatimes_5,Dausi,PERSON
+nyasatimes_5,Zambian,NORP
+nyasatimes_5,Malawi,PERSON
+nyasatimes_5,Dausi,PERSON
+nyasatimes_5,Zambian,NORP
+nyasatimes_5,Malawi,ORG
+nyasatimes_5,John Ngwata Phiri,PERSON
+nyasatimes_5,Department of Disaster Management Affairs,ORG
+nyasatimes_5,Wilson Moleni,ORG
+nyasatimes_5,Idai,FAC
+nyasatimes_5,173,CARDINAL
+nyasatimes_5,Rwanda,GPE
+nyasatimes_5,Malawi,ORG
+nyasatimes_5,Monique Mukaruliza,PERSON
+nyasatimes_5,Emmanuel Fabiano,PERSON
+nyasatimes_5,Capital Hill,LOC
+nyasatimes_5,200,000,MONEY
+nyasatimes_5,Mukaruliza,PERSON
+nyasatimes_5,Fabiano,ORG
+nyasatimes_5,Rwandan,NORP
+nyasatimes_5,15,CARDINAL
+nyasatimes_5,25,MONEY
+nyasatimes_105,Tobacco Processors Association,ORG
+nyasatimes_105,four,CARDINAL
+nyasatimes_105,K43 million,CARDINAL
+nyasatimes_105,Chisi Island,LOC
+nyasatimes_105,Zomba,GPE
+nyasatimes_105,Limbe Leaf Tobacco Company Limited,(Limbe Leaf,ORG
+nyasatimes_105,Japan Tobacco International,ORG
+nyasatimes_105,JTI,ORG
+nyasatimes_105,Alliance One  and Premium Tobacco,ORG
+nyasatimes_105,United Kingdom,GPE
+nyasatimes_105,Imperial Tobacco,ORG
+nyasatimes_105,the Department of Disaster and Management Affairs,ORG
+nyasatimes_105,the Zomba Airwing Base,FAC
+nyasatimes_105,Thursday,DATE
+nyasatimes_105,TPA Febbie Chikungwa,ORG
+nyasatimes_105,Idai,FAC
+nyasatimes_105,early March,DATE
+nyasatimes_105,K44 million,PRODUCT
+nyasatimes_105,K43 million,CARDINAL
+nyasatimes_105,Chisi Island,LOC
+nyasatimes_105,Nicholas Dausi,PERSON
+nyasatimes_105,the Tobacco Processors Association,ORG
+nyasatimes_105,Tobacco processors Association,ORG
+nyasatimes_105,Dausi,PERSON
+nyasatimes_105,likuni phala,PERSON
+nyasatimes_105,Chisi Island,LOC
+nyasatimes_105,Malawi,PERSON
+nyasatimes_105,the Zomba Airwing Base,FAC
+nyasatimes_105,Dodma,ORG
+nyasatimes_105,the Chisi Island,LOC
+nyasatimes_56,FDH Bank,ORG
+nyasatimes_56,K13,ORG
+nyasatimes_56,FDH Bank,ORG
+nyasatimes_56,K13 million,LAW
+nyasatimes_56,56,CARDINAL
+nyasatimes_56,thousands,CARDINAL
+nyasatimes_56,last week,DATE
+nyasatimes_56,FDH Bank,ORG
+nyasatimes_56,Crispin Chikwama,PERSON
+nyasatimes_56,Blantyre,GPE
+nyasatimes_56,Monday,DATE
+nyasatimes_56,about a week ago,DATE
+nyasatimes_56,Chikwama,PERSON
+nyasatimes_56,Malawians,NORP
+nyasatimes_56,Malawian,NORP
+nyasatimes_56,Bank,ORG
+nyasatimes_56,K3 million,CARDINAL
+nyasatimes_56,Adventist Development and Relief Agency,ORG
+nyasatimes_56,ADRA,ORG
+nyasatimes_56,K3 million,CARDINAL
+nyasatimes_56,Chikwawa,PRODUCT
+nyasatimes_56,Nsanje,ORG
+nyasatimes_56,District Councils,ORG
+nyasatimes_56,Blantyre,PERSON
+nyasatimes_56,the Blantyre City Council,ORG
+nyasatimes_56,FDH Bank,ORG
+nyasatimes_56,Thursday,DATE
+nyasatimes_56,last week,DATE
+nyasatimes_56,K1,PERSON
+nyasatimes_56,Zomba District,LOC
+nyasatimes_56,Zomba City Council,ORG
+nyasatimes_56,the board of FDH Group,ORG
+nyasatimes_56,first,ORDINAL
+nyasatimes_56,FDH Bank,ORG
+nyasatimes_56,Chikwama,PERSON
+nyasatimes_56,ADRA,ORG
+nyasatimes_56,Hastings Lancha,PERSON
+nyasatimes_56,FDH Bank,ORG
+nyasatimes_56,K3 million,CARDINAL
+nyasatimes_56,ADRA,ORG
+nyasatimes_56,500,CARDINAL
+nyasatimes_56,Phalombe,GPE
+nyasatimes_56,Corporate Social Responsibility,ORG
+nyasatimes_56,ADRA,ORG
+nyasatimes_56,FDH Bank,ORG
+nyasatimes_56,Mosquito,PERSON
+nyasatimes_56,Soap,PERSON
+nyasatimes_56,500,CARDINAL
+nyasatimes_56,Lancha,ORG
+nyasatimes_56,Blantyre City Council Public Relations,ORG
+nyasatimes_56,Anthony Kasunda,PERSON
+nyasatimes_56,FDH Bank,ORG
+nyasatimes_95,Malawi,PERSON
+nyasatimes_95,the coming days,DATE
+nyasatimes_95,26,CARDINAL
+nyasatimes_95,11,CARDINAL
+nyasatimes_95,the Meteorological and Climate Change Department,ORG
+nyasatimes_95,March 13,DATE
+nyasatimes_95,Department of Disaster and Management (Dodma,ORG
+nyasatimes_95,29,CARDINAL
+nyasatimes_95,22,CARDINAL
+nyasatimes_95,000,CARDINAL
+nyasatimes_95,Nsanje,ORG
+nyasatimes_95,Dodma,PERSON
+nyasatimes_95,Blantyre,PERSON
+nyasatimes_95,Chikhwawa,GPE
+nyasatimes_95,Nsanje,GPE
+nyasatimes_95,Neno,GPE
+nyasatimes_95,Mwanza,ORG
+nyasatimes_95,Zomba,ORG
+nyasatimes_95,Peter Mutharika,PERSON
+nyasatimes_95,Democratic Progressive Party,ORG
+nyasatimes_95,DPP,ORG
+nyasatimes_95,tomorrow,DATE
+nyasatimes_43,Malawi,PERSON
+nyasatimes_43,Malawi,GPE
+nyasatimes_43,about a million,CARDINAL
+nyasatimes_43,56,CARDINAL
+nyasatimes_43,Between 1946 and 2013,DATE
+nyasatimes_43,48%,PERCENT
+nyasatimes_43,16,CARDINAL
+nyasatimes_43,28,CARDINAL
+nyasatimes_43,The Lower Shire Valley,ORG
+nyasatimes_43,Malawi,ORG
+nyasatimes_43,Mozambique,ORG
+nyasatimes_43,Chikwawa,PERSON
+nyasatimes_43,Nsanje Districts,PERSON
+nyasatimes_43,at least 1.7%,PERCENT
+nyasatimes_43,Malawi,ORG
+nyasatimes_43,annually,DATE
+nyasatimes_43,almost 1%,PERCENT
+nyasatimes_43,each year,DATE
+nyasatimes_43,One,CARDINAL
+nyasatimes_43,Malawi,GPE
+nyasatimes_43,first,ORDINAL
+nyasatimes_43,Phil,PERSON
+nyasatimes_43,Ken Westgate,PERSON
+nyasatimes_43,Ben Wisner,PERSON
+nyasatimes_43,Malawi,GPE
+nyasatimes_43,Malawi,PERSON
+nyasatimes_43,third,ORDINAL
+nyasatimes_43,About half,CARDINAL
+nyasatimes_43,Nsanje,ORG
+nyasatimes_43,80%,PERCENT
+nyasatimes_43,Malawians,NORP
+nyasatimes_43,2.67%,PERCENT
+nyasatimes_43,each year,DATE
+nyasatimes_43,Malawian,NORP
+nyasatimes_43,2015,DATE
+nyasatimes_43,One,CARDINAL
+nyasatimes_43,Malawi,PERSON
+nyasatimes_43,first,ORDINAL
+malawi24_13,First Capital Bank,ORG
+malawi24_13,K10 million,CARDINAL
+malawi24_13,thousands,CARDINAL
+malawi24_13,First Capital Bank Plc,ORG
+malawi24_13,K10 million,CARDINAL
+malawi24_13,initiativeFCB,ORG
+malawi24_13,La Caverna’s,ORG
+malawi24_13,Blue Buckets of Hope,WORK_OF_ART
+malawi24_13,Luchenza,ORG
+malawi24_13,Mulanje,PERSON
+malawi24_13,Chikwawa,PERSON
+malawi24_13,Blantyre,GPE
+malawi24_13,FCB Acting Chief Executive Officer,ORG
+malawi24_13,Thomas Kadantot,PERSON
+malawi24_13,Bank,ORG
+malawi24_13,millions,CARDINAL
+malawi24_13,Malawians,NORP
+malawi24_13,FCB,ORG
+malawi24_13,Kadantot,ORG
+malawi24_13,Kadantot,ORG
+malawi24_13,Malawians,NORP
+malawi24_13,Malawians,NORP
+malawi24_13,thousands,CARDINAL
+malawi24_13,Luchneza,GPE
+malawi24_13,Caverna Arts Gallery,ORG
+malawi24_13,Lois Losacco,PERSON
+malawi24_13,FCB,ORG
+malawi24_13,Community Based Organisations,ORG
+malawi24_13,Joshua,PERSON
+malawi24_13,more than 20 years,DATE
+malawi24_13,Losacco,ORG
+malawi24_13,Likuni,PERSON
+nyasatimes_41,UTM,ORG
+nyasatimes_41,Kaliati,GPE
+nyasatimes_41,Mulanje,GPE
+nyasatimes_41,UTM Party,ORG
+nyasatimes_41,Patricia Kaliati,PERSON
+nyasatimes_41,Mulanje,GPE
+nyasatimes_41,Kaliati,ORG
+nyasatimes_41,Parliament,ORG
+nyasatimes_41,West Constituency,GPE
+nyasatimes_41,Wednesday,DATE
+nyasatimes_41,Luwanga Primary School,ORG
+nyasatimes_41,Kaliati,GPE
+nyasatimes_41,Kaliati,ORG
+nyasatimes_41,Willard Matola,PERSON
+nyasatimes_41,Luwanga Primary School,ORG
+nyasatimes_41,Kaliati,GPE
+nyasatimes_41,Parliament,ORG
+nyasatimes_41,Matola,GPE
+nyasatimes_41,Kaliati,ORG
+nyasatimes_41,Malawi,PERSON
+nyasatimes_41,Africa,LOC
+nyasatimes_41,Mozambique,NORP
+nyasatimes_41,early march this year,DATE
+nyasatimes_69,The Department of Climate Change and Meteorological Services (DCCMS,ORG
+nyasatimes_69,Monday 18,DATE
+nyasatimes_69,the week days,DATE
+nyasatimes_69,Sunday,DATE
+nyasatimes_69,DCCMS,ORG
+nyasatimes_69,Inter-Tropical Convergence Zone,ORG
+nyasatimes_69,Friday,DATE
+nyasatimes_69,Nkhokwe,ORG
+nyasatimes_69,night and morning hours,TIME
+nyasatimes_69,Nkhokwe,ORG
+nyasatimes_69,Nkhokwe,ORG
+nyasatimes_69,DCCMS,ORG
+nyasatimes_69,the Indian Ocean,LOC
+nyasatimes_82,Christian Aid,PERSON
+nyasatimes_82,One,CARDINAL
+nyasatimes_82,Christian Aid,PERSON
+nyasatimes_82,Sunday,DATE
+nyasatimes_82,Soya,ORG
+nyasatimes_82,Likuni Phala,WORK_OF_ART
+nyasatimes_82,Kalima,PERSON
+nyasatimes_82,Medrum Camps,PERSON
+nyasatimes_82,Traditional Authorities (TA) Maseya and Mulilima,WORK_OF_ART
+nyasatimes_82,Chikwawa District,LOC
+nyasatimes_82,About 350,CARDINAL
+nyasatimes_82,Christian Aid Country,ORG
+nyasatimes_82,Malawi,ORG
+nyasatimes_82,Pansi Katenga,ORG
+nyasatimes_82,first,ORDINAL
+nyasatimes_82,Country,ORG
+nyasatimes_82,Katenga,ORG
+nyasatimes_82,Gender,ORG
+nyasatimes_82,Chikwawa District Council,ORG
+nyasatimes_82,Rita Sukasuka,PERSON
+nyasatimes_82,Christian Aid,PERSON
+nyasatimes_82,Likuni Phala,PERSON
+nyasatimes_82,six,CARDINAL
+nyasatimes_82,Group Village,FAC
+nyasatimes_82,Christian,NORP
+nyasatimes_82,Christian,NORP
+nyasatimes_82,Christian Aid,PERSON
+nyasatimes_82,1 million pounds,QUANTITY
+nyasatimes_82,approximately K965 million,MONEY
+nyasatimes_82,5,000,CARDINAL
+nyasatimes_82,25,000,CARDINAL
+nyasatimes_82,5,000,CARDINAL
+nyasatimes_97,Malawi,PERSON
+nyasatimes_97,Malawi,ORG
+nyasatimes_97,K17 billion,MONEY
+nyasatimes_97,Japan,GPE
+nyasatimes_97,Malawi,PERSON
+nyasatimes_97,$1 million,MONEY
+nyasatimes_97,the World Food Program,ORG
+nyasatimes_97,WFP,ORG
+nyasatimes_97,Italy,GPE
+nyasatimes_97,500,CARDINAL
+nyasatimes_97,WFP,ORG
+nyasatimes_97,the African Development Bank,ORG
+nyasatimes_97,Malawi,PERSON
+nyasatimes_97,Mathias Mugala,PERSON
+nyasatimes_97,$1.8 million,MONEY
+nyasatimes_97,Homeland Security,ORG
+nyasatimes_97,Nicholas Dausi,PERSON
+nyasatimes_97,Rumphi,GPE
+nyasatimes_97,three,CARDINAL
+nyasatimes_97,five,CARDINAL
+nyasatimes_97,nine,CARDINAL
+nyasatimes_97,Dausi,ORG
+nyasatimes_97,K277 million,CARDINAL
+nyasatimes_97,Dausi,PERSON
+nyasatimes_97,Germany,GPE
+nyasatimes_97,only K7 billion,MONEY
+nyasatimes_68,SAWA Group,ORG
+nyasatimes_68,SAWA Group,ORG
+nyasatimes_68,Friday,DATE
+nyasatimes_68,20 000,CARDINAL
+nyasatimes_68,last week,DATE
+nyasatimes_68,SAWA Group,ORG
+nyasatimes_68,Emmanuel Mwenda,PERSON
+nyasatimes_68,10 kilograms,QUANTITY
+nyasatimes_68,700,CARDINAL
+nyasatimes_68,Mwenda,GPE
+nyasatimes_68,Phalombe Davie Chibani,PERSON
+nyasatimes_68,SAWA Group,ORG
+nyasatimes_40,UTM,ORG
+nyasatimes_40,Kaliati,ORG
+nyasatimes_40,UTM Party,ORG
+nyasatimes_40,Friday,DATE
+nyasatimes_40,Lilongwe,GPE
+nyasatimes_40,UTM,ORG
+nyasatimes_40,Patricia Kaliati,PERSON
+nyasatimes_40,Joseph Chidanti Malunga,PERSON
+nyasatimes_40,Chidzanja Bridge,FAC
+nyasatimes_40,Lilongwe,PERSON
+nyasatimes_40,a few days ago,DATE
+nyasatimes_40,Malawians,NORP
+nyasatimes_40,first,ORDINAL
+nyasatimes_40,Esther Chipoja,PERSON
+nyasatimes_40,three,CARDINAL
+nyasatimes_40,UTM,ORG
+nyasatimes_40,UTM,ORG
+nyasatimes_40,Chipoja,PERSON
+nyasatimes_54,Malawi,ORG
+nyasatimes_54,Maize,PERSON
+nyasatimes_54,355 000 metric tonnes,QUANTITY
+nyasatimes_54,Malawi,PERSON
+nyasatimes_54,3555 000 metric tonnes,QUANTITY
+nyasatimes_54,MT,GPE
+nyasatimes_54,Lilongwe,GPE
+nyasatimes_54,Agriculture Irrigation and Water,ORG
+nyasatimes_54,Joseph Mwanamveka,PERSON
+nyasatimes_54,Malawi,PERSON
+nyasatimes_54,2,CARDINAL
+nyasatimes_54,Mwanamveka,PERSON
+nyasatimes_54,300 000 metric tonnes,QUANTITY
+nyasatimes_54,this year,DATE
+nyasatimes_54,first,ORDINAL
+nyasatimes_54,Malawi,ORG
+nyasatimes_54,3.3 million metric tonnes,QUANTITY
+nyasatimes_54,2018/19.The,DATE
+nyasatimes_54,2.6 million metric tonnes,QUANTITY
+nyasatimes_54,2017/18,CARDINAL
+nyasatimes_54,the Farm Input Subsidy Programme,ORG
+nyasatimes_54,recent years,DATE
+nyasatimes_54,Fisp,PERSON
+nyasatimes_54,900 000,CARDINAL
+nyasatimes_54,2017/18 to one million,CARDINAL
+nyasatimes_54,2018/19,CARDINAL
+nyasatimes_54,this season,DATE
+nyasatimes_54,last season,DATE
+nyasatimes_54,Malawi,PERSON
+nyasatimes_54,400-800mm,QUANTITY
+nyasatimes_54,Malawians,NORP
+nyasatimes_54,around a third,CARDINAL
+nyasatimes_54,65 percent,PERCENT
+nyasatimes_54,around 60 percent,PERCENT
+nyasatimes_54,Mwanamveka,PRODUCT
+nyasatimes_54,Malawi,PERSON
+nyasatimes_54,112 313 metric tonnes,QUANTITY
+nyasatimes_54,Malawi’s,ORG
+nyasatimes_54,17 percent,PERCENT
+nyasatimes_54,nine percent,PERCENT
+nyasatimes_54,one,CARDINAL
+nyasatimes_54,one,CARDINAL
+nyasatimes_54,Malawi,GPE
+nyasatimes_54,about 50 percent,PERCENT
+nyasatimes_54,decades,DATE
+nyasatimes_54,only 25 percent,PERCENT
+times.mw_96,this Friday,DATE
+times.mw_96,Shaker,PERSON
+times.mw_96,March 6 2019,DATE
+times.mw_96,16-kilometre,QUANTITY
+times.mw_96,Mchenga Primary School,ORG
+times.mw_96,Chikwawa District,LOC
+times.mw_96,Traditional Authority Makhuwira,ORG
+times.mw_96,Shire River,LOC
+times.mw_96,two,CARDINAL
+times.mw_96,the night,TIME
+times.mw_96,The next day,DATE
+times.mw_96,Group Village,GPE
+times.mw_96,Gumbala,GPE
+times.mw_96,Nsanje District,LOC
+times.mw_96,Shire,PERSON
+times.mw_96,March 9,DATE
+times.mw_96,1,500,CARDINAL
+times.mw_96,the day,DATE
+times.mw_96,Kapito Clemence,PERSON
+times.mw_96,daytime,TIME
+times.mw_96,one,CARDINAL
+times.mw_96,Clemence,ORG
+times.mw_96,2,000,CARDINAL
+times.mw_96,15,CARDINAL
+times.mw_96,Mchenga School,ORG
+times.mw_96,Khulubvi Primary School,ORG
+times.mw_96,Thondwe,GPE
+times.mw_96,Zomba,PERSON
+times.mw_96,Khulubvi Primary School Head,ORG
+times.mw_96,Luciano Chikalimba,PERSON
+times.mw_96,Chikalimba,ORG
+times.mw_96,Clemence,ORG
+times.mw_96,The Department of Disaster Management Affairs,ORG
+times.mw_96,173,CARDINAL
+times.mw_96,Civil Society Education Coalition Executive,ORG
+times.mw_96,Benedicto Kondowe,PERSON
+times.mw_96,Kondowe,PERSON
+times.mw_96,Kondowe,PERSON
+times.mw_96,Malawi,GPE
+times.mw_96,Kondowe,PERSON
+times.mw_96,Education,ORG
+times.mw_96,Science and Technology Ministry’s,ORG
+times.mw_96,Lindiwe Chide,ORG
+times.mw_96,Chide,ORG
+times.mw_96,Dodma,ORG
+times.mw_96,Chide,ORG
+times.mw_96,48,CARDINAL
+times.mw_96,Chide,ORG
+times.mw_96,Dodma,ORG
+times.mw_96,the Ministry of Education,ORG
+times.mw_96,Dodma Commissioner,ORG
+times.mw_96,Wilson Moleni,PERSON
+times.mw_96,Phalombe,PERSON
+times.mw_96,Mulanje,PERSON
+malawi24_117,Mudi River,LOC
+malawi24_117,19-year-old,DATE
+malawi24_117,Namiwawa Township,GPE
+malawi24_117,Blantyre,GPE
+malawi24_117,Thursday,DATE
+malawi24_117,afternoon,TIME
+malawi24_117,Mudi River,LOC
+malawi24_117,Blantyre,PERSON
+malawi24_117,Dorrah Chathyoka,PERSON
+malawi24_117,Jimmy Banda,PERSON
+malawi24_117,Tate Private Secondary School,ORG
+malawi24_117,Chathyoka,PERSON
+malawi24_117,Banda,PERSON
+malawi24_117,Thursday,DATE
+malawi24_117,afternoon,TIME
+malawi24_117,Mudi River,LOC
+malawi24_117,Banda,PERSON
+malawi24_117,two,CARDINAL
+malawi24_117,Banda,PERSON
+malawi24_117,Chilomoni,PERSON
+malawi24_117,Banda,PERSON
+malawi24_117,Friday,DATE
+malawi24_117,Queen Elizabeth Central Hospital,ORG
+malawi24_117,Jimmy Banda,PERSON
+malawi24_117,Manyowe,ORG
+malawi24_117,Traditional Authority,ORG
+malawi24_117,Kuntaja,GPE
+malawi24_117,Blantyre District,GPE
+malawi24_16,thousands,CARDINAL
+malawi24_16,a couple of days,DATE
+malawi24_16,a week ago,DATE
+malawi24_16,Malawi,ORG
+malawi24_16,At least 56,CARDINAL
+malawi24_16,the Department of Disaster Management Affairs,ORG
+malawi24_16,557,CARDINAL
+malawi24_16,184,589,CARDINAL
+malawi24_16,922,949,CARDINAL
+malawi24_16,Phalombe,GPE
+malawi24_16,1152,DATE
+malawi24_16,1341,DATE
+malawi24_16,8,CARDINAL
+malawi24_16,Phalombe,GPE
+malawi24_16,Rhoda Kimu,PERSON
+malawi24_16,Bona,GPE
+malawi24_16,Kimu,PERSON
+nyasatimes_44,4,CARDINAL
+nyasatimes_44,South Africa,GPE
+nyasatimes_44,Four,CARDINAL
+nyasatimes_44,Malawians,NORP
+nyasatimes_44,South Africa’s,GPE
+nyasatimes_44,the ministry of Foreign Affairs and International Cooperation Rejoice,ORG
+nyasatimes_44,Chaponda Shumba,PERSON
+nyasatimes_44,Kwazulu Natal,FAC
+nyasatimes_44,Malawians,NORP
+nyasatimes_44,South Africa,GPE
+nyasatimes_44,Malawi,ORG
+nyasatimes_44,South Africa,GPE
+nyasatimes_44,Malawians,NORP
+nyasatimes_44,Shumba,PERSON
+nyasatimes_44,Malawi,ORG
+nyasatimes_44,Malawi,PERSON
+nyasatimes_44,60,CARDINAL
+nyasatimes_44,South Africans,NORP
+nyasatimes_44,eight,CARDINAL
+nyasatimes_44,only one,CARDINAL
+nyasatimes_93,ECG Church,ORG
+nyasatimes_93,The Enlightened Christian Gathering,ORG
+nyasatimes_93,ECG,ORG
+nyasatimes_93,Malawi,GPE
+nyasatimes_93,Tuesday,DATE
+nyasatimes_93,over 150,CARDINAL
+nyasatimes_93,Dedza,GPE
+nyasatimes_93,ECG,ORG
+nyasatimes_93,Prophet Shepherd Bushiri,PERSON
+nyasatimes_93,Sunday,DATE
+nyasatimes_93,Malawi,GPE
+nyasatimes_93,Zimbabwe,GPE
+nyasatimes_93,Mozambique,NORP
+nyasatimes_93,About 150,CARDINAL
+nyasatimes_93,hundreds,CARDINAL
+nyasatimes_93,over 1.8 million,CARDINAL
+nyasatimes_93,Cyclone Idai,NORP
+nyasatimes_93,the Indian Ocean,LOC
+nyasatimes_93,ECG Malawi,ORG
+nyasatimes_93,Patror Ortis Bushiri,ORG
+nyasatimes_93,Malawi,ORG
+nyasatimes_93,Arthur Peter Mutharika,PERSON
+nyasatimes_93,respond’,GPE
+nyasatimes_93,150,CARDINAL
+nyasatimes_93,8000,CARDINAL
+nyasatimes_93,the ECG Church and,ORG
+nyasatimes_93,Prophet Shepherd Bushiri,PERSON
+nyasatimes_86,Chilima,GPE
+nyasatimes_86,Saulos Chilima,PERSON
+nyasatimes_86,UTM,ORG
+nyasatimes_86,the Shire Basin,LOC
+nyasatimes_86,Nsanje,GPE
+nyasatimes_86,UTM,ORG
+nyasatimes_86,RBL Engineers,ORG
+nyasatimes_86,February 2018,DATE
+nyasatimes_86,K290 million,CARDINAL
+nyasatimes_86,Chilima,ORG
+nyasatimes_86,Zomba Matiya,PERSON
+nyasatimes_86,MASAF,ORG
+nyasatimes_86,4,CARDINAL
+nyasatimes_86,Phalombe River,GPE
+nyasatimes_86,thousands,CARDINAL
+nyasatimes_86,Makina Village,GPE
+nyasatimes_86,million,CARDINAL
+nyasatimes_86,14,CARDINAL
+nyasatimes_86,Malawi,GPE
+nyasatimes_86,about 187,CARDINAL
+nyasatimes_86,Malawi,ORG
+nyasatimes_86,Red Cross,ORG
+nyasatimes_86,Save the Children,ORG
+nyasatimes_86,UN,ORG
+nyasatimes_86,MRA,ORG
+nyasatimes_86,South Africa,GPE
+nyasatimes_86,Tanzania,GPE
+nyasatimes_86,Chilima,GPE
+nyasatimes_86,Chilima,PERSON
+nyasatimes_86,Soche Hill,GPE
+nyasatimes_86,Blantyre,PERSON
+nyasatimes_86,Blantyre City Council,ORG
+nyasatimes_86,BCC,ORG
+nyasatimes_86,Chilima,GPE
+nyasatimes_86,BCC,ORG
+nyasatimes_86,DPP,ORG
+nyasatimes_86,BCC,ORG
+nyasatimes_92,Asian,NORP
+nyasatimes_92,Mangochi,GPE
+nyasatimes_92,Asian,NORP
+nyasatimes_92,Muslim,NORP
+nyasatimes_92,thousands,CARDINAL
+nyasatimes_92,Malawians,NORP
+nyasatimes_92,the past weeks,DATE
+nyasatimes_92,AMRA,ORG
+nyasatimes_92,Mangochi,GPE
+nyasatimes_92,Aamir Jakhura,PERSON
+nyasatimes_92,Nyasa Times,ORG
+nyasatimes_92,K72 million,CARDINAL
+nyasatimes_92,Malindi,ORG
+nyasatimes_92,Mangochi District,LOC
+nyasatimes_92,25kg,QUANTITY
+nyasatimes_92,Soya,ORG
+nyasatimes_92,Jakhura,PERSON
+nyasatimes_92,Chikwawa,LOC
+nyasatimes_92,Traditional Authority Chowe,ORG
+nyasatimes_92,Weeks ago,DATE
+nyasatimes_92,Mangochi District,LOC
+nyasatimes_92,Moses Chimphepo,PERSON
+nyasatimes_92,15,CARDINAL
+nyasatimes_92,600,CARDINAL
+nyasatimes_92,10 Traditional Authorities,ORG
+nyasatimes_92,four,CARDINAL
+nyasatimes_92,Makanjira Road,FAC
+nyasatimes_92,Malombe Road,FAC
+nyasatimes_92,TA Katuli,FAC
+nyasatimes_92,DC,GPE
+nyasatimes_92,six,CARDINAL
+nyasatimes_92,Malawi Red Cross Society,ORG
+nyasatimes_92,two,CARDINAL
+nyasatimes_45,World Vision,ORG
+nyasatimes_45,Neno,GPE
+nyasatimes_45,World Vision Malawi,ORG
+nyasatimes_45,first,ORDINAL
+nyasatimes_45,Neno,GPE
+nyasatimes_45,2 650,CARDINAL
+nyasatimes_45,Matope,LOC
+nyasatimes_45,10 kilograms,QUANTITY
+nyasatimes_45,10,CARDINAL
+nyasatimes_45,Thanking World Vision,ORG
+nyasatimes_45,Neno,ORG
+nyasatimes_45,Brighton Nthinga,PERSON
+nyasatimes_45,days,DATE
+nyasatimes_45,Malawi,GPE
+nyasatimes_45,Neno”,ORG
+nyasatimes_45,Development Committee,ORG
+nyasatimes_45,the Traditional Authority Symon,ORG
+nyasatimes_45,MargretNkhalamba,ORG
+nyasatimes_45,06th March,DATE
+nyasatimes_45,Over 436,000,CARDINAL
+nyasatimes_45,14,CARDINAL
+nyasatimes_45,Hazel Nyathi,PERSON
+nyasatimes_45,World Vision,ORG
+nyasatimes_45,winter,DATE
+nyasatimes_45,Malawi,PERSON
+nyasatimes_45,World Vision,ORG
+nyasatimes_45,winter,DATE
+nyasatimes_45,Nyathi,ORG
+nyasatimes_45,World Vision,ORG
+nyasatimes_45,February,DATE
+nyasatimes_45,first,ORDINAL
+nyasatimes_45,5,CARDINAL
+nyasatimes_45,Chikwawa,GPE
+nyasatimes_45,Child Friendly,ORG
+nyasatimes_45,250 kilograms,QUANTITY
+nyasatimes_45,HTH,ORG
+nyasatimes_45,the District Health Office,ORG
+nyasatimes_51,UNHCR,ORG
+nyasatimes_51,Malawi,PERSON
+nyasatimes_51,United Nation High Commission for Refugees,ORG
+nyasatimes_51,UNHCR,ORG
+nyasatimes_51,Malawi,PERSON
+nyasatimes_51,Tapsoba,GPE
+nyasatimes_51,Nsanje,GPE
+nyasatimes_51,UNHCR,ORG
+nyasatimes_51,a year,DATE
+nyasatimes_51,Mozambicans,NORP
+nyasatimes_51,Malawi,PERSON
+nyasatimes_51,Idai,ORG
+nyasatimes_51,Tapsoba,GPE
+nyasatimes_51,United Nations,ORG
+nyasatimes_51,Malawi,PERSON
+nyasatimes_51,UNHCR,ORG
+nyasatimes_79,Malawi,GPE
+nyasatimes_79,The Hindu Community of Blantyre,ORG
+nyasatimes_79,Shree Hindu Seva Mandal Blantyre,ORG
+nyasatimes_79,Phalombe,GPE
+nyasatimes_79,Hindus,NORP
+nyasatimes_79,million,CARDINAL
+nyasatimes_79,50,CARDINAL
+nyasatimes_79,Likuni,PERSON
+nyasatimes_79,Navinmhai,GPE
+nyasatimes_79,Patel,PERSON
+nyasatimes_79,first,ORDINAL
+nyasatimes_79,today,DATE
+nyasatimes_79,thousands,CARDINAL
+nyasatimes_79,a few days from now,DATE
+nyasatimes_79,Nsanje,ORG
+nyasatimes_79,Chikwawa,ORG
+nyasatimes_79,10,CARDINAL
+nyasatimes_79,Hindu,NORP
+nyasatimes_79,Malawi,GPE
+nyasatimes_79,the early 1800s,DATE
+nyasatimes_79,the Republic of Malawi,GPE
+nyasatimes_79,today,DATE
+nyasatimes_79,almost 2 weeks,DATE
+nyasatimes_79,first,ORDINAL
+nyasatimes_79,almost 2000,CARDINAL
+nyasatimes_79,Health and Social Services,ORG
+nyasatimes_79,DHO,ORG
+nyasatimes_79,Phalombe,GPE
+nyasatimes_79,Dave Chibani,PERSON
+nyasatimes_79,Phalombe,GPE
+nyasatimes_79,5000,CARDINAL
+nyasatimes_79,about 2,448,CARDINAL
+nyasatimes_79,the Hindu Community,ORG
+malawi24_106,US,GPE
+malawi24_106,The United States,GPE
+malawi24_106,Malawi,ORG
+malawi24_106,US$4.3 million,MONEY
+malawi24_106,about K3.1 billion,MONEY
+malawi24_106,Malawi,ORG
+malawi24_106,US,GPE
+malawi24_106,Malawi Virginia Palmer,ORG
+malawi24_106,Wednesday, 10th April,DATE
+malawi24_106,2019.Palmer,DATE
+malawi24_106,Malawi,GPE
+malawi24_106,Nsanje District,LOC
+malawi24_106,Bangula Admarc Camp,PERSON
+malawi24_106,US$4.3 million,MONEY
+malawi24_106,Palmer,PERSON
+malawi24_106,US,GPE
+malawi24_106,March,DATE
+malawi24_106,2019,DATE
+malawi24_106,over 89,000,CARDINAL
+malawi24_106,15,CARDINAL
+malawi24_106,60,CARDINAL
+malawi24_106,thousands,CARDINAL
+malawi24_106,Malawians,NORP
+malawi24_106,Nicholas Dausi,PERSON
+malawi24_106,the US Government,ORG
+malawi24_106,Dausi,PERSON
+mwnation_119,MET,ORG
+mwnation_119,The Nation Online,WORK_OF_ART
+mwnation_119,El Nino,GPE
+mwnation_119,this week,DATE
+mwnation_119,the Department of Climate Change and Meteorological Services,ORG
+mwnation_119,MET,ORG
+mwnation_119,Sunday,DATE
+mwnation_119,Jolamu Nkhokwe,PERSON
+mwnation_119,this week,DATE
+mwnation_119,Southern,NORP
+mwnation_119,Inter-Tropical Convergence Zone,ORG
+mwnation_119,Mwanza,ORG
+mwnation_119,Mangochi,GPE
+mwnation_119,Nsanje,ORG
+mwnation_119,Lilongwe,PERSON
+mwnation_119,the beginning of the year,DATE
+mwnation_119,El Nino,GPE
+mwnation_119,Department of Disaster
+Preparedness and Management Affairs (Dodma,ORG
+mwnation_119,the Ministry of Homeland
+Security,ORG
+mwnation_119,Chipiliro Khamula,PERSON
+mwnation_119,yesterday,DATE
+mwnation_119,Dodma,ORG
+mwnation_119,Ntcheu,GPE
+mwnation_119,Blantyre,ORG
+mwnation_119,Karonga,ORG
+mwnation_119,Dodma,ORG
+mwnation_119,Mangochi,GPE
+mwnation_119,Nsanje,GPE
+mwnation_119,Salima,GPE
+mwnation_119,Karonga,GPE
+mwnation_119,Chikwawa,ORG
+nyasatimes_47,South Africa,GPE
+nyasatimes_47,Malawians,NORP
+nyasatimes_47,South Africa,GPE
+nyasatimes_47,Africa,LOC
+nyasatimes_47,Malawian,NORP
+nyasatimes_47,Gloria Bamusi,PERSON
+nyasatimes_47,Malawian,NORP
+nyasatimes_47,Malawian,NORP
+nyasatimes_47,2015,DATE
+nyasatimes_47,Malawi Floods Team,ORG
+nyasatimes_47,Bamusi,PERSON
+nyasatimes_47,Malawians,NORP
+nyasatimes_47,March 8,DATE
+nyasatimes_47,Malawian,NORP
+nyasatimes_47,Peter Mutharika,PERSON
+nyasatimes_47,over 83,000,CARDINAL
+nyasatimes_47,about 56,CARDINAL
+nyasatimes_47,the Malawi Consulate General Office,FAC
+nyasatimes_47,Johannesburg,GPE
+nyasatimes_47,Saturday,DATE
+nyasatimes_47,Ceremonies George Chilonga,ORG
+nyasatimes_47,Malawians,NORP
+nyasatimes_47,over 56,CARDINAL
+nyasatimes_47,last month,DATE
+nyasatimes_47,2015,DATE
+nyasatimes_47,Malawi,PERSON
+nyasatimes_47,Malawi,PERSON
+nyasatimes_47,Malawians,NORP
+nyasatimes_47,Cyclone Idai,PRODUCT
+nyasatimes_47,thousands,CARDINAL
+nyasatimes_47,Bishop Jones Singing,PERSON
+nyasatimes_47,Taskforce,ORG
+nyasatimes_47,Consulate,ORG
+nyasatimes_53,Cyclone Kenneth,PERSON
+nyasatimes_53,Malawi,PERSON
+nyasatimes_53,the Department of Climate Change and Meteorological Services,ORG
+nyasatimes_53,Nyasa Times,ORG
+nyasatimes_53,Jolam Nkhokwe,PERSON
+nyasatimes_53,Climate Change and Meteorological Services,ORG
+nyasatimes_53,the Indian Ocean,LOC
+nyasatimes_53,1008,DATE
+nyasatimes_53,Indian Ocean,LOC
+nyasatimes_53,Madagascar,GPE
+nyasatimes_53,9.4 degrees,QUANTITY
+nyasatimes_53,50.3 degrees,QUANTITY
+nyasatimes_53,1874km,QUANTITY
+nyasatimes_53,Nkhata Bay,FAC
+nyasatimes_53,Tuesday 23 April, 2019,DATE
+nyasatimes_53,1004,CARDINAL
+nyasatimes_53,10.4 degrees,QUANTITY
+nyasatimes_53,48.4 degrees,QUANTITY
+nyasatimes_53,1670,DATE
+nyasatimes_53,Nkhata Bay,LOC
+nyasatimes_53,Nkhokwe,PERSON
+nyasatimes_53,Wednesday April 24,DATE
+nyasatimes_53,998,CARDINAL
+nyasatimes_53,10.8 degrees,QUANTITY
+nyasatimes_53,45.7 degrees,QUANTITY
+nyasatimes_53,1222,DATE
+nyasatimes_53,Nkhata Bay,LOC
+nyasatimes_53,Thursday,DATE
+nyasatimes_53,Nkhokwe,ORG
+nyasatimes_53,11.0 degrees,QUANTITY
+nyasatimes_53,41.3 degrees,QUANTITY
+nyasatimes_53,794km,QUANTITY
+nyasatimes_53,Nkhata Bay,LOC
+nyasatimes_53,996,CARDINAL
+nyasatimes_53,Friday,DATE
+nyasatimes_53,Tanzania,GPE
+nyasatimes_53,484km,QUANTITY
+nyasatimes_53,Nkhata Bay,LOC
+nyasatimes_53,Saturday,DATE
+nyasatimes_53,the Niassa Province,GPE
+nyasatimes_53,Mozambique,NORP
+nyasatimes_53,388km,QUANTITY
+nyasatimes_53,Nkhata Bay,LOC
+nyasatimes_53,Nkhokwe,PERSON
+nyasatimes_53,Wednesday,DATE
+nyasatimes_53,Tropical Cyclone Kenneth,ORG
+nyasatimes_53,Indian Ocean,LOC
+nyasatimes_53,Malawi,PERSON
+nyasatimes_53,Malawi,PERSON
+nyasatimes_53,Nkhokwe,ORG
+nyasatimes_53,Cyclone Idai,PRODUCT
+nyasatimes_53,African,NORP
+nyasatimes_53,late March,DATE
+nyasatimes_53,barely weeks,DATE
+nyasatimes_53,15,CARDINAL
+nyasatimes_53,60,CARDINAL
+malawi24_15,ESCOM,ORG
+malawi24_15,Supply Corporation,ORG
+malawi24_15,Malawi,PERSON
+malawi24_15,ESCOM,ORG
+malawi24_15,Malawians,NORP
+malawi24_15,the Southern Region,LOC
+malawi24_15,this week,DATE
+malawi24_15,ESCOM,ORG
+malawi24_15,Nkula,GPE
+malawi24_15,Kapichira Power Stations,ORG
+malawi24_15,ESCOM,ORG
+malawi24_15,Electricity Generation Company,ORG
+malawi24_15,yesterday,DATE
+malawi24_15,about 165MW,CARDINAL
+malawi24_15,161MW,CARDINAL
+malawi24_15,276MW.“To,CARDINAL
+malawi24_15,ESCOM,ORG
+malawi24_15,only 176MW,CARDINAL
+malawi24_15,ESCOM,ORG
+malawi24_15,2014 to 2018,DATE
+malawi24_15,Malawians,NORP
+malawi24_15,18 hours,TIME
+malawi24_15,the Shire River,LOC
+malawi24_15,Malawi,PERSON
+malawi24_15,December last year,DATE
+nyasatimes_84,Chiradzulu West Trust Fund,ORG
+nyasatimes_84,Malawi,GPE
+nyasatimes_84,last week,DATE
+nyasatimes_84,Trust Fund,ORG
+nyasatimes_84,Chiradzulu,ORG
+nyasatimes_84,hundred,CARDINAL
+nyasatimes_84,Wednesday,DATE
+nyasatimes_84,Evelyn Mwapasa,PERSON
+nyasatimes_84,the Trust Fund,ORG
+nyasatimes_84,thousands,CARDINAL
+nyasatimes_84,the Southern Region,LOC
+nyasatimes_84,’s Community Development Committee,ORG
+nyasatimes_84,CDC,ORG
+nyasatimes_84,CDC,ORG
+nyasatimes_84,Parliament,ORG
+nyasatimes_84,Emmanuel Fabiano,PERSON
+nyasatimes_84,the Trust Fund’s,ORG
+nyasatimes_84,Fabiano,PERSON
+nyasatimes_84,the Trust Fund’s,ORG
+nyasatimes_84,Chiradzulu West,ORG
+nyasatimes_84,Mwapasa,GPE
+nyasatimes_84,Malawi Air Cargo,ORG
+nyasatimes_84,Trustees,NORP
+nyasatimes_84,Sosten Chiotha,PERSON
+nyasatimes_84,LEAD,ORG
+nyasatimes_84,Zomba,GPE
+nyasatimes_84,Masauko Msungama,PERSON
+nyasatimes_84,Graham Chipande,PERSON
+nyasatimes_84,Blantyre,ORG
+nyasatimes_84,Mwachi Ltd Medson Kalambule,ORG
+nyasatimes_84,Lauren Meke Phiri,PERSON
+nyasatimes_84,Kalimba,PERSON
+nyasatimes_84,Chiradzulu,GPE
+nyasatimes_84,65,380,CARDINAL
+nyasatimes_84,Department of Disaster Management,ORG
+nyasatimes_84,the Trust Fund,ORG
+nyasatimes_84,100,CARDINAL
+nyasatimes_84,Mpama,PERSON
+nyasatimes_84,Trustee,ORG
+nyasatimes_84,Kalambule,ORG
+nyasatimes_84,the Trust Fund,ORG
+nyasatimes_84,Chiradzulu West,FAC
+nyasatimes_84,first,ORDINAL
+nyasatimes_84,Fabiano,PERSON
+nyasatimes_84,CDC,ORG
+nyasatimes_84,one year,DATE
+nyasatimes_84,their final year,DATE
+nyasatimes_84,this Trust Fund,ORG
+nyasatimes_84,One,CARDINAL
+nyasatimes_84,Fund,ORG
+nyasatimes_84,Youth Centre,FAC
+nyasatimes_84,Village Headman Kowela,PERSON
+nyasatimes_84,Group Village,ORG
+nyasatimes_84,Headman Ulaya,PERSON
+nyasatimes_90,Ntchisi,GPE
+nyasatimes_90,150,CARDINAL
+nyasatimes_90,About 150,CARDINAL
+nyasatimes_90,Saturday,DATE
+nyasatimes_90,Kanyenda Village,GPE
+nyasatimes_90,Traditional Authority,FAC
+nyasatimes_90,Ntchisi District,LOC
+nyasatimes_90,Two,CARDINAL
+nyasatimes_90,Ntchisi District Hospital,ORG
+nyasatimes_90,’s Village Civil Protection Committee,ORG
+nyasatimes_90,Olipa Moses,ORG
+nyasatimes_90,around 5 pm,TIME
+nyasatimes_90,Saturday,DATE
+nyasatimes_90,two,CARDINAL
+nyasatimes_90,Thauzeni Chinthu,ORG
+nyasatimes_90,Zione Sochi,GPE
+nyasatimes_90,Kanyenda Village,GPE
+nyasatimes_90,eight,CARDINAL
+nyasatimes_90,Kanyenda Primary School,ORG
+nyasatimes_90,one,CARDINAL
+nyasatimes_90,Kanyenda Community Day Secondary School (CDSS,ORG
+nyasatimes_90,Ntchisi District Education,ORG
+nyasatimes_90,Votie Mboweni,PERSON
+nyasatimes_90,Mboweni,PERSON
+nyasatimes_90,DEM,ORG
+nyasatimes_90,Kanyenda CDSS,FAC
+nyasatimes_90,the School Improvement Grant (SIG,ORG
+nyasatimes_90,Mboweni,PERSON
+nyasatimes_90,the Central East Education Division Office,ORG
+nyasatimes_90,the CDSS.Ntchisi,FAC
+nyasatimes_90,District Council,ORG
+nyasatimes_90,Andrew Lihoma,PERSON
+nyasatimes_90,the Department of Disaster and Management Affairs,ORG
+nyasatimes_85,Ma Blacks,PERSON
+nyasatimes_85,K1.2,GPE
+nyasatimes_85,Mibawa,GPE
+nyasatimes_85,Mibawa Hall,PERSON
+nyasatimes_85,Blantyre,GPE
+nyasatimes_85,Friday,DATE
+nyasatimes_85,Malawi,ORG
+nyasatimes_85,Black Missionaries,PERSON
+nyasatimes_85,Blantyre Press Club,ORG
+nyasatimes_85,the Black Missionaries,ORG
+nyasatimes_85,Anthony Makondetsa,PERSON
+nyasatimes_85,Blantyre Press Club,ORG
+nyasatimes_85,Blessings Kanache,PERSON
+nyasatimes_85,K1.2 million,CARDINAL
+nyasatimes_85,Malawians,NORP
+nyasatimes_85,Friday,DATE
+nyasatimes_85,night,TIME
+nyasatimes_85,Ma Blacks,PERSON
+nyasatimes_85,Anthony Makondetsa,PERSON
+nyasatimes_85,less than a week,DATE
+nyasatimes_85,Kanache,ORG
+nyasatimes_85,Kanache,ORG
+nyasatimes_85,K3 million,CARDINAL
+nyasatimes_85,Chikwawa,LOC
+nyasatimes_85,K2,PERSON
+nyasatimes_85,K3 million,CARDINAL
+nyasatimes_85,the weeks,DATE
+nyasatimes_85,the Black Missionaries,ORG
+nyasatimes_85,Anjiru Fumulani,PERSON
+nyasatimes_85,Blantyre Press Club,ORG
+nyasatimes_85,Mibawa,PERSON
+nyasatimes_85,Fumulani,PERSON
+nyasatimes_85,round 23:00 hours,TIME
+nyasatimes_85,10,CARDINAL
+nyasatimes_85,Ndagwira Mbendera,PERSON
+nyasatimes_85,Red Cross Malawi,ORG
+nyasatimes_85,Felix Washoni,PERSON
+nyasatimes_85,BPC,LOC
+nyasatimes_85,Black,GPE
+nyasatimes_85,around 12:00 midnight,TIME
+nyasatimes_85,around 4:00hours,DATE
+nyasatimes_85,Mibawa Television,ORG
+malawi24_14,three,CARDINAL
+malawi24_14,Ntcheu,GPE
+malawi24_14,38,DATE
+malawi24_14,two,CARDINAL
+malawi24_14,four,CARDINAL
+malawi24_14,Ntcheu,GPE
+malawi24_14,Ntcheu Police Public Relations,ORG
+malawi24_14,three,CARDINAL
+malawi24_14,one,CARDINAL
+malawi24_14,Tsangano-Proper,ORG
+malawi24_14,Chrisant Mkomazinja,PERSON
+malawi24_14,a hectic day,DATE
+malawi24_14,Malawi,ORG
+malawi24_14,around 0400 hours,TIME
+malawi24_14,Mr Chrisant Mkomazinja,PERSON
+malawi24_14,38,CARDINAL
+malawi24_14,two,CARDINAL
+malawi24_14,three (3,DATE
+malawi24_14,four,CARDINAL
+malawi24_14,4) years,DATE
+malawi24_14,Chigalu,PERSON
+malawi24_14,three,CARDINAL
+malawi24_14,Katsalambande,ORG
+malawi24_14,two,CARDINAL
+malawi24_14,Traditional Authority,ORG
+malawi24_14,Kwataine,PERSON
+nyasatimes_46,Hindus,NORP
+nyasatimes_46,K32 million,PERSON
+nyasatimes_46,The Shree Hindu Seva Mandal,ORG
+nyasatimes_46,100 tonnes,QUANTITY
+nyasatimes_46,K32,PERSON
+nyasatimes_46,3 300,CARDINAL
+nyasatimes_46,Nyachilenda,ORG
+nyasatimes_46,Bitilinyu Camps,ORG
+nyasatimes_46,Nsanje,NORP
+nyasatimes_46,Sunday,DATE
+nyasatimes_46,Shree Hindu Seva Mandal,ORG
+nyasatimes_46,Harish Kanabar,PERSON
+nyasatimes_46,25kg,QUANTITY
+nyasatimes_46,2,CARDINAL
+nyasatimes_46,Likuni Phala,PERSON
+nyasatimes_46,the next few months,DATE
+nyasatimes_46,Kanabar,PERSON
+nyasatimes_46,One,CARDINAL
+nyasatimes_46,Melia Thom,PERSON
+nyasatimes_46,Hindu,NORP
+nyasatimes_46,a few months,DATE
+nyasatimes_46,Department of Disaster and Management Affairs,ORG
+nyasatimes_46,Response and Recovery,ORG
+nyasatimes_46,Haris Kachale,PERSON
+nyasatimes_46,Hindu,NORP
+nyasatimes_46,Kachale,PERSON
+nyasatimes_46,three months,DATE
+nyasatimes_46,Hindu,NORP
+nyasatimes_46,Kachale.,ORG
+nyasatimes_46,Dodma,ORG
+nyasatimes_46,March 28 2019,DATE
+nyasatimes_46,Peter Mutharika,PERSON
+nyasatimes_46,State of National Disaster,ORG
+nyasatimes_46,March 8,DATE
+nyasatimes_46,about 868,CARDINAL
+nyasatimes_46,15,CARDINAL
+nyasatimes_46,86 980,CARDINAL
+nyasatimes_46,60,CARDINAL
+mwnation_118,1 200,CARDINAL
+mwnation_118,3,CARDINAL
+mwnation_118,The Nation Online,WORK_OF_ART
+mwnation_118,At least 1 206,CARDINAL
+mwnation_118,three,CARDINAL
+mwnation_118,Mafale 2 Camp,ORG
+mwnation_118,Grey Phazi,PERSON
+mwnation_118,Friday,DATE
+mwnation_118,Habitat,ORG
+mwnation_118,Humanity Malawi,PERSON
+mwnation_118,600,CARDINAL
+mwnation_118,Chikwawa,GPE
+mwnation_118,317,CARDINAL
+mwnation_118,cholera,ORG
+mwnation_118,Habitat,ORG
+mwnation_118,Humanity Malawi,ORG
+mwnation_118,Jallison Chaguluka,PERSON
+mwnation_118,840 000,CARDINAL
+mwnation_118,K18.7
+million,PERSON
+mwnation_118,Habitat,ORG
+mwnation_118,600,CARDINAL
+mwnation_118,today,DATE
+mwnation_118,Chikwawa,GPE
+mwnation_118,tarpaulin,GPE
+mwnation_118,One,CARDINAL
+mwnation_118,Mafale 2 Camp,ORG
+mwnation_118,Wotchi Mose,17,GPE
+mwnation_118,three,CARDINAL
+mwnation_118,Habitat,ORG
+mwnation_118,Humanity Malawi,PERSON
+mwnation_118,About 94 000,CARDINAL
+mwnation_118,week-long,DATE
+mwnation_118,two weeks ago,DATE
+mwnation_118,187,CARDINAL
+malawi24_111,Lilongwe,GPE
+malawi24_111,about three hours,TIME
+malawi24_111,Lilongwe,GPE
+malawi24_111,yesterday,DATE
+malawi24_111,Chipasula Bridge,PERSON
+malawi24_111,Kawale Bridge,FAC
+malawi24_111,Kawale,GPE
+malawi24_111,Department of Disaster Management Affairs,ORG
+malawi24_111,Lilongwe,PERSON
+malawi24_111,109,CARDINAL
+malawi24_111,approximately 600,CARDINAL
+malawi24_111,Kaliyeka Township,GPE
+malawi24_111,Biwi,ORG
+malawi24_111,Chipasula Mchesi,PERSON
+malawi24_111,Kawale,GPE
+malawi24_111,Lilongwe City,ORG
+malawi24_111,the Department Disaster Management Affairs,ORG
+malawi24_111,Homeland Security,ORG
+malawi24_111,Nicholas Dausi,PERSON
+malawi24_111,Friday,DATE

@@ -1,0 +1,357 @@
+doc_id,entity,label
+nyasatimes_8,Malawi VP Chilima,ORG
+nyasatimes_8,Saulos Klaus,PERSON
+nyasatimes_8,Disaster Management Affairs,ORG
+nyasatimes_8,Wednesday,DATE
+nyasatimes_8,Kasantha,GPE
+nyasatimes_8,Kaporo,GPE
+nyasatimes_8,Traditional Authority,ORG
+nyasatimes_8,Kilupula,PERSON
+nyasatimes_8,Karonga,GPE
+nyasatimes_8,Chilima,PERSON
+nyasatimes_8,Kilupula,PERSON
+nyasatimes_8,Karonga,GPE
+nyasatimes_8,today,DATE
+nyasatimes_8,Kilupula,PERSON
+nyasatimes_8,the Department of Disaster Management Affairs,ORG
+nyasatimes_8,Kilupula,PERSON
+nyasatimes_8,last week,DATE
+nyasatimes_8,Lufilya, Fwila and Kyungu,ORG
+nyasatimes_8,three,CARDINAL
+nyasatimes_8,three,CARDINAL
+nyasatimes_8,Mzuzu Central Hospital,ORG
+nyasatimes_9,260,CARDINAL
+nyasatimes_9,Blantyre,GPE
+nyasatimes_9,Blantyre Disaster Management Officer,ORG
+nyasatimes_9,Walusungu,ORG
+nyasatimes_9,Tuesday,DATE
+nyasatimes_9,about 260,CARDINAL
+nyasatimes_9,late last year,DATE
+nyasatimes_9,Mwafulirwa,ORG
+nyasatimes_9,between 24 and,DATE
+nyasatimes_9,29December, 2017,DATE
+nyasatimes_9,260,CARDINAL
+nyasatimes_9,Traditional Authority Somba,ORG
+nyasatimes_9,Kapeni,GPE
+nyasatimes_9,K3.2 million,CARDINAL
+nyasatimes_9,last year,DATE
+nyasatimes_9,260,CARDINAL
+nyasatimes_9,next week,DATE
+nyasatimes_9,Blantyre,PERSON
+nyasatimes_9,Malawians,NORP
+nyasatimes_9,Blantyre District,PERSON
+nyasatimes_9,K1.5 billion,MONEY
+nyasatimes_9,2017/2018,DATE
+nyasatimes_9,“This year alone,DATE
+nyasatimes_9,K728.3 million,CARDINAL
+nyasatimes_9,K566.4 million,PERSON
+nyasatimes_9,K20.3 million,CARDINAL
+nyasatimes_9,Mwafulirwa,ORG
+malawi24_6,Malawians,NORP
+malawi24_6,Malawi,GPE
+malawi24_6,Congo,GPE
+malawi24_6,Malawi,ORG
+malawi24_6,Malawi,ORG
+malawi24_6,Lilongwe,PERSON
+malawi24_6,Sunday,DATE
+malawi24_6,Lilongwe,PERSON
+malawi24_6,Mtandire Township,GPE
+malawi24_6,Saulos Chilima,PERSON
+malawi24_6,this afternoon,TIME
+malawi24_5,three,CARDINAL
+malawi24_5,Three,CARDINAL
+malawi24_5,Karonga,GPE
+malawi24_5,last week,DATE
+malawi24_5,the Department of Disaster Management Affairs,ORG
+malawi24_5,three,CARDINAL
+malawi24_5,818,CARDINAL
+malawi24_5,approximately 4499,CARDINAL
+malawi24_5,Three,CARDINAL
+malawi24_5,Wednesday,DATE
+malawi24_5,Saulos Klaus,PERSON
+malawi24_5,Malawi,PERSON
+malawi24_5,Arthur Peter Mutharika,PERSON
+malawi24_5,Chilima,GPE
+malawi24_5,the Karonga District Council,ORG
+malawi24_5,K100,DATE
+malawi24_5,000,CARDINAL
+malawi24_5,Chilima,GPE
+malawi24_5,Kasantha,PERSON
+malawi24_5,Kapolo,GPE
+malawi24_5,Changwina Bridge,FAC
+malawi24_5,Katumbi,PERSON
+malawi24_5,Mulindafwa Villages,PERSON
+malawi24_5,Kilipula,PERSON
+malawi24_5,Chilima,GPE
+malawi24_5,Karonga District Council,ORG
+malawi24_5,568,CARDINAL
+malawi24_5,Kilipula,PERSON
+malawi24_5,253,CARDINAL
+malawi24_5,35,CARDINAL
+malawi24_5,Four,CARDINAL
+malawi24_5,3570,DATE
+malawi24_5,Yalero,ORG
+malawi24_5,Mwenewisi,GPE
+malawi24_5,Kapolo,GPE
+malawi24_5,Kasantha Villages,GPE
+malawi24_5,The Department of Disaster Management Affairs,ORG
+malawi24_5,750,CARDINAL
+malawi24_5,818,CARDINAL
+nyasatimes_10,British,NORP
+nyasatimes_10,Chilima,LOC
+nyasatimes_10,Karonga,GPE
+nyasatimes_10,Saulos Chilima,PERSON
+nyasatimes_10,Disaster Management Affairs,ORG
+nyasatimes_10,British,NORP
+nyasatimes_10,Malawi Holly Tett,ORG
+nyasatimes_10,Tett,PERSON
+nyasatimes_10,Malawian,NORP
+nyasatimes_10,British,NORP
+nyasatimes_10,British High Commission,ORG
+nyasatimes_10,Lewis Kulisewa,PERSON
+nyasatimes_10,Consumer Welfare and Education,ORG
+nyasatimes_10,Twitter,PRODUCT
+nyasatimes_10,Stanley Onjezani Kenani,PERSON
+nyasatimes_10,British,NORP
+nyasatimes_10,Kenani,PERSON
+nyasatimes_10,British,NORP
+nyasatimes_10,Holly Tett,PERSON
+nyasatimes_10,”He,PERSON
+nyasatimes_10,two,CARDINAL
+nyasatimes_10,King of eSwatini,ORG
+nyasatimes_10,Swaziland,ORG
+nyasatimes_10,Kenani,PERSON
+nyasatimes_10,Britain,GPE
+nyasatimes_10,Britain,GPE
+nyasatimes_10,Chilima,GPE
+nyasatimes_10,Nkhotakota,GPE
+nyasatimes_10,Karonga,PERSON
+nyasatimes_10,Karonga North,PERSON
+nyasatimes_10,Chilima,GPE
+nyasatimes_10,750,CARDINAL
+nyasatimes_10,Kasantha,GPE
+nyasatimes_10,Kaporo,GPE
+nyasatimes_10,Traditional Authority,ORG
+nyasatimes_10,Monday,DATE
+nyasatimes_10,over 130,CARDINAL
+nyasatimes_10,Nkhotakota,GPE
+nyasatimes_10,Nkhata Bay,LOC
+nyasatimes_10,20,CARDINAL
+nyasatimes_10,45,CARDINAL
+nyasatimes_1,300,CARDINAL
+nyasatimes_1,Karonga,GPE
+nyasatimes_1,Traditional Authority,ORG
+nyasatimes_1,Karonga,GPE
+nyasatimes_1,Malawi,PERSON
+nyasatimes_1,Thursday,DATE
+nyasatimes_1,Karonga District,LOC
+nyasatimes_1,Richard Hara,PERSON
+nyasatimes_1,over three hundred,CARDINAL
+nyasatimes_1,Traditional Authority,ORG
+nyasatimes_1,Kyungu,ORG
+nyasatimes_1,Kilipula,PERSON
+nyasatimes_1,Hara,PERSON
+nyasatimes_1,150,CARDINAL
+nyasatimes_1,Hara,PERSON
+nyasatimes_1,cholera,ORG
+nyasatimes_1,Karonga,PERSON
+nyasatimes_1,Malawi,GPE
+nyasatimes_1,yearly,DATE
+nyasatimes_2,Anointed Ministry,ORG
+nyasatimes_2,New Life Anointed Ministry,ORG
+nyasatimes_2,New Life Anointed Ministry,ORG
+nyasatimes_2,Bishop Christopher Kapito,PERSON
+nyasatimes_2,Thursday,DATE
+nyasatimes_2,Phaloni Primary School,ORG
+nyasatimes_2,Traditional Authority Kaduya,GPE
+nyasatimes_2,New Life Anointed Ministry,ORG
+nyasatimes_2,French Ministries International,ORG
+nyasatimes_2,K700,PRODUCT
+nyasatimes_2,000.Kapito,ORG
+nyasatimes_2,Kapito,PERSON
+nyasatimes_2,Kapito,ORG
+nyasatimes_2,cholera,ORG
+nyasatimes_2,Saulos Chilima,PERSON
+nyasatimes_2,the Department of Disaster Management Affairs,ORG
+nyasatimes_2,a few days,DATE
+nyasatimes_2,more than 400,CARDINAL
+nyasatimes_2,Chilima,GPE
+nyasatimes_2,Disaster Affairs,ORG
+nyasatimes_2,Davie Chibani,PERSON
+nyasatimes_2,Kapito,ORG
+nyasatimes_2,daily,DATE
+nyasatimes_2,Chibani,PERSON
+nyasatimes_2,nine,CARDINAL
+nyasatimes_2,Traditional Authority Kaduya,FAC
+nyasatimes_2,Namphende River,LOC
+nyasatimes_2,over 290,CARDINAL
+nyasatimes_2,68,CARDINAL
+nyasatimes_3,Malawi VP,ORG
+nyasatimes_3,Nkhotakota,ORG
+nyasatimes_3,6500,CARDINAL
+nyasatimes_3,Tuesday,DATE
+nyasatimes_3,Nkhotakota,ORG
+nyasatimes_3,6500,CARDINAL
+nyasatimes_3,Chilima,ORG
+nyasatimes_3,Mkaika Primary School,ORG
+nyasatimes_3,Chia Junior Primary School,ORG
+nyasatimes_3,the year,DATE
+nyasatimes_3,Malawi Vulnerability Assessment Committee,ORG
+nyasatimes_3,MVAC,ORG
+nyasatimes_3,Peter Mutharika,PERSON
+nyasatimes_3,Nkhotakota,ORG
+nyasatimes_3,DC) Felix Mkandawire,ORG
+nyasatimes_3,1266,DATE
+nyasatimes_3,the Department of Disaster Management Affairs,ORG
+nyasatimes_3,Area Civil Protection Committees,ORG
+nyasatimes_3,Village Civil Protection Committees,ORG
+nyasatimes_3,Nkhotakota District Hospital,FAC
+nyasatimes_3,April 9 to 13, 2018,DATE
+nyasatimes_3,Mkaika,ORG
+nyasatimes_3,Dwambazi Primary,PERSON
+nyasatimes_7,Malawi,PERSON
+nyasatimes_7,Escom,ORG
+nyasatimes_7,Mzuzu,GPE
+nyasatimes_7,Dr Saulos Chilima,PERSON
+nyasatimes_7,Thursday,DATE
+nyasatimes_7,Kaning’ina,GPE
+nyasatimes_7,Katawa,GPE
+nyasatimes_7,Zolozolo,GPE
+nyasatimes_7,Electricity Supply Corporation,ORG
+nyasatimes_7,Malawi (Escom,ORG
+nyasatimes_7,Chilima,GPE
+nyasatimes_7,Thursday,DATE
+nyasatimes_7,Kaning’ina,GPE
+nyasatimes_7,Escom,ORG
+nyasatimes_7,Chilima,ORG
+nyasatimes_7,Chilima,GPE
+nyasatimes_7,Chilima,PERSON
+nyasatimes_7,Veep,ORG
+nyasatimes_7,Mzuzu City,GPE
+nyasatimes_7,Parliament,ORG
+nyasatimes_7,Leonard Njikho,PERSON
+nyasatimes_7,Lands,GPE
+nyasatimes_7,Malawi Housing,ORG
+nyasatimes_7,Njikho,ORG
+nyasatimes_7,three,CARDINAL
+nyasatimes_7,City Council,ORG
+nyasatimes_7,Lands Department,ORG
+nyasatimes_7,Malawi Housing Corporation,ORG
+nyasatimes_7,“For,CARDINAL
+nyasatimes_7,Lands Department,ORG
+nyasatimes_7,200,CARDINAL
+nyasatimes_7,10,CARDINAL
+nyasatimes_7,400,CARDINAL
+nyasatimes_7,200,CARDINAL
+nyasatimes_7,800,CARDINAL
+nyasatimes_7,Zolozolo,GPE
+nyasatimes_7,Chiputula,GPE
+nyasatimes_7,Chibanja,GPE
+nyasatimes_7,Chimaliro,GPE
+nyasatimes_7,Masasa,GPE
+nyasatimes_7,Msongwe,GPE
+nyasatimes_7,Mzilawayingwe,GPE
+nyasatimes_7,eight,CARDINAL
+nyasatimes_7,Northern Region Police Headquarters,LOC
+nyasatimes_4,Hailstorm,ORG
+nyasatimes_4,at least eight,CARDINAL
+nyasatimes_4,Malawi Police,ORG
+nyasatimes_4,Mzuzu,GPE
+nyasatimes_4,Tuesday,DATE
+nyasatimes_4,afternoon,TIME
+nyasatimes_4,about an hour,TIME
+nyasatimes_4,3:00 pm,TIME
+nyasatimes_4,Masasa,GPE
+nyasatimes_4,Katawa,GPE
+nyasatimes_4,One,CARDINAL
+nyasatimes_4,Sub Inspector,ORG
+nyasatimes_4,Daud Mhango,PERSON
+nyasatimes_4,Northern Region Police,LOC
+nyasatimes_4,Peter Kalaya,PERSON
+nyasatimes_4,four,CARDINAL
+nyasatimes_4,four,CARDINAL
+nyasatimes_4,Mzuzu City Council,ORG
+nyasatimes_4,Desk Officer,PERSON
+nyasatimes_4,Precious Mandala,PERSON
+nyasatimes_4,three,CARDINAL
+nyasatimes_4,Katawa Ward,GPE
+nyasatimes_4,Alexander Mwakikunga,PERSON
+nyasatimes_4,the city council,ORG
+nyasatimes_4,a week,DATE
+malawi24_11,Karonga,GPE
+malawi24_11,one,CARDINAL
+malawi24_11,Karonga,GPE
+malawi24_11,Wednesday,DATE
+malawi24_11,Richard Hara,PERSON
+malawi24_11,the morning hours,TIME
+malawi24_11,Group Village,GPE
+malawi24_11,Headman Mwenelupembe,PERSON
+malawi24_11,Traditional Authority Kyungu,ORG
+malawi24_11,Bwaye River,FAC
+malawi24_11,DC,GPE
+malawi24_11,Blessings Mwalwanda,PERSON
+malawi24_11,11,DATE
+malawi24_11,Mwenelupembe,PERSON
+malawi24_11,Traditional Authority Kyungu,ORG
+malawi24_11,Hara,PERSON
+malawi24_11,Parliament,ORG
+malawi24_11,Frank Mwenefumbo,PERSON
+malawi24_11,cholera,ORG
+malawi24_11,Karonga,PERSON
+malawi24_11,one,CARDINAL
+malawi24_11,Last year,DATE
+malawi24_11,thousands,CARDINAL
+malawi24_11,hundreds,CARDINAL
+malawi24_13,Two,CARDINAL
+malawi24_13,Two,CARDINAL
+malawi24_13,Ntchisi,GPE
+malawi24_13,Ntchisi,NORP
+malawi24_13,Gladson,PERSON
+malawi24_13,two,CARDINAL
+malawi24_13,Kafuta Mwanza,ORG
+malawi24_13,35,DATE
+malawi24_13,Alex Soko,PERSON
+malawi24_13,15.“Mwanza,CARDINAL
+malawi24_13,Kadyaidya,GPE
+malawi24_13,35 year old,DATE
+malawi24_13,Alex Soko,PERSON
+malawi24_13,Chobiza,ORG
+malawi24_13,Gomezani,GPE
+malawi24_13,Malenga,ORG
+malawi24_12,LL,ORG
+malawi24_12,Wednesday,DATE
+malawi24_12,Gateway Mall,FAC
+malawi24_12,Malawi,ORG
+malawi24_12,Lilongwe,GPE
+malawi24_12,Standard Bank of Malawi,ORG
+malawi24_12,Gateway Mall,FAC
+malawi24_12,today,DATE
+malawi24_12,Lilongwe Gateway Mall Service Centre,FAC
+malawi24_12,Wednesday 28thFebruary to Thursday 1st March 2018,DATE
+malawi24_12,Malawi24,GPE
+malawi24_14,250,CARDINAL
+malawi24_14,250,CARDINAL
+malawi24_14,16,CARDINAL
+malawi24_14,Dowa,GPE
+malawi24_14,24th December,DATE
+malawi24_14,last year,DATE
+malawi24_14,January this year,DATE
+malawi24_14,16,CARDINAL
+malawi24_14,27,CARDINAL
+malawi24_14,Traditional Authority,ORG
+malawi24_14,Malawi24,GPE
+malawi24_14,District Environmental Officer,ORG
+malawi24_14,Desk Officer,PERSON
+malawi24_14,Disaster Management Affairs,ORG
+malawi24_14,Yusuf Laki,PERSON
+malawi24_14,Ward Councilor,ORG
+malawi24_14,Msakambewa East,PERSON
+malawi24_14,Martin Luka Phiri,PERSON
+malawi24_14,Cholera,GPE
+malawi24_14,the middle of the night,DATE
+malawi24_14,One,CARDINAL
+malawi24_14,Chimwanza Wikisoni,PERSON
+malawi24_14,200Kgs,CARDINAL
+malawi24_14,Muyesakumva,ORG
+malawi24_14,Chikudzo, Mkaka, Chimphuno,ORG
+malawi24_14,Chimpoza,PERSON
