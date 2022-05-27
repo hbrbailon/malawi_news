@@ -1,6 +1,6 @@
 # Malawi Flood News
 
-Data & Analysis compendium for the Disaster Framing of Malawi Flood Events paper. This paper is a VU Research Masters Thesis in collaboration with 510 Netherlands Red Cross. 
+Data & Analysis compendium for the Disaster Framing of Malawi Flood Events paper. This paper is a Research Masters Thesis from the Vrije Universiteit Amsterdam in collaboration with 510 - Netherlands Red Cross and University of Amsterdam - Analytics for a Better World. 
 
 # Article
 To follow once the thesis is done
