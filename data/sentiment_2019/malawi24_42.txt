@@ -1,0 +1,3 @@
+polarity: -0.01395833333333335
+subjectivity: 0.37885416666666666
+assessments: [(['african'], 0.0, 0.0, None), (['african'], 0.0, 0.0, None), (['not', 'huge'], -0.20000000000000004, 0.9, None), (['other'], -0.125, 0.375, None), (['respectively'], 0.0, 0.1, None), (['seriously'], -0.3333333333333333, 0.6666666666666666, None), (['own'], 0.6, 1.0, None), (['good'], 0.7, 0.6000000000000001, None), (['various'], 0.0, 0.5, None), (['very', 'long'], -0.065, 0.52, None), (['really'], 0.2, 0.2, None), (['following'], 0.0, 0.1, None), (['devastating'], -1.0, 1.0, None), (['left'], 0.0, 0.0, None), (['following'], 0.0, 0.1, None), (['african'], 0.0, 0.0, None)]

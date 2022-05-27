@@ -1,0 +1,3 @@
+polarity: 0.05850840336134454
+subjectivity: 0.4079831932773109
+assessments: [(['limited'], -0.07142857142857142, 0.14285714285714285, None), (['major'], 0.0625, 0.5, None), (['limited'], -0.07142857142857142, 0.14285714285714285, None), (['worth'], 0.3, 0.1, None), (['general'], 0.05000000000000002, 0.5, None), (['following'], 0.0, 0.1, None), (['destroying'], -0.2, 0.0, None), (['negative'], -0.3, 0.4, None), (['significant'], 0.375, 0.875, None), (['private'], 0.0, 0.375, None), (['kind'], 0.6, 0.9, None), (['long'], -0.05, 0.4, None), (['heavy'], -0.2, 0.5, None), (['more'], 0.5, 0.5, None), (['especially'], 0.0, 1.0, None), (['southern'], 0.0, 0.0, None), (['numerous'], 0.0, 0.5, None)]

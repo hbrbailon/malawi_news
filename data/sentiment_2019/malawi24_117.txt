@@ -1,0 +1,3 @@
+polarity: -0.07678571428571426
+subjectivity: 0.22083333333333338
+assessments: [(['victim'], -0.07500000000000001, 0.05, None), (['private'], 0.0, 0.375, None), (['secondary'], -0.3, 0.3, None), (['following'], 0.0, 0.1, None), (['heavy'], -0.2, 0.5, None), (['cross'], 0.0, 0.0, None), (['missing'], -0.2, 0.05, None), (['missing'], -0.2, 0.05, None), (['dead'], -0.2, 0.4, None), (['central'], 0.0, 0.25, None), (['traditional'], 0.0, 0.75, None), (['public'], 0.0, 0.06666666666666667, None), (['cross'], 0.0, 0.0, None), (['sober'], 0.1, 0.2, None)]

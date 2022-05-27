@@ -1,0 +1,3 @@
+polarity: -0.020858585858585858
+subjectivity: 0.4603030303030303
+assessments: [(['other'], -0.125, 0.375, None), (['expected'], -0.1, 0.4, None), (['other'], -0.125, 0.375, None), (['natural'], 0.1, 0.4, None), (['global'], 0.0, 0.0, None), (['international'], 0.0, 0.0, None), (['quickly'], 0.3333333333333333, 0.5, None), (['quickly'], 0.3333333333333333, 0.5, None), (['starting'], 0.0, 0.1, None), (['various'], 0.0, 0.5, None), (['devastating'], -1.0, 1.0, None), (['huge'], 0.4000000000000001, 0.9, None), (['least'], -0.3, 0.4, None), (['especially'], 0.0, 1.0, None), (['new', '!'], 0.17045454545454544, 0.45454545454545453, None)]

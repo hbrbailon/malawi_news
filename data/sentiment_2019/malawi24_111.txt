@@ -1,0 +1,3 @@
+polarity: -0.10614478114478115
+subjectivity: 0.42180134680134684
+assessments: [(['heavy'], -0.2, 0.5, None), (['social'], 0.03333333333333333, 0.06666666666666667, None), (['due'], -0.125, 0.375, None), (['newly'], 0.13636363636363635, 0.45454545454545453, None), (['heavy'], -0.2, 0.5, None), (['various'], 0.0, 0.5, None), (['approximately'], -0.4, 0.6, None), (['expected'], -0.1, 0.4, None), (['expected'], -0.1, 0.4, None)]

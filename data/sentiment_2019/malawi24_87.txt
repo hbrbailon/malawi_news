@@ -1,0 +1,3 @@
+polarity: -0.04083333333333333
+subjectivity: 0.3408333333333333
+assessments: [(['least'], -0.3, 0.4, None), (['past'], -0.25, 0.25, None), (['following'], 0.0, 0.1, None), (['heavy'], -0.2, 0.5, None), (['deeply'], 0.0, 0.4, None), (['significant'], 0.375, 0.875, None), (['heavy'], -0.2, 0.5, None), (['subsequent'], 0.0, 0.05, None), (['several'], 0.0, 0.0, None), (['main'], 0.16666666666666666, 0.3333333333333333, None)]
