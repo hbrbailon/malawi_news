@@ -1,0 +1,3 @@
+polarity: 0.15320512820512822
+subjectivity: 0.2653846153846154
+assessments: [(['flat'], -0.025, 0.125, None), (['later'], 0.0, 0.0, None), (['same'], 0.0, 0.125, None), (['first'], 0.25, 0.3333333333333333, None), (['cow'], -0.13333333333333333, 0.16666666666666666, None), (['charitable'], 0.6, 0.8, None), (['politically'], 0.0, 0.1, None), (['cross'], 0.0, 0.0, None), (['cheap'], 0.4, 0.7, None), (['political'], 0.0, 0.1, None), (['propaganda'], -0.1, 0.1, None), (['such'], 0.0, 0.5, None), (['win', '!'], 1.0, 0.4, None)]

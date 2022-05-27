@@ -1,0 +1,3 @@
+polarity: -0.2431818181818182
+subjectivity: 0.45909090909090916
+assessments: [(['grief'], -0.8, 0.2, None), (['catholic'], 0.0, 0.1, None), (['grief'], -0.8, 0.2, None), (['massive'], 0.0, 1.0, None), (['great'], 0.8, 0.75, None), (['grief'], -0.8, 0.2, None), (['various'], 0.0, 0.5, None), (['grief'], -0.8, 0.2, None), (['worst'], -1.0, 1.0, None), (['nearly'], 0.1, 0.4, None), (['more', '!'], 0.625, 0.5, None)]

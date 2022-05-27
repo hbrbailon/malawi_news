@@ -1,0 +1,3 @@
+polarity: 0.10555555555555557
+subjectivity: 0.3777777777777777
+assessments: [(['busy'], 0.1, 0.3, None), (['killed'], -0.2, 0.0, None), (['traditional'], 0.0, 0.75, None), (['brave'], 0.8, 1.0, None), (['very'], 0.2, 0.3, None), (['heavy'], -0.2, 0.5, None), (['local'], 0.0, 0.0, None), (['international'], 0.0, 0.0, None), (['responsible', '!'], 0.25, 0.55, None)]

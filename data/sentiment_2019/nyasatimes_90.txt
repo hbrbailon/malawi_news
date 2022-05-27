@@ -1,0 +1,3 @@
+polarity: -0.018749999999999996
+subjectivity: 0.45162337662337665
+assessments: [(['traditional'], 0.0, 0.75, None), (['primary'], 0.4, 0.5, None), (['secondary'], -0.3, 0.3, None), (['negatively'], -0.3, 0.4, None), (['obviously'], 0.0, 0.5, None), (['psychologically'], 0.0, 0.1, None), (['physically'], 0.0, 0.14285714285714285, None), (['possible'], 0.0, 1.0, None), (['normal'], 0.15, 0.6499999999999999, None), (['central'], 0.0, 0.25, None), (['other', '!'], -0.15625, 0.375, None)]

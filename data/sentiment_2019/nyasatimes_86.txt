@@ -1,0 +1,3 @@
+polarity: -0.07942857142857143
+subjectivity: 0.26407142857142857
+assessments: [(['failed'], -0.5, 0.3, None), (['killed'], -0.2, 0.0, None), (['right'], 0.2857142857142857, 0.5357142857142857, None), (['killed'], -0.2, 0.0, None), (['high'], 0.16, 0.5399999999999999, None), (['cross'], 0.0, 0.0, None), (['foreign'], -0.125, 0.125, None), (['high'], 0.16, 0.5399999999999999, None), (['illegal'], -0.5, 0.5, None), (['action', '!'], 0.125, 0.1, None)]

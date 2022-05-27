@@ -1,0 +1,3 @@
+polarity: -0.047812499999999994
+subjectivity: 0.39125
+assessments: [(['asian'], 0.0, 0.0, None), (['asian'], 0.0, 0.0, None), (['devastating'], -1.0, 1.0, None), (['past'], -0.25, 0.25, None), (['various'], 0.0, 0.5, None), (['different'], 0.0, 0.6, None), (['worth'], 0.3, 0.1, None), (['heavy'], -0.2, 0.5, None), (['further'], 0.0, 0.5, None), (['further'], 0.0, 0.5, None), (['many'], 0.5, 0.5, None), (['heavy'], -0.2, 0.5, None), (['many'], 0.5, 0.5, None), (['heavy'], -0.2, 0.5, None), (['other'], -0.125, 0.375, None), (['traditional'], 0.0, 0.75, None), (['due'], -0.125, 0.375, None), (['red'], 0.0, 0.0, None), (['cross'], 0.0, 0.0, None), (['other', '!'], -0.15625, 0.375, None)]

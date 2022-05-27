@@ -1,0 +1,3 @@
+polarity: 0.0023437499999999986
+subjectivity: 0.4614583333333333
+assessments: [(['grand'], 0.5, 1.0, None), (['due'], -0.125, 0.375, None), (['last'], 0.0, 0.06666666666666667, None), (['killed'], -0.2, 0.0, None), (['sad'], -0.5, 1.0, None), (['winning'], 0.5, 0.75, None), (['same'], 0.0, 0.125, None), (['other', '!'], -0.15625, 0.375, None)]

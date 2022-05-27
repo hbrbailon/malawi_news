@@ -1,0 +1,3 @@
+polarity: -0.01750000000000001
+subjectivity: 0.36875
+assessments: [(['depressing'], -0.6, 0.9, None), (['killed'], -0.2, 0.0, None), (['completely'], 0.1, 0.4, None), (['african'], 0.0, 0.0, None), (['heavily'], -0.2, 0.5, None), (['expected'], -0.1, 0.4, None), (['other'], -0.125, 0.375, None), (['more'], 0.5, 0.5, None), (['confirmed'], 0.4, 1.0, None), (['killed'], -0.2, 0.0, None), (['missing'], -0.2, 0.05, None), (['catholic'], 0.0, 0.1, None), (['due'], -0.125, 0.375, None), (['due'], -0.125, 0.375, None), (['heavy'], -0.2, 0.5, None), (['total'], 0.0, 0.75, None), (['central'], 0.0, 0.25, None), (['southern'], 0.0, 0.0, None), (['completely'], 0.1, 0.4, None), (['most', '!'], 0.625, 0.5, None)]

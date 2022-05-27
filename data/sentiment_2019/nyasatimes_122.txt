@@ -1,0 +1,3 @@
+polarity: -0.0798611111111111
+subjectivity: 0.2916666666666667
+assessments: [(['rural'], 0.0, 0.0, None), (['back'], 0.0, 0.0, None), (['various'], 0.0, 0.5, None), (['other'], -0.125, 0.375, None), (['basic'], 0.0, 0.125, None), (['other'], -0.125, 0.375, None), (['little'], -0.1875, 0.5, None), (['other'], -0.125, 0.375, None), (['other', '!'], -0.15625, 0.375, None)]

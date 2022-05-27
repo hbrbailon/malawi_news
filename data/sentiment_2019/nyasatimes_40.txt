@@ -1,0 +1,3 @@
+polarity: 0.06944444444444443
+subjectivity: 0.36759259259259264
+assessments: [(['various'], 0.0, 0.5, None), (['general'], 0.05000000000000002, 0.5, None), (['other'], -0.125, 0.375, None), (['few'], -0.2, 0.1, None), (['first'], 0.25, 0.3333333333333333, None), (['wise'], 0.7, 0.9, None), (['long'], -0.05, 0.4, None), (['proper'], 0.0, 0.1, None), (['proper', '!'], 0.0, 0.1, None)]

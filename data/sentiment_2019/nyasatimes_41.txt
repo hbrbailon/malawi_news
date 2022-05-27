@@ -1,0 +1,3 @@
+polarity: 0.21574074074074076
+subjectivity: 0.514351851851852
+assessments: [(['general'], 0.05000000000000002, 0.5, None), (['primary'], 0.4, 0.5, None), (['recent'], 0.0, 0.25, None), (['primary'], 0.4, 0.5, None), (['other'], -0.125, 0.375, None), (['former'], 0.0, 0.0, None), (['back'], 0.0, 0.0, None), (['primary'], 0.4, 0.5, None), (['good'], 0.7, 0.6000000000000001, None), (['lucky'], 0.3333333333333333, 0.8333333333333334, None), (['experienced'], 0.8, 0.9, None), (['common'], -0.3, 0.5, None), (['good'], 0.7, 0.6000000000000001, None), (['own'], 0.6, 1.0, None), (['southern'], 0.0, 0.0, None), (['experienced'], 0.8, 0.9, None), (['worst'], -1.0, 1.0, None), (['early', '!'], 0.125, 0.3, None)]

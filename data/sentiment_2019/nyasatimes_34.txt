@@ -1,0 +1,3 @@
+polarity: 0.0946078431372549
+subjectivity: 0.4333333333333333
+assessments: [(['fails'], -0.5, 0.3, None), (['greatly'], 0.8, 0.75, None), (['forced'], -0.30000000000000004, 0.2, None), (['failed'], -0.5, 0.3, None), (['failed'], -0.5, 0.3, None), (['various'], 0.0, 0.5, None), (['many'], 0.5, 0.5, None), (['able'], 0.5, 0.625, None), (['able'], 0.5, 0.625, None), (['long'], -0.05, 0.4, None), (['further'], 0.0, 0.5, None), (['general'], 0.05000000000000002, 0.5, None), (['public'], 0.0, 0.06666666666666667, None), (['strongly'], 0.4333333333333333, 0.7333333333333333, None), (['general'], 0.05000000000000002, 0.5, None), (['public'], 0.0, 0.06666666666666667, None), (['more', '!'], 0.625, 0.5, None)]

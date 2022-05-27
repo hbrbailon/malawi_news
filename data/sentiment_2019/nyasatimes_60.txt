@@ -1,0 +1,3 @@
+polarity: -0.1300925925925926
+subjectivity: 0.5643518518518519
+assessments: [(['following'], 0.0, 0.1, None), (['devastating'], -1.0, 1.0, None), (['most'], 0.5, 0.5, None), (['love'], 0.5, 0.6, None), (['such'], 0.0, 0.5, None), (['other'], -0.125, 0.375, None), (['other'], -0.125, 0.375, None), (['very', 'bold'], 0.43333333333333335, 0.8666666666666667, None), (['other'], -0.125, 0.375, None), (['cutting'], -0.6, 0.9, None), (['such'], 0.0, 0.5, None), (['only'], 0.0, 1.0, None), (['better'], 0.5, 0.5, None), (['devastating'], -1.0, 1.0, None), (['least'], -0.3, 0.4, None), (['public'], 0.0, 0.06666666666666667, None), (['following'], 0.0, 0.1, None), (['devastating', '!'], -1.0, 1.0, None)]

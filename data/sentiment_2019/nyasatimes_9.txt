@@ -1,0 +1,3 @@
+polarity: -0.13098086124401914
+subjectivity: 0.35023923444976074
+assessments: [(['devastating'], -1.0, 1.0, None), (['british'], 0.0, 0.0, None), (['international'], 0.0, 0.0, None), (['deadly'], -0.2, 0.4, None), (['international'], 0.0, 0.0, None), (['available'], 0.4, 0.4, None), (['ready'], 0.2, 0.5, None), (['following'], 0.0, 0.1, None), (['deadly'], -0.2, 0.4, None), (['extreme'], -0.125, 1.0, None), (['shocking'], -1.0, 1.0, None), (['international'], 0.0, 0.0, None), (['firmly'], -0.2, 0.4, None), (['difficult'], -0.5, 1.0, None), (['new'], 0.13636363636363635, 0.45454545454545453, None), (['international'], 0.0, 0.0, None), (['red'], 0.0, 0.0, None), (['cross'], 0.0, 0.0, None), (['international', '!'], 0.0, 0.0, None)]

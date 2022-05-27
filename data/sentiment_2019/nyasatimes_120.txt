@@ -1,0 +1,3 @@
+polarity: 0.1017156862745098
+subjectivity: 0.3490196078431373
+assessments: [(['recent'], 0.0, 0.25, None), (['most'], 0.5, 0.5, None), (['good'], 0.7, 0.6000000000000001, None), (['corporate'], 0.0, 0.0, None), (['social'], 0.03333333333333333, 0.06666666666666667, None), (['such'], 0.0, 0.5, None), (['more'], 0.5, 0.5, None), (['corporate'], 0.0, 0.0, None), (['social'], 0.03333333333333333, 0.06666666666666667, None), (['economic'], 0.2, 0.2, None), (['little'], -0.1875, 0.5, None), (['more'], 0.5, 0.5, None), (['difficult'], -0.5, 1.0, None), (['whole'], 0.2, 0.4, None), (['other'], -0.125, 0.375, None), (['other'], -0.125, 0.375, None), (['starting', '!'], 0.0, 0.1, None)]

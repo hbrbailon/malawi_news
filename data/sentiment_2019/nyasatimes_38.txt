@@ -1,0 +1,3 @@
+polarity: 0.059722222222222246
+subjectivity: 0.3736111111111111
+assessments: [(['main'], 0.16666666666666666, 0.3333333333333333, None), (['left'], 0.0, 0.0, None), (['domestic'], 0.0, 0.1, None), (['such'], 0.0, 0.5, None), (['extensively'], 0.0, 0.3333333333333333, None), (['intense'], 0.2, 1.0, None), (['strong'], 0.4333333333333333, 0.7333333333333333, None), (['southern'], 0.0, 0.0, None), (['confirmed'], 0.4, 1.0, None), (['religiously'], 0.0, 0.25, None), (['forced'], -0.30000000000000004, 0.2, None), (['available'], 0.4, 0.4, None), (['heavy'], -0.2, 0.5, None), (['deep'], 0.0, 0.4, None), (['low'], 0.0, 0.3, None), (['initially', 'developed'], 0.1, 0.3, None), (['due'], -0.125, 0.375, None), (['southern', '!'], 0.0, 0.0, None)]

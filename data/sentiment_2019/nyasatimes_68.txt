@@ -1,0 +1,3 @@
+polarity: -0.00208333333333334
+subjectivity: 0.3712962962962963
+assessments: [(['firm'], -0.2, 0.4, None), (['last'], 0.0, 0.06666666666666667, None), (['firm'], -0.2, 0.4, None), (['other'], -0.125, 0.375, None), (['firm'], -0.2, 0.4, None), (['not', 'enough'], -0.0, 0.5, None), (['sure'], 0.5, 0.8888888888888888, None), (['back'], 0.0, 0.0, None), (['very'], 0.2, 0.3, None), (['most'], 0.5, 0.5, None), (['vulnerable'], -0.5, 0.5, None), (['basic', '!'], 0.0, 0.125, None)]

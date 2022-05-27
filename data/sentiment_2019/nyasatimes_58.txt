@@ -1,0 +1,3 @@
+polarity: -0.023529411764705882
+subjectivity: 0.3166666666666667
+assessments: [(['central'], 0.0, 0.25, None), (['various'], 0.0, 0.5, None), (['worth'], 0.3, 0.1, None), (['recent'], 0.0, 0.25, None), (['recent'], 0.0, 0.25, None), (['heavy'], -0.2, 0.5, None), (['missing'], -0.2, 0.05, None), (['total'], 0.0, 0.75, None), (['formerly'], 0.0, 0.0, None), (['other'], -0.125, 0.375, None), (['local'], 0.0, 0.0, None), (['enough'], 0.0, 0.5, None), (['least'], -0.3, 0.4, None), (['other'], -0.125, 0.375, None), (['first'], 0.25, 0.3333333333333333, None), (['traditional'], 0.0, 0.75, None), (['back', '!'], 0.0, 0.0, None)]

@@ -1,0 +1,3 @@
+polarity: 0.10230263157894737
+subjectivity: 0.4350877192982456
+assessments: [(['action'], 0.1, 0.1, None), (['first'], 0.25, 0.3333333333333333, None), (['other'], -0.125, 0.375, None), (['appealing'], 0.5, 0.5, None), (['other'], -0.125, 0.375, None), (['traditional'], 0.0, 0.75, None), (['further'], 0.0, 0.5, None), (['other'], -0.125, 0.375, None), (['further'], 0.0, 0.5, None), (['most'], 0.5, 0.5, None), (['left'], 0.0, 0.0, None), (['foreign'], -0.125, 0.125, None), (['future'], 0.0, 0.125, None), (['further'], 0.0, 0.5, None), (['significant'], 0.375, 0.875, None), (['fragile'], 0.0, 0.5, None), (['especially'], 0.0, 1.0, None), (['first'], 0.25, 0.3333333333333333, None), (['friendly', '!'], 0.46875, 0.5, None)]
