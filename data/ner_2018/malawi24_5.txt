@@ -1,0 +1,39 @@
+three CARDINAL
+Three CARDINAL
+Karonga GPE
+last week DATE
+the Department of Disaster Management Affairs ORG
+three CARDINAL
+818 CARDINAL
+approximately 4499 CARDINAL
+Three CARDINAL
+Wednesday DATE
+Saulos Klaus PERSON
+Malawi PERSON
+Arthur Peter Mutharika PERSON
+Chilima GPE
+the Karonga District Council ORG
+K100 DATE
+000 CARDINAL
+Chilima GPE
+Kasantha PERSON
+Kapolo GPE
+Changwina Bridge FAC
+Katumbi PERSON
+Mulindafwa Villages PERSON
+Kilipula PERSON
+Chilima GPE
+Karonga District Council ORG
+568 CARDINAL
+Kilipula PERSON
+253 CARDINAL
+35 CARDINAL
+Four CARDINAL
+3570 DATE
+Yalero ORG
+Mwenewisi GPE
+Kapolo GPE
+Kasantha Villages GPE
+The Department of Disaster Management Affairs ORG
+750 CARDINAL
+818 CARDINAL

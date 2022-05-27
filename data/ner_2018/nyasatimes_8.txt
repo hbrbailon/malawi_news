@@ -1,0 +1,21 @@
+Malawi VP Chilima ORG
+Saulos Klaus PERSON
+Disaster Management Affairs ORG
+Wednesday DATE
+Kasantha GPE
+Kaporo GPE
+Traditional Authority ORG
+Kilupula PERSON
+Karonga GPE
+Chilima PERSON
+Kilupula PERSON
+Karonga GPE
+today DATE
+Kilupula PERSON
+the Department of Disaster Management Affairs ORG
+Kilupula PERSON
+last week DATE
+Lufilya, Fwila and Kyungu ORG
+three CARDINAL
+three CARDINAL
+Mzuzu Central Hospital ORG

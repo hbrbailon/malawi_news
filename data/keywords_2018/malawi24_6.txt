@@ -1,0 +1,10 @@
+floods
+flash
+country
+malawi
+department
+city
+lilongwe
+households
+malawians
+meteorological

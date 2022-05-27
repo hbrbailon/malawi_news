@@ -1,0 +1,11 @@
+LL ORG
+Wednesday DATE
+Gateway Mall FAC
+Malawi ORG
+Lilongwe GPE
+Standard Bank of Malawi ORG
+Gateway Mall FAC
+today DATE
+Lilongwe Gateway Mall Service Centre FAC
+Wednesday 28thFebruary to Thursday 1st March 2018 DATE
+Malawi24 GPE

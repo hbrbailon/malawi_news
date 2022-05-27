@@ -1,0 +1,24 @@
+Karonga GPE
+one CARDINAL
+Karonga GPE
+Wednesday DATE
+Richard Hara PERSON
+the morning hours TIME
+Group Village GPE
+Headman Mwenelupembe PERSON
+Traditional Authority Kyungu ORG
+Bwaye River FAC
+DC GPE
+Blessings Mwalwanda PERSON
+11 DATE
+Mwenelupembe PERSON
+Traditional Authority Kyungu ORG
+Hara PERSON
+Parliament ORG
+Frank Mwenefumbo PERSON
+cholera ORG
+Karonga PERSON
+one CARDINAL
+Last year DATE
+thousands CARDINAL
+hundreds CARDINAL

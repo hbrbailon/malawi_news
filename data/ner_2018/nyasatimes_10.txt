@@ -1,0 +1,41 @@
+British NORP
+Chilima LOC
+Karonga GPE
+Saulos Chilima PERSON
+Disaster Management Affairs ORG
+British NORP
+Malawi Holly Tett ORG
+Tett PERSON
+Malawian NORP
+British NORP
+British High Commission ORG
+Lewis Kulisewa PERSON
+Consumer Welfare and Education ORG
+Twitter PRODUCT
+Stanley Onjezani Kenani PERSON
+British NORP
+Kenani PERSON
+British NORP
+Holly Tett PERSON
+”He PERSON
+two CARDINAL
+King of eSwatini ORG
+Swaziland ORG
+Kenani PERSON
+Britain GPE
+Britain GPE
+Chilima GPE
+Nkhotakota GPE
+Karonga PERSON
+Karonga North PERSON
+Chilima GPE
+750 CARDINAL
+Kasantha GPE
+Kaporo GPE
+Traditional Authority ORG
+Monday DATE
+over 130 CARDINAL
+Nkhotakota GPE
+Nkhata Bay LOC
+20 CARDINAL
+45 CARDINAL

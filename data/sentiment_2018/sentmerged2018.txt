@@ -1,0 +1,54 @@
+doc_id: malawi24_5.txt
+polarity: 0.08095238095238096
+subjectivity: 0.2785714285714286
+assessments: [(['following'], 0.0, 0.1, None), (['last'], 0.0, 0.06666666666666667, None), (['following'], 0.0, 0.1, None), (['killed'], -0.2, 0.0, None), (['approximately'], -0.4, 0.6, None), (['medical'], 0.0, 0.0, None), (['back'], 0.0, 0.0, None), (['deeply'], 0.0, 0.4, None), (['much'], 0.2, 0.2, None), (['adequate'], 0.3333333333333333, 0.3333333333333333, None), (['various'], 0.0, 0.5, None), (['heroic'], 0.7, 0.9, None), (['love'], 0.5, 0.6, None), (['respectively'], 0.0, 0.1, None)]
+
+doc_id: malawi24_6.txt
+polarity: -0.08645833333333333
+subjectivity: 0.24270833333333336
+assessments: [(['expected'], -0.1, 0.4, None), (['due'], -0.125, 0.375, None), (['half'], -0.16666666666666666, 0.16666666666666666, None), (['southern'], 0.0, 0.0, None), (['following'], 0.0, 0.1, None), (['heavy'], -0.2, 0.5, None), (['several'], 0.0, 0.0, None), (['expected'], -0.1, 0.4, None)]
+
+doc_id: malawi24_11.txt
+polarity: -0.04253246753246753
+subjectivity: 0.2464285714285714
+assessments: [(['heavy'], -0.2, 0.5, None), (['heavy'], -0.2, 0.5, None), (['outside'], 0.0, 0.05, None), (['standard'], 0.0, 0.0, None), (['limited'], -0.07142857142857142, 0.14285714285714285, None), (['starting'], 0.0, 0.1, None), (['due'], -0.125, 0.375, None), (['heavy'], -0.2, 0.5, None), (['limited'], -0.07142857142857142, 0.14285714285714285, None), (['digital'], 0.0, 0.0, None), (['available'], 0.4, 0.4, None)]
+
+doc_id: malawi24_12.txt
+polarity: 0.014814814814814805
+subjectivity: 0.3666666666666667
+assessments: [(['killed'], -0.2, 0.0, None), (['traditional'], 0.0, 0.75, None), (['following'], 0.0, 0.1, None), (['heavy'], -0.2, 0.5, None), (['natural'], 0.1, 0.4, None), (['traditional'], 0.0, 0.75, None), (['strong'], 0.4333333333333333, 0.7333333333333333, None), (['upper'], 0.0, 0.0, None), (['last'], 0.0, 0.06666666666666667, None)]
+
+doc_id: malawi24_13.txt
+polarity: -0.014583333333333332
+subjectivity: 0.3065277777777778
+assessments: [(['public'], 0.0, 0.06666666666666667, None), (['aged'], -0.1, 0.4, None), (['aged'], -0.1, 0.4, None), (['cross'], 0.0, 0.0, None), (['very', 'deep'], 0.0, 0.52, None), (['old'], 0.1, 0.2, None), (['other'], -0.125, 0.375, None), (['cross'], 0.0, 0.0, None), (['traditional'], 0.0, 0.75, None), (['general'], 0.05000000000000002, 0.5, None), (['public'], 0.0, 0.06666666666666667, None), (['similar'], 0.0, 0.4, None)]
+
+doc_id: nyasatimes_1.txt
+polarity: 0.05982142857142857
+subjectivity: 0.45535714285714285
+assessments: [(['missing'], -0.2, 0.05, None), (['due'], -0.125, 0.375, None), (['traditional'], 0.0, 0.75, None), (['missing'], -0.2, 0.05, None), (['due'], -0.125, 0.375, None), (['heavy'], -0.2, 0.5, None), (['most'], 0.5, 0.5, None), (['traditional'], 0.0, 0.75, None), (['currently'], 0.0, 0.4, None), (['appealing'], 0.5, 0.5, None), (['other'], -0.125, 0.375, None), (['only'], 0.0, 1.0, None), (['appealing'], 0.5, 0.5, None), (['exact', '!'], 0.3125, 0.25, None)]
+
+doc_id: nyasatimes_2.txt
+polarity: 0.015237757034632031
+subjectivity: 0.42535849567099565
+assessments: [(['new'], 0.13636363636363635, 0.45454545454545453, None), (['local'], 0.0, 0.0, None), (['normal'], 0.15, 0.6499999999999999, None), (['new'], 0.13636363636363635, 0.45454545454545453, None), (['such'], 0.0, 0.5, None), (['currently'], 0.0, 0.4, None), (['primary'], 0.4, 0.5, None), (['traditional'], 0.0, 0.75, None), (['french'], 0.0, 0.0, None), (['international'], 0.0, 0.0, None), (['other'], -0.125, 0.375, None), (['dry'], -0.06666666666666665, 0.6, None), (['right'], 0.2857142857142857, 0.5357142857142857, None), (['less'], -0.16666666666666666, 0.06666666666666667, None), (['more'], 0.5, 0.5, None), (['negative'], -0.3, 0.4, None), (['long'], -0.05, 0.4, None), (['little'], -0.1875, 0.5, None), (['normal'], 0.15, 0.6499999999999999, None), (['not', 'only'], -0.0, 1.0, None), (['such'], 0.0, 0.5, None), (['difficult'], -0.5, 1.0, None), (['few'], -0.2, 0.1, None), (['more'], 0.5, 0.5, None), (['responsible'], 0.2, 0.55, None), (['other'], -0.125, 0.375, None), (['necessarily'], 0.0, 1.0, None), (['external'], 0.0, 0.1, None), (['back'], 0.0, 0.0, None), (['daily'], 0.0, 0.0, None), (['traditional'], 0.0, 0.75, None), (['subsequently', 'destroying', '!'], -0.25, 0.0, None)]
+
+doc_id: nyasatimes_3.txt
+polarity: 0.13114942528735632
+subjectivity: 0.48869731800766286
+assessments: [(['responsible'], 0.2, 0.55, None), (['heavy'], -0.2, 0.5, None), (['strong'], 0.4333333333333333, 0.7333333333333333, None), (['left'], 0.0, 0.0, None), (['primary'], 0.4, 0.5, None), (['primary'], 0.4, 0.5, None), (['enough'], 0.0, 0.5, None), (['ready'], 0.2, 0.5, None), (['vulnerable'], -0.5, 0.5, None), (['sure'], 0.5, 0.8888888888888888, None), (['responsible'], 0.2, 0.55, None), (['only'], 0.0, 1.0, None), (['more'], 0.5, 0.5, None), (['such'], 0.0, 0.5, None), (['vulnerable'], -0.5, 0.5, None), (['free'], 0.4, 0.8, None), (['same'], 0.0, 0.125, None), (['very', 'huge'], 0.5200000000000001, 1.0, None), (['expected'], -0.1, 0.4, None), (['traditional'], 0.0, 0.75, None), (['other'], -0.125, 0.375, None), (['due'], -0.125, 0.375, None), (['vital'], 0.1, 0.4, None), (['next'], 0.0, 0.0, None), (['big'], 0.0, 0.1, None), (['most'], 0.5, 0.5, None), (['same'], 0.0, 0.125, None), (['most'], 0.5, 0.5, None), (['primary', '!'], 0.5, 0.5, None)]
+
+doc_id: nyasatimes_4.txt
+polarity: -0.08416666666666667
+subjectivity: 0.3416666666666666
+assessments: [(['least'], -0.3, 0.4, None), (['other'], -0.125, 0.375, None), (['heavy'], -0.2, 0.5, None), (['heavily'], -0.2, 0.5, None), (['other'], -0.125, 0.375, None), (['forced'], -0.30000000000000004, 0.2, None), (['outside'], 0.0, 0.05, None), (['heavy'], -0.2, 0.5, None), (['several'], 0.0, 0.0, None), (['outside'], 0.0, 0.05, None), (['heavily'], -0.2, 0.5, None), (['other'], -0.125, 0.375, None), (['minor'], -0.05, 0.2, None), (['precious'], 0.5, 1.0, None), (['barely', '!'], 0.0625, 0.1, None)]
+
+doc_id: nyasatimes_8.txt
+polarity: -0.029398148148148156
+subjectivity: 0.39814814814814814
+assessments: [(['responsible'], 0.2, 0.55, None), (['traditional'], 0.0, 0.75, None), (['recently'], 0.0, 0.25, None), (['cutting'], -0.6, 0.9, None), (['down'], -0.15555555555555559, 0.2888888888888889, None), (['carelessly'], -0.5, 0.9, None), (['such'], 0.0, 0.5, None), (['real'], 0.2, 0.30000000000000004, None), (['supporting'], 0.25, 0.25, None), (['other'], -0.125, 0.375, None), (['basic'], 0.0, 0.125, None), (['responsible'], 0.2, 0.55, None), (['long'], -0.05, 0.4, None), (['not', 'only'], -0.0, 1.0, None), (['other'], -0.125, 0.375, None), (['equally'], 0.0, 0.25, None), (['really'], 0.2, 0.2, None), (['traditional'], 0.0, 0.75, None), (['last'], 0.0, 0.06666666666666667, None), (['same'], 0.0, 0.125, None), (['trapped'], -0.2, 0.0, None), (['currently'], 0.0, 0.4, None), (['medical'], 0.0, 0.0, None), (['central', '!'], 0.0, 0.25, None)]
+
+doc_id: nyasatimes_10.txt
+polarity: 0.08628205128205128
+subjectivity: 0.3921367521367521
+assessments: [(['british'], 0.0, 0.0, None), (['victim'], -0.07500000000000001, 0.05, None), (['mixed'], 0.0, 0.25, None), (['victim'], -0.07500000000000001, 0.05, None), (['responsible'], 0.2, 0.55, None), (['other'], -0.125, 0.375, None), (['other'], -0.125, 0.375, None), (['social'], 0.03333333333333333, 0.06666666666666667, None), (['mixed'], 0.0, 0.25, None), (['high'], 0.16, 0.5399999999999999, None), (['victim'], -0.07500000000000001, 0.05, None), (['wrong'], -0.5, 0.9, None), (['traditional'], 0.0, 0.75, None), (['thanks'], 0.2, 0.2, None), (['smile'], 0.3, 0.1, None), (['social'], 0.03333333333333333, 0.06666666666666667, None), (['british'], 0.0, 0.0, None), (['traditional'], 0.0, 0.75, None), (['such'], 0.0, 0.5, None), (['british'], 0.0, 0.0, None), (['high'], 0.16, 0.5399999999999999, None), (['fair'], 0.7, 0.9, None), (['more'], 0.5, 0.5, None), (['superior'], 0.7, 0.9, None), (['other'], -0.125, 0.375, None), (['other'], -0.125, 0.375, None), (['brief'], 0.0, 0.3333333333333333, None), (['social'], 0.03333333333333333, 0.06666666666666667, None), (['british'], 0.0, 0.0, None), (['british'], 0.0, 0.0, None), (['high'], 0.16, 0.5399999999999999, None), (['traditional'], 0.0, 0.75, None), (['such'], 0.0, 0.5, None), (['better'], 0.5, 0.5, None), (['high'], 0.16, 0.5399999999999999, None), (['latest'], 0.5, 0.9, None), (['more'], 0.5, 0.5, None), (['traditional'], 0.0, 0.75, None), (['heavy', '!'], -0.25, 0.5, None)]

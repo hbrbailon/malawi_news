@@ -1,0 +1,11 @@
+Malawians NORP
+Malawi GPE
+Congo GPE
+Malawi ORG
+Malawi ORG
+Lilongwe PERSON
+Sunday DATE
+Lilongwe PERSON
+Mtandire Township GPE
+Saulos Chilima PERSON
+this afternoon TIME

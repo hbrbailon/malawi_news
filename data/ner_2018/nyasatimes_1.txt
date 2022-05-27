@@ -1,0 +1,19 @@
+300 CARDINAL
+Karonga GPE
+Traditional Authority ORG
+Karonga GPE
+Malawi PERSON
+Thursday DATE
+Karonga District LOC
+Richard Hara PERSON
+over three hundred CARDINAL
+Traditional Authority ORG
+Kyungu ORG
+Kilipula PERSON
+Hara PERSON
+150 CARDINAL
+Hara PERSON
+cholera ORG
+Karonga PERSON
+Malawi GPE
+yearly DATE
