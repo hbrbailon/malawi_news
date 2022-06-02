@@ -13,7 +13,7 @@ The main analysis code is located in the [code](https://github.com/hbrbailon/mal
 * [Sentiment Analysis](https://github.com/hbrbailon/malawi_news/blob/main/code/sentiment.ipynb) from spaCy textblob
 
 # Data and Analysis
-The data used in this paper is in [data](https://github.com/hbrbailon/malawi_news/tree/main/data). The csv versions of the data are also in one folder which makes it easier for uploads in the analysis. Analysis was done using R and all relevant codes can be found in [analysis] (https://github.com/hbrbailon/malawi_news/tree/main/analysis). Please see the methods section of the article for details on how these files were retrieved and constructed. 
+The data used in this paper is in [data](https://github.com/hbrbailon/malawi_news/tree/main/data). The csv versions of the data are also in one folder which makes it easier for uploads in the analysis. Analysis was done using R and all relevant codes can be found in [analysis](https://github.com/hbrbailon/malawi_news/tree/main/analysis). Please see the methods section of the article for details on how these files were retrieved and constructed. 
 
 
 
