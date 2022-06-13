@@ -1,0 +1,10 @@
+twarc2 search --start-time 2018-01-01 --end-time 2018-05-01 429392740  NyasaTimess2018.jsonl
+twarc2 search --start-time 2019-01-01 --end-time 2019-05-01 429392740  NyasaTimess2019.jsonl
+twarc2 search --start-time 2018-01-01 --end-time 2018-05-01 449663977  zodiakonline2018.jsonl
+twarc2 search --start-time 2019-01-01 --end-time 2019-05-01 449663977  zodiakonline2019.jsonl
+twarc2 search --start-time 2018-01-01 --end-time 2018-05-01 196079682  NationOnlineMw2018.jsonl
+twarc2 search --start-time 2019-01-01 --end-time 2019-05-01 196079682  NationOnlineMw2019.jsonl
+twarc2 search --start-time 2018-01-01 --end-time 2018-05-01 304896649  Times360Malawi2018.jsonl
+twarc2 search --start-time 2019-01-01 --end-time 2019-05-01 304896649  Times360Malawi2019.jsonl
+twarc2 search --start-time 2018-01-01 --end-time 2018-05-01 1960264604  Malawi242018.jsonl
+twarc2 search --start-time 2019-01-01 --end-time 2019-05-01 1960264604  Malawi242019.jsonl
